@@ -1,5 +1,5 @@
 ---
-title: "The real reason you cant change"
+title: "The real reason you can't change"
 date: 2025-02-12T15:44:43+02:00
 draft: false
 category: "Video"

@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on Casa de JuJu</title>
-    <link>http://localhost:43219/category/</link>
+    <link>http://localhost:44999/category/</link>
     <description>Recent content in Category on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 30 Apr 2025 11:23:04 +0200</lastBuildDate><atom:link href="http://localhost:43219/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2025 11:23:04 +0200</lastBuildDate><atom:link href="http://localhost:44999/category/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Listen</title>
-      <link>http://localhost:43219/category/listen/</link>
+      <link>http://localhost:44999/category/listen/</link>
       <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/listen/</guid>
+      <guid>http://localhost:44999/category/listen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Quote</title>
-      <link>http://localhost:43219/category/quote/</link>
+      <link>http://localhost:44999/category/quote/</link>
       <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/quote/</guid>
+      <guid>http://localhost:44999/category/quote/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Note</title>
-      <link>http://localhost:43219/category/note/</link>
+      <link>http://localhost:44999/category/note/</link>
       <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/note/</guid>
+      <guid>http://localhost:44999/category/note/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://localhost:43219/category/music/</link>
+      <link>http://localhost:44999/category/music/</link>
       <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/music/</guid>
+      <guid>http://localhost:44999/category/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Repost</title>
-      <link>http://localhost:43219/category/repost/</link>
+      <link>http://localhost:44999/category/repost/</link>
       <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/repost/</guid>
+      <guid>http://localhost:44999/category/repost/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Like</title>
-      <link>http://localhost:43219/category/like/</link>
+      <link>http://localhost:44999/category/like/</link>
       <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/like/</guid>
+      <guid>http://localhost:44999/category/like/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Video</title>
-      <link>http://localhost:43219/category/video/</link>
+      <link>http://localhost:44999/category/video/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/video/</guid>
+      <guid>http://localhost:44999/category/video/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bookmark</title>
-      <link>http://localhost:43219/category/bookmark/</link>
+      <link>http://localhost:44999/category/bookmark/</link>
       <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/bookmark/</guid>
+      <guid>http://localhost:44999/category/bookmark/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Photo</title>
-      <link>http://localhost:43219/category/photo/</link>
+      <link>http://localhost:44999/category/photo/</link>
       <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:43219/category/photo/</guid>
+      <guid>http://localhost:44999/category/photo/</guid>
       <description></description>
       
     </item>
