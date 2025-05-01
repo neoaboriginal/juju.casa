@@ -6,7 +6,6 @@ theme = "blowfish"
 baseURL = "https://juju.casa/"
 defaultContentLanguage = "en"
 
-
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
@@ -25,13 +24,9 @@ enableEmoji = true
 [imaging]
   anchor = 'Center'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 [taxonomies]
   tag = "tags"
-  category = "category"
+  category = "categories"
 
 [sitemap]
   changefreq = 'daily'

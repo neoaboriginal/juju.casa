@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leisure on Casa de JuJu</title>
-    <link>http://localhost:41373/tags/leisure/</link>
+    <link>http://localhost:43219/tags/leisure/</link>
     <description>Recent content in Leisure on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Fri, 14 Mar 2025 20:23:16 +0200</lastBuildDate><atom:link href="http://localhost:41373/tags/leisure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 20:23:16 +0200</lastBuildDate><atom:link href="http://localhost:43219/tags/leisure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stop trying to be productive</title>
-      <link>http://localhost:41373/bookmark/stop-trying-to-be-productive/</link>
+      <link>http://localhost:43219/bookmark/stop-trying-to-be-productive/</link>
       <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41373/bookmark/stop-trying-to-be-productive/</guid>
+      <guid>http://localhost:43219/bookmark/stop-trying-to-be-productive/</guid>
       <description>Why leisure is the basis for civilization</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41373/bookmark/stop-trying-to-be-productive/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43219/bookmark/stop-trying-to-be-productive/featured.jpg" />
     </item>
     
   </channel>

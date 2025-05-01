@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<!-- Optional hero, breadcrumbs, header, etc. -->
+{{ if .Site.Params.list.showHero }}
+  {{ partial "partials/hero/background.html" . }}
+{{ end }}
+
+<header class="mb-8">
+  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+</header>
+
+<!-- Main container -->
+<section class="w-full px-4 md:px-8">
+
+  {{ $cardView := .Params.cardView | default (.Site.Params.list.cardView | default false) }}
+
+  {{ if gt (len .Site.RegularPages) 0 }}
+
+    {{ if $cardView }}
+      <!-- Card grid layout -->
+      <section class="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+        {{ range .Site.RegularPages }}
+          {{ if not .Params.exclude }}
+            {{ partial "article-link/card.html" . }}
+          {{ end }}
+        {{ end }}
+      </section>
+    {{ else }}
+      <!-- List layout: wrap each item with <div> for spacing -->
+      {{ range .Site.RegularPages }}
+        {{ if not .Params.exclude }}
+        <div class="mb-4">{{/* Always add margin-bottom */}} 
+          {{ partial "article-link/simple.html" . }}
+        </div>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+  {{ else }}
+
+    <!-- No articles -->
+    <div class="mt-10 prose dark:prose-invert">
+      <p class="py-8 border-t"><em>No articles found.</em></p>
+    </div>
+
+  {{ end }}
+
+</section>
+
+<!-- Pagination -->
+{{ partial "pagination.html" . }}
+
+{{ end }}

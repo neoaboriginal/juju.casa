@@ -1,0 +1,14 @@
+@font-face {
+    font-family: ubuntu;
+    src: url('/fonts/ubuntu.ttf');
+}
+
+html {
+    font-family: ubuntu;
+}
+
+/* Increase the default font size */
+html {
+    font-size: 12.5pt;
+  }
+  
