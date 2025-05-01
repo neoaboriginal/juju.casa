@@ -1,0 +1,21 @@
+<!-- layouts/shortcodes/opengraph_preview.html -->
+{{- $url := .Get "url" -}}
+{{- $title := .Get "title" -}}
+{{- $description := .Get "description" -}}
+{{- $image := .Get "image" -}}
+<div class="opengraph-preview flex flex-row border mb-1 max-w-4xl">
+  <div class="opengraph-image-container max-w-[50%] p-0">
+    {{- if $image -}}
+    <img src="{{ $image }}" alt="{{ $title }}" class="opengraph-image w-auto h-auto mt-0 mb-0 object-cover">
+    {{- end -}}
+  </div>
+  <div class="opengraph-content w-full p-4 space-y-2">
+    <h3 class="opengraph-title mt-0">
+      <a href="{{ $url }}" target="_blank" rel="noopener noreferrer">{{ $title }}</a>
+    </h3>
+    <p class="opengraph-description">{{ $description }}</p>
+    <div class="opengraph-button-container">
+      <a href="{{ $url }}" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Read More</a>
+    </div>
+  </div>
+</div>

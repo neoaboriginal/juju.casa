@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Triggers on Casa de JuJu</title>
+    <link>http://localhost:41373/tags/triggers/</link>
+    <description>Recent content in Triggers on Casa de JuJu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
+    <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
+    <copyright>© 2025 JuJu Darío</copyright>
+    <lastBuildDate>Wed, 12 Feb 2025 15:44:43 +0200</lastBuildDate><atom:link href="http://localhost:41373/tags/triggers/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The real reason you cant change</title>
+      <link>http://localhost:41373/video/the-real-reason-you-cant-change/</link>
+      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:41373/video/the-real-reason-you-cant-change/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41373/video/the-real-reason-you-cant-change/featured-k.jpg" />
+    </item>
+    
+  </channel>
+</rss>

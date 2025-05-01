@@ -1,0 +1,120 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+#[[main]]
+#  name = "Stream ⚡"
+#  pageRef = "#"
+#  weight = 10
+
+[[main]]
+  name = "Categories 🗃️"
+  pageRef = "#"
+  weight = 10
+
+[[main]]
+  name = "Notes 📝"
+  parent = "Categories 🗃️"
+  pageRef = "note"
+  weight = 10
+
+[[main]]
+  name = "Likes ❤️"
+  parent = "Categories 🗃️"
+  pageRef = "like"
+  weight = 20
+
+[[main]]
+  name = "Music 🎵"
+  parent = "Categories 🗃️"
+  pageRef = "music"
+  weight = 30
+
+[[main]]
+  name = "Photos 📸"
+  parent = "Categories 🗃️"
+  pageRef = "photo"
+  weight = 40
+
+[[main]]
+  name = "Bookmarks 🔖"
+  parent = "Categories 🗃️"
+  pageRef = "bookmark"
+  weight = 50
+
+[[main]]
+  name = "Quotes 🗣️"
+  parent = "Categories 🗃️"
+  pageRef = "quote"
+  weight = 60
+
+[[main]]
+  name = "RePosts 🔁"
+  parent = "Categories 🗃️"
+  pageRef= "repost"
+  weight = 70
+
+[[main]]
+  name = "Videos 📽️"
+  parent = "Categories 🗃️"
+  pageRef = "video"
+  weight = 80
+
+[[main]]
+  name = "Listen 🎙️"
+  parent = "Categories 🗃️"
+  pageRef = "listen"
+  weight = 90
+
+#[[main]]
+#  name = "Reads 📚"
+#  parent = "Stream ⚡"
+#  pageRef = "read"
+#  weight = 20
+
+#[[main]]
+#  name = "Checkins 📍"
+#  parent = "Stream ⚡"
+#  pageRef = "checkin"
+#  weight = 40
+
+#[[main]]
+#  name = "Recommended ⭐"
+#  pageRef = "#"
+#  weight = 20
+
+
+
+[[main]]
+  name = "Kambo 🐸"
+  url = "https://kam.bo"
+  weight = 30
+
+[[main]]
+  name = "About 🧔🏻‍♂️"
+  url = "/about"
+  weight = 40
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "Tags 🏷️"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "Categories 🗃️"
+   pageRef = "category"
+   weight = 20
+

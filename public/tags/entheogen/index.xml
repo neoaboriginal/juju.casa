@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entheogen on Casa de JuJu</title>
+    <link>http://localhost:41373/tags/entheogen/</link>
+    <description>Recent content in Entheogen on Casa de JuJu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
+    <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
+    <copyright>© 2025 JuJu Darío</copyright>
+    <lastBuildDate>Sun, 09 Mar 2025 11:09:49 +0200</lastBuildDate><atom:link href="http://localhost:41373/tags/entheogen/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Xochipilli in temicxoch</title>
+      <link>http://localhost:41373/note/xochipilli-in-temicxoch/</link>
+      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:41373/note/xochipilli-in-temicxoch/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41373/note/xochipilli-in-temicxoch/featured-statue.jpg" />
+    </item>
+    
+    <item>
+      <title>Everything is eating everything</title>
+      <link>http://localhost:41373/listen/everything-is-eating-everything/</link>
+      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:41373/listen/everything-is-eating-everything/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41373/listen/everything-is-eating-everything/featured-header.jpg" />
+    </item>
+    
+  </channel>
+</rss>
