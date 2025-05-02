@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strenght on Casa de JuJu</title>
-    <link>http://localhost:39857/tags/strenght/</link>
+    <link>http://localhost:1313/tags/strenght/</link>
     <description>Recent content in Strenght on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 19:13:14 +0200</lastBuildDate><atom:link href="http://localhost:39857/tags/strenght/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 19:13:14 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/strenght/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>If you seek..</title>
-      <link>http://localhost:39857/repost/if-you-seek/</link>
+      <link>http://localhost:1313/repost/if-you-seek/</link>
       <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:39857/repost/if-you-seek/</guid>
+      <guid>http://localhost:1313/repost/if-you-seek/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39857/repost/if-you-seek/featured-seeking.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/if-you-seek/featured-seeking.png" />
     </item>
     
   </channel>
