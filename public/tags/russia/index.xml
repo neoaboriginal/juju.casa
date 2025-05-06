@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Russia on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/russia/</link>
+    <link>http://localhost:40479/tags/russia/</link>
     <description>Recent content in Russia on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 30 Apr 2025 11:23:04 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/russia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2025 11:23:04 +0200</lastBuildDate><atom:link href="http://localhost:40479/tags/russia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vestens undergang</title>
-      <link>http://localhost:1313/listen/vestens-undergang/</link>
+      <link>http://localhost:40479/listen/vestens-undergang/</link>
       <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/listen/vestens-undergang/</guid>
+      <guid>http://localhost:40479/listen/vestens-undergang/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/listen/vestens-undergang/featured-toje.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40479/listen/vestens-undergang/featured-toje.jpg" />
     </item>
     
   </channel>

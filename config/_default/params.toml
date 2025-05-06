@@ -8,7 +8,7 @@
 colorScheme = "fire"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
-
+showComments = true
 enableSearch = true
 enableCodeCopy = false
 
@@ -168,3 +168,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [params]
   dateFormat = "2. January 2006"
+
+[services]
+  [services.disqus]
+    shortname = 'neoaboriginal'

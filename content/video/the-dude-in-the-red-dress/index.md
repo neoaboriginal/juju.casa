@@ -10,3 +10,5 @@ videoCaption: ""  # Video caption
 *"IT'S MA'AM !!!"*
 
 {{< youtube qkAh0CCrV9I >}}
+
+{{ template "_internal/disqus.html" . }}
