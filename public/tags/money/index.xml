@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Money on Casa de JuJu</title>
-    <link>http://localhost:40479/tags/money/</link>
+    <link>http://localhost:42545/tags/money/</link>
     <description>Recent content in Money on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 24 Mar 2025 00:35:02 +0200</lastBuildDate><atom:link href="http://localhost:40479/tags/money/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 00:35:02 +0200</lastBuildDate><atom:link href="http://localhost:42545/tags/money/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pengene du har i banken</title>
-      <link>http://localhost:40479/note/pengene-du-har-i-banken/</link>
+      <link>http://localhost:42545/note/pengene-du-har-i-banken/</link>
       <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40479/note/pengene-du-har-i-banken/</guid>
+      <guid>http://localhost:42545/note/pengene-du-har-i-banken/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40479/note/pengene-du-har-i-banken/featured-bank.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42545/note/pengene-du-har-i-banken/featured-bank.png" />
     </item>
     
     <item>
       <title>But you work all day for money</title>
-      <link>http://localhost:40479/like/but-you-work-all-day-for-money/</link>
+      <link>http://localhost:42545/like/but-you-work-all-day-for-money/</link>
       <pubDate>Fri, 21 Mar 2025 23:49:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40479/like/but-you-work-all-day-for-money/</guid>
+      <guid>http://localhost:42545/like/but-you-work-all-day-for-money/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40479/like/but-you-work-all-day-for-money/featured-brain.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42545/like/but-you-work-all-day-for-money/featured-brain.jpg" />
     </item>
     
     <item>
       <title>Preserve the privacy of financial transactions</title>
-      <link>http://localhost:40479/quote/preserve-the-privacy-of-financial-transactions/</link>
+      <link>http://localhost:42545/quote/preserve-the-privacy-of-financial-transactions/</link>
       <pubDate>Tue, 11 Mar 2025 12:51:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40479/quote/preserve-the-privacy-of-financial-transactions/</guid>
+      <guid>http://localhost:42545/quote/preserve-the-privacy-of-financial-transactions/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40479/quote/preserve-the-privacy-of-financial-transactions/featured-finney.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42545/quote/preserve-the-privacy-of-financial-transactions/featured-finney.jpeg" />
     </item>
     
   </channel>
