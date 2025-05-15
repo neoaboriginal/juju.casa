@@ -8,7 +8,6 @@
 colorScheme = "fire"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
-showComments = true
 enableSearch = true
 enableCodeCopy = false
 
@@ -59,6 +58,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
+  showComments = true
   showAuthorBottom = true
   showHero = false
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground

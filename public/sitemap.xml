@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-13T18:55:43+02:00</lastmod>
+    <lastmod>2025-05-15T20:54:07+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bookmark/</loc>
+    <lastmod>2025-05-15T20:54:07+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bookmark/bro-science-breathwork/</loc>
+    <lastmod>2025-05-15T20:54:07+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -119,12 +131,6 @@
   <url>
     <loc>http://localhost:1313/video/enslaved-by-the-ufc/</loc>
     <lastmod>2025-04-07T11:19:39+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bookmark/</loc>
-    <lastmod>2025-04-02T21:59:44+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -257,6 +263,12 @@
   <url>
     <loc>http://localhost:1313/photo/sol-luna-clothes/</loc>
     <lastmod>2025-01-19T18:48:15+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/note/the-most-powerful-men/</loc>
+    <lastmod>2025-01-14T21:09:56+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

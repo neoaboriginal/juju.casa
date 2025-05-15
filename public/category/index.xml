@@ -9,7 +9,17 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 13 May 2025 18:55:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 May 2025 20:54:07 +0200</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bookmark</title>
+      <link>http://localhost:1313/category/bookmark/</link>
+      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/category/bookmark/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Repost</title>
@@ -87,16 +97,6 @@
       <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/category/music/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bookmark</title>
-      <link>http://localhost:1313/category/bookmark/</link>
-      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/category/bookmark/</guid>
       <description></description>
       
     </item>
