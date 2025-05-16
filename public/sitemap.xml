@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-15T20:54:07+02:00</lastmod>
+    <lastmod>2025-05-16T16:43:57+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quote/at-the-expense-of-morality/</loc>
+    <lastmod>2025-05-16T16:43:57+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quote/</loc>
+    <lastmod>2025-05-16T16:43:57+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -82,12 +94,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/quote/fall-in-love/</loc>
-    <lastmod>2025-04-29T21:04:51+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/quote/</loc>
     <lastmod>2025-04-29T21:04:51+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -269,6 +275,12 @@
   <url>
     <loc>http://localhost:1313/note/the-most-powerful-men/</loc>
     <lastmod>2025-01-14T21:09:56+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quote/go-to-the-library/</loc>
+    <lastmod>2025-01-12T16:47:44+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
