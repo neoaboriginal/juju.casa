@@ -7,4 +7,4 @@ tags: ["kambo", "ceremony", "healing", "frog"]
 image: ""  # Path to photo
 caption: ""  # Photo caption
 ---
-![Alt klart før kambo](/img/photo/kambokit.jgp)
+![Alt klart før kambo](/img/photo/kambokit.jpg)

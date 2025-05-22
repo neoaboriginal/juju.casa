@@ -9,7 +9,17 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Fri, 02 May 2025 19:43:18 +0200</lastBuildDate><atom:link href="http://localhost:1313/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 May 2025 23:37:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Don&#39;t do what you don&#39;t want to do</title>
+      <link>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
+    </item>
     
     <item>
       <title>The dude in the red dress</title>
@@ -49,6 +59,16 @@
       <guid>http://localhost:1313/video/the-prosecution-of-roger-ver/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-prosecution-of-roger-ver/featured-roger.jpg" />
+    </item>
+    
+    <item>
+      <title>Be like water</title>
+      <link>http://localhost:1313/video/be-like-water/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/video/be-like-water/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/be-like-water/featured-water.jpg" />
     </item>
     
   </channel>

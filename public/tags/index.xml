@@ -9,7 +9,47 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Fri, 16 May 2025 16:43:57 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 May 2025 23:37:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Force</title>
+      <link>http://localhost:1313/tags/force/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/force/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>http://localhost:1313/tags/phone/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/phone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Relax</title>
+      <link>http://localhost:1313/tags/relax/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/relax/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/tags/work/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/work/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Bitcoin</title>
@@ -902,16 +942,6 @@
     </item>
     
     <item>
-      <title>Work</title>
-      <link>http://localhost:1313/tags/work/</link>
-      <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/tags/work/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Monero</title>
       <link>http://localhost:1313/tags/monero/</link>
       <pubDate>Tue, 11 Mar 2025 12:51:45 +0200</pubDate>
@@ -1477,6 +1507,106 @@
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/tags/school/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Acceptance</title>
+      <link>http://localhost:1313/tags/acceptance/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/acceptance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Action</title>
+      <link>http://localhost:1313/tags/action/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/action/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Adapt</title>
+      <link>http://localhost:1313/tags/adapt/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/adapt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Being</title>
+      <link>http://localhost:1313/tags/being/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/being/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Flow</title>
+      <link>http://localhost:1313/tags/flow/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/flow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Focus</title>
+      <link>http://localhost:1313/tags/focus/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/focus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>http://localhost:1313/tags/goals/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/goals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mindset</title>
+      <link>http://localhost:1313/tags/mindset/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/mindset/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>http://localhost:1313/tags/motivation/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/motivation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/tags/philosophy/</link>
+      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
       <description></description>
       
     </item>

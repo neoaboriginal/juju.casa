@@ -12,4 +12,4 @@ I've been pondering a lot about breathing for some years now, and the more I lea
 Check out the link below.
 {{< /alert >}}
 <br>
-{{< opengraph_preview url="https://www.awakenedintent.com/blog/bro-science-breathwork" title="Bro Science Breathwork" description="Breathing deeply and with ease is one of the most potent ways to make love to and connect with oneself on a moment to moment basis" image="https://images.squarespace-cdn.com/content/v1/61f13e4b0229b416714cd1a7/3a217602-d3c0-425d-9e7b-d6f6db9d0916/Chris+Bale?format=2500w" >}}
+{{< opengraph_preview url="https://www.awakenedintent.com/blog/bro-science-breathwork" title="Bro Science Breathwork" description="Breathing deeply and with ease is one of the most potent ways to make love to and connect with oneself on a moment to moment basis" image="" >}}
