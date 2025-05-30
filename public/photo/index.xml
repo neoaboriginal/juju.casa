@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Casa de JuJu</title>
-    <link>http://localhost:40133/photo/</link>
+    <link>http://localhost:1313/photo/</link>
     <description>Recent content in Photos on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sat, 03 May 2025 23:32:13 +0200</lastBuildDate><atom:link href="http://localhost:40133/photo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 May 2025 23:32:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/photo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Luz verde</title>
-      <link>http://localhost:40133/photo/luz-verde/</link>
+      <link>http://localhost:1313/photo/luz-verde/</link>
       <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/photo/luz-verde/</guid>
+      <guid>http://localhost:1313/photo/luz-verde/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/photo/luz-verde/featured-kit.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/luz-verde/featured-kit.jpg" />
     </item>
     
     <item>
       <title>Sveti Jovan Kaneo</title>
-      <link>http://localhost:40133/photo/sveti-jovan-kaneo/</link>
+      <link>http://localhost:1313/photo/sveti-jovan-kaneo/</link>
       <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/photo/sveti-jovan-kaneo/</guid>
+      <guid>http://localhost:1313/photo/sveti-jovan-kaneo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/photo/sveti-jovan-kaneo/featured-church.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/sveti-jovan-kaneo/featured-church.jpg" />
     </item>
     
     <item>
       <title>Sol y Luna (Vinyl)</title>
-      <link>http://localhost:40133/photo/sol-luna-clothes/</link>
+      <link>http://localhost:1313/photo/sol-luna-clothes/</link>
       <pubDate>Sun, 19 Jan 2025 18:48:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/photo/sol-luna-clothes/</guid>
+      <guid>http://localhost:1313/photo/sol-luna-clothes/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/photo/sol-luna-clothes/featured-sweater.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/sol-luna-clothes/featured-sweater.jpg" />
     </item>
     
     <item>
       <title>Salinas de Gozo 🇲🇹</title>
-      <link>http://localhost:40133/photo/salinas-de-gozo/</link>
+      <link>http://localhost:1313/photo/salinas-de-gozo/</link>
       <pubDate>Wed, 01 Jan 2025 13:55:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/photo/salinas-de-gozo/</guid>
+      <guid>http://localhost:1313/photo/salinas-de-gozo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/photo/salinas-de-gozo/featured-salinas.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/salinas-de-gozo/featured-salinas.jpg" />
     </item>
     
   </channel>

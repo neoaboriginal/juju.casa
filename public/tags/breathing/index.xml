@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breathing on Casa de JuJu</title>
-    <link>http://localhost:40133/tags/breathing/</link>
+    <link>http://localhost:1313/tags/breathing/</link>
     <description>Recent content in Breathing on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Thu, 15 May 2025 20:54:07 +0200</lastBuildDate><atom:link href="http://localhost:40133/tags/breathing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 May 2025 20:54:07 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/breathing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bro science breathwork</title>
-      <link>http://localhost:40133/bookmark/bro-science-breathwork/</link>
+      <link>http://localhost:1313/bookmark/bro-science-breathwork/</link>
       <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/bookmark/bro-science-breathwork/</guid>
+      <guid>http://localhost:1313/bookmark/bro-science-breathwork/</guid>
       <description>Breathing deeply and with ease is one of the most potent ways to make love to and connect with oneself on a moment to moment basis</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/bookmark/bro-science-breathwork/featured-bale.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/bro-science-breathwork/featured-bale.jpeg" />
     </item>
     
     <item>
       <title>How to survive a plunge from a waterfall</title>
-      <link>http://localhost:40133/like/how-to-survive-a-plunge-from-a-waterfall/</link>
+      <link>http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/</link>
       <pubDate>Sat, 25 Jan 2025 23:47:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/like/how-to-survive-a-plunge-from-a-waterfall/</guid>
+      <guid>http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/like/how-to-survive-a-plunge-from-a-waterfall/featured-plunge.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/featured-plunge.jpg" />
     </item>
     
   </channel>

@@ -68,4 +68,4 @@ enableEmoji = true
 
 [services]
   [services.disqus]
-    shortname = 'neoaboriginal'
+    shortname = 'casa-de-juju'

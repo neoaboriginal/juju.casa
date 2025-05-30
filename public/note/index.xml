@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Casa de JuJu</title>
-    <link>http://localhost:40133/note/</link>
+    <link>http://localhost:1313/note/</link>
     <description>Recent content in Notes on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 28 Apr 2025 23:58:12 +0200</lastBuildDate><atom:link href="http://localhost:40133/note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 23:58:12 +0200</lastBuildDate><atom:link href="http://localhost:1313/note/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Viktig å vaske henda</title>
-      <link>http://localhost:40133/note/viktig-%C3%A5-vaske-henda/</link>
+      <link>http://localhost:1313/note/viktig-%C3%A5-vaske-henda/</link>
       <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/note/viktig-%C3%A5-vaske-henda/</guid>
+      <guid>http://localhost:1313/note/viktig-%C3%A5-vaske-henda/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/note/viktig-%C3%A5-vaske-henda/featured-hands.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/viktig-%C3%A5-vaske-henda/featured-hands.png" />
     </item>
     
     <item>
       <title>Stand out in all your weirdness</title>
-      <link>http://localhost:40133/note/stand-out-in-all-your-weirdness/</link>
+      <link>http://localhost:1313/note/stand-out-in-all-your-weirdness/</link>
       <pubDate>Tue, 01 Apr 2025 00:04:40 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/note/stand-out-in-all-your-weirdness/</guid>
+      <guid>http://localhost:1313/note/stand-out-in-all-your-weirdness/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/note/stand-out-in-all-your-weirdness/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/stand-out-in-all-your-weirdness/featured.jpg" />
     </item>
     
     <item>
       <title>Pengene du har i banken</title>
-      <link>http://localhost:40133/note/pengene-du-har-i-banken/</link>
+      <link>http://localhost:1313/note/pengene-du-har-i-banken/</link>
       <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/note/pengene-du-har-i-banken/</guid>
+      <guid>http://localhost:1313/note/pengene-du-har-i-banken/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/note/pengene-du-har-i-banken/featured-bank.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/pengene-du-har-i-banken/featured-bank.png" />
     </item>
     
     <item>
       <title>Don&#39;t be realistic</title>
-      <link>http://localhost:40133/note/dont-be-realistic/</link>
+      <link>http://localhost:1313/note/dont-be-realistic/</link>
       <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/note/dont-be-realistic/</guid>
+      <guid>http://localhost:1313/note/dont-be-realistic/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/note/dont-be-realistic/featured-realistic.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/dont-be-realistic/featured-realistic.png" />
     </item>
     
     <item>
       <title>Xochipilli in temicxoch</title>
-      <link>http://localhost:40133/note/xochipilli-in-temicxoch/</link>
+      <link>http://localhost:1313/note/xochipilli-in-temicxoch/</link>
       <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/note/xochipilli-in-temicxoch/</guid>
+      <guid>http://localhost:1313/note/xochipilli-in-temicxoch/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/note/xochipilli-in-temicxoch/featured-statue.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/xochipilli-in-temicxoch/featured-statue.jpg" />
     </item>
     
     <item>
       <title>The most powerful men</title>
-      <link>http://localhost:40133/note/the-most-powerful-men/</link>
+      <link>http://localhost:1313/note/the-most-powerful-men/</link>
       <pubDate>Tue, 14 Jan 2025 21:09:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40133/note/the-most-powerful-men/</guid>
+      <guid>http://localhost:1313/note/the-most-powerful-men/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40133/note/the-most-powerful-men/featured-men.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/the-most-powerful-men/featured-men.png" />
     </item>
     
   </channel>
