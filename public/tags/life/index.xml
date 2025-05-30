@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/life/</link>
+    <link>http://localhost:41537/tags/life/</link>
     <description>Recent content in Life on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 13 May 2025 18:55:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 May 2025 18:55:43 +0200</lastBuildDate><atom:link href="http://localhost:41537/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>At your funeral</title>
-      <link>http://localhost:1313/repost/at-your-funeral/</link>
+      <link>http://localhost:41537/repost/at-your-funeral/</link>
       <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/at-your-funeral/</guid>
+      <guid>http://localhost:41537/repost/at-your-funeral/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/at-your-funeral/featured-funeral.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41537/repost/at-your-funeral/featured-funeral.jpg" />
     </item>
     
     <item>
       <title>Fall in love</title>
-      <link>http://localhost:1313/quote/fall-in-love/</link>
+      <link>http://localhost:41537/quote/fall-in-love/</link>
       <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/fall-in-love/</guid>
+      <guid>http://localhost:41537/quote/fall-in-love/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/fall-in-love/featured-frida.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41537/quote/fall-in-love/featured-frida.jpg" />
     </item>
     
     <item>
       <title>Stand out in all your weirdness</title>
-      <link>http://localhost:1313/note/stand-out-in-all-your-weirdness/</link>
+      <link>http://localhost:41537/note/stand-out-in-all-your-weirdness/</link>
       <pubDate>Tue, 01 Apr 2025 00:04:40 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/stand-out-in-all-your-weirdness/</guid>
+      <guid>http://localhost:41537/note/stand-out-in-all-your-weirdness/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/stand-out-in-all-your-weirdness/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41537/note/stand-out-in-all-your-weirdness/featured.jpg" />
     </item>
     
     <item>
       <title>Everything is eating everything</title>
-      <link>http://localhost:1313/listen/everything-is-eating-everything/</link>
+      <link>http://localhost:41537/listen/everything-is-eating-everything/</link>
       <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/listen/everything-is-eating-everything/</guid>
+      <guid>http://localhost:41537/listen/everything-is-eating-everything/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/listen/everything-is-eating-everything/featured-header.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41537/listen/everything-is-eating-everything/featured-header.jpg" />
     </item>
     
   </channel>

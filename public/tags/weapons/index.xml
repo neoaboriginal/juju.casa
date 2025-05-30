@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weapons on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/weapons/</link>
+    <link>http://localhost:41537/tags/weapons/</link>
     <description>Recent content in Weapons on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 20:45:18 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/weapons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 20:45:18 +0200</lastBuildDate><atom:link href="http://localhost:41537/tags/weapons/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Everything is eating everything</title>
-      <link>http://localhost:1313/listen/everything-is-eating-everything/</link>
+      <link>http://localhost:41537/listen/everything-is-eating-everything/</link>
       <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/listen/everything-is-eating-everything/</guid>
+      <guid>http://localhost:41537/listen/everything-is-eating-everything/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/listen/everything-is-eating-everything/featured-header.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41537/listen/everything-is-eating-everything/featured-header.jpg" />
     </item>
     
   </channel>

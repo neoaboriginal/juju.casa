@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patterns on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/patterns/</link>
+    <link>http://localhost:41537/tags/patterns/</link>
     <description>Recent content in Patterns on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 13:55:37 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 13:55:37 +0200</lastBuildDate><atom:link href="http://localhost:41537/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Salinas de Gozo 🇲🇹</title>
-      <link>http://localhost:1313/photo/salinas-de-gozo/</link>
+      <link>http://localhost:41537/photo/salinas-de-gozo/</link>
       <pubDate>Wed, 01 Jan 2025 13:55:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/salinas-de-gozo/</guid>
+      <guid>http://localhost:41537/photo/salinas-de-gozo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/salinas-de-gozo/featured-salinas.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41537/photo/salinas-de-gozo/featured-salinas.jpg" />
     </item>
     
   </channel>

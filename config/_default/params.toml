@@ -71,7 +71,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
   showReadingTime = false
   showTableOfContents = false
@@ -80,7 +80,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = false
-  sharingLinks = [ "telegram", "twitter", "facebook",]
+  #sharingLinks = [ "telegram", "twitter", "facebook",]
   showZenMode = false
 
 [list]

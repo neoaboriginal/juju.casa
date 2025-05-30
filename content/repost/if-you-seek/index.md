@@ -7,13 +7,15 @@ tags: ["discipline", "pleasure", "strenght", "success"]
 repostAuthor: "https://t.me/mindsetmachine"  # Original author
 repostLink: "https://t.me/mindsetmachine/2156"  # Link to original post
 ---
-
-If you seek success, cultivate discipline, not pleasure.
-
-If you seek strength, embrace struggle, not comfort.
-
-If you seek wealth, value creation, not consumption.
-
 {{< alert "telegram" >}}
 Original post available [here](https://t.me/mindsetmachine/2156)
 {{< /alert >}}
+
+*If you seek success, cultivate discipline, not pleasure.*
+
+*If you seek strength, embrace struggle, not comfort.*
+
+*If you seek wealth, value creation, not consumption.*
+***
+**See also:**
+{{< article link="/repost/if-you-want/" >}}
