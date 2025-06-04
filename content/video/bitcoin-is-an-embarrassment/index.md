@@ -3,7 +3,7 @@ title: "Bitcoin is an embarrassment"
 date: 2024-12-11T13:20:09+02:00
 draft: false
 category: "Video"
-tags: ["anarchism", "bitcoin", "censorship", "crypto", "fiat", "freedom", "monero", "money", "P2P", "persecution", "privacy", "traceability", "Zano",]
+tags: ["bitcoin", "censorship", "crypto", "freedom", "money", "P2P", "persecution", "privacy", "traceability",]
 videoURL: "https://www.youtube.com/watch?v=dbLHXOipQN4"  # Path to your video
 videoCaption: ""  # Video caption
 ---
