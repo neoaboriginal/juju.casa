@@ -2,83 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Casa de JuJu</title>
-    <link>http://localhost:36429/category/video/</link>
+    <link>http://localhost:1313/category/video/</link>
     <description>Recent content in Video on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Thu, 22 May 2025 23:37:49 +0200</lastBuildDate><atom:link href="http://localhost:36429/category/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 May 2025 23:37:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/category/video/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Don&#39;t do what you don&#39;t want to do</title>
-      <link>http://localhost:36429/video/dont-do-what-you-dont-want-to-do/</link>
+      <link>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</link>
       <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/video/dont-do-what-you-dont-want-to-do/</guid>
+      <guid>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
     </item>
     
     <item>
       <title>The dude in the red dress</title>
-      <link>http://localhost:36429/video/the-dude-in-the-red-dress/</link>
+      <link>http://localhost:1313/video/the-dude-in-the-red-dress/</link>
       <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/video/the-dude-in-the-red-dress/</guid>
+      <guid>http://localhost:1313/video/the-dude-in-the-red-dress/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/video/the-dude-in-the-red-dress/featured-woke.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-dude-in-the-red-dress/featured-woke.jpg" />
     </item>
     
     <item>
       <title>Enslaved by the UFC</title>
-      <link>http://localhost:36429/video/enslaved-by-the-ufc/</link>
+      <link>http://localhost:1313/video/enslaved-by-the-ufc/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/video/enslaved-by-the-ufc/</guid>
+      <guid>http://localhost:1313/video/enslaved-by-the-ufc/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/video/enslaved-by-the-ufc/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/enslaved-by-the-ufc/featured.jpg" />
     </item>
     
     <item>
       <title>The real reason you can&#39;t change</title>
-      <link>http://localhost:36429/video/the-real-reason-you-cant-change/</link>
+      <link>http://localhost:1313/video/the-real-reason-you-cant-change/</link>
       <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/video/the-real-reason-you-cant-change/</guid>
+      <guid>http://localhost:1313/video/the-real-reason-you-cant-change/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/video/the-real-reason-you-cant-change/featured-k.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-real-reason-you-cant-change/featured-k.jpg" />
     </item>
     
     <item>
       <title>The prosecution of Roger Ver</title>
-      <link>http://localhost:36429/video/the-prosecution-of-roger-ver/</link>
+      <link>http://localhost:1313/video/the-prosecution-of-roger-ver/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/video/the-prosecution-of-roger-ver/</guid>
+      <guid>http://localhost:1313/video/the-prosecution-of-roger-ver/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/video/the-prosecution-of-roger-ver/featured-roger.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-prosecution-of-roger-ver/featured-roger.jpg" />
     </item>
     
     <item>
       <title>Be like water</title>
-      <link>http://localhost:36429/video/be-like-water/</link>
+      <link>http://localhost:1313/video/be-like-water/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/video/be-like-water/</guid>
+      <guid>http://localhost:1313/video/be-like-water/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/video/be-like-water/featured-water.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/be-like-water/featured-water.jpg" />
     </item>
     
     <item>
       <title>Bitcoin is an embarrassment</title>
-      <link>http://localhost:36429/video/bitcoin-is-an-embarrassment/</link>
+      <link>http://localhost:1313/video/bitcoin-is-an-embarrassment/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/video/bitcoin-is-an-embarrassment/</guid>
+      <guid>http://localhost:1313/video/bitcoin-is-an-embarrassment/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/video/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
     </item>
     
   </channel>

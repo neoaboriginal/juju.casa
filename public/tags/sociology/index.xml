@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sociology on Casa de JuJu</title>
+    <link>http://localhost:1313/tags/sociology/</link>
+    <description>Recent content in Sociology on Casa de JuJu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
+    <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
+    <copyright>© 2025 JuJu Darío</copyright>
+    <lastBuildDate>Tue, 10 Jun 2025 21:59:37 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/sociology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why finding love feels harder than ever</title>
+      <link>http://localhost:1313/listen/why-finding-love-feels-harder-than-ever/</link>
+      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/listen/why-finding-love-feels-harder-than-ever/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/listen/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
+    </item>
+    
+  </channel>
+</rss>

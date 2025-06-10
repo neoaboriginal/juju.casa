@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economy on Casa de JuJu</title>
-    <link>http://localhost:36429/tags/economy/</link>
+    <link>http://localhost:1313/tags/economy/</link>
     <description>Recent content in Economy on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 30 Apr 2025 11:23:04 +0200</lastBuildDate><atom:link href="http://localhost:36429/tags/economy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2025 11:23:04 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/economy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vestens undergang</title>
-      <link>http://localhost:36429/listen/vestens-undergang/</link>
+      <link>http://localhost:1313/listen/vestens-undergang/</link>
       <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/listen/vestens-undergang/</guid>
+      <guid>http://localhost:1313/listen/vestens-undergang/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/listen/vestens-undergang/featured-toje.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/listen/vestens-undergang/featured-toje.jpg" />
     </item>
     
     <item>
       <title>Pengene du har i banken</title>
-      <link>http://localhost:36429/note/pengene-du-har-i-banken/</link>
+      <link>http://localhost:1313/note/pengene-du-har-i-banken/</link>
       <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36429/note/pengene-du-har-i-banken/</guid>
+      <guid>http://localhost:1313/note/pengene-du-har-i-banken/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36429/note/pengene-du-har-i-banken/featured-bank.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/pengene-du-har-i-banken/featured-bank.png" />
     </item>
     
   </channel>
