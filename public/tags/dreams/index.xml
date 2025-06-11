@@ -2,23 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dreams on Casa de JuJu</title>
-    <link>http://localhost:45105/tags/dreams/</link>
+    <link>http://localhost:1313/tags/dreams/</link>
     <description>Recent content in Dreams on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 09 Mar 2025 11:09:49 +0200</lastBuildDate><atom:link href="http://localhost:45105/tags/dreams/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 22:25:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/dreams/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ferske spor juni2025</title>
+      <link>http://localhost:1313/music/ferske-spor-juni2025/</link>
+      <pubDate>Wed, 11 Jun 2025 22:25:06 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/music/ferske-spor-juni2025/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Xochipilli in temicxoch</title>
-      <link>http://localhost:45105/note/xochipilli-in-temicxoch/</link>
+      <link>http://localhost:1313/note/xochipilli-in-temicxoch/</link>
       <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/note/xochipilli-in-temicxoch/</guid>
+      <guid>http://localhost:1313/note/xochipilli-in-temicxoch/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/note/xochipilli-in-temicxoch/featured-statue.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/xochipilli-in-temicxoch/featured-statue.jpg" />
     </item>
     
   </channel>

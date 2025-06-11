@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Death on Casa de JuJu</title>
-    <link>http://localhost:45105/tags/death/</link>
+    <link>http://localhost:1313/tags/death/</link>
     <description>Recent content in Death on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 13 May 2025 18:55:43 +0200</lastBuildDate><atom:link href="http://localhost:45105/tags/death/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 May 2025 18:55:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/death/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>At your funeral</title>
-      <link>http://localhost:45105/repost/at-your-funeral/</link>
+      <link>http://localhost:1313/repost/at-your-funeral/</link>
       <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/repost/at-your-funeral/</guid>
+      <guid>http://localhost:1313/repost/at-your-funeral/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/repost/at-your-funeral/featured-funeral.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/at-your-funeral/featured-funeral.jpg" />
     </item>
     
     <item>
       <title>Everything is eating everything</title>
-      <link>http://localhost:45105/listen/everything-is-eating-everything/</link>
+      <link>http://localhost:1313/listen/everything-is-eating-everything/</link>
       <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/listen/everything-is-eating-everything/</guid>
+      <guid>http://localhost:1313/listen/everything-is-eating-everything/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/listen/everything-is-eating-everything/featured-header.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/listen/everything-is-eating-everything/featured-header.jpg" />
     </item>
     
   </channel>

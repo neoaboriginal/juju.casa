@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pleasure on Casa de JuJu</title>
-    <link>http://localhost:45105/tags/pleasure/</link>
+    <link>http://localhost:1313/tags/pleasure/</link>
     <description>Recent content in Pleasure on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 04 Jun 2025 11:32:08 +0200</lastBuildDate><atom:link href="http://localhost:45105/tags/pleasure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jun 2025 11:32:08 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/pleasure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>When the Taurus moon kicks in</title>
-      <link>http://localhost:45105/photo/when-the-taurus-moon-kicks-in/</link>
+      <link>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</link>
       <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/photo/when-the-taurus-moon-kicks-in/</guid>
+      <guid>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/photo/when-the-taurus-moon-kicks-in/featured-flavors.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/when-the-taurus-moon-kicks-in/featured-flavors.jpeg" />
     </item>
     
     <item>
       <title>If you seek..</title>
-      <link>http://localhost:45105/repost/if-you-seek/</link>
+      <link>http://localhost:1313/repost/if-you-seek/</link>
       <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/repost/if-you-seek/</guid>
+      <guid>http://localhost:1313/repost/if-you-seek/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/repost/if-you-seek/featured-seeking.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/if-you-seek/featured-seeking.png" />
     </item>
     
     <item>
       <title>A complete inversion of everything that made us human</title>
-      <link>http://localhost:45105/repost/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:1313/repost/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Wed, 20 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/repost/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:1313/repost/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
   </channel>

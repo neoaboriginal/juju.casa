@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sovereign on Casa de JuJu</title>
-    <link>http://localhost:45105/tags/sovereign/</link>
+    <link>http://localhost:1313/tags/sovereign/</link>
     <description>Recent content in Sovereign on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 02 Apr 2025 21:59:44 +0200</lastBuildDate><atom:link href="http://localhost:45105/tags/sovereign/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2025 21:59:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/sovereign/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reject statism</title>
-      <link>http://localhost:45105/bookmark/reject-statism/</link>
+      <link>http://localhost:1313/bookmark/reject-statism/</link>
       <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/bookmark/reject-statism/</guid>
+      <guid>http://localhost:1313/bookmark/reject-statism/</guid>
       <description>The world has long been governed by systems of statism—systems built on force, coercion, and the suppression of individual sovereignty. These systems present themselves as protectors of order and providers of security, yet at their core, they perpetuate violence, extortion, and control.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/bookmark/reject-statism/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/reject-statism/featured.jpg" />
     </item>
     
   </channel>

@@ -3,403 +3,409 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:45105/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-11T22:25:06+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/music/ferske-spor-juni2025/</loc>
+    <lastmod>2025-06-11T22:25:06+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/music/</loc>
+    <lastmod>2025-06-11T22:25:06+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quote/</loc>
     <lastmod>2025-06-11T12:32:54+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/quote/</loc>
+    <loc>http://localhost:1313/quote/the-governments-boot/</loc>
     <lastmod>2025-06-11T12:32:54+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/quote/the-governments-boot/</loc>
-    <lastmod>2025-06-11T12:32:54+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:45105/listen/</loc>
+    <loc>http://localhost:1313/listen/</loc>
     <lastmod>2025-06-10T21:59:37+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/listen/why-finding-love-feels-harder-than-ever/</loc>
+    <loc>http://localhost:1313/listen/why-finding-love-feels-harder-than-ever/</loc>
     <lastmod>2025-06-10T21:59:37+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/photo/</loc>
+    <loc>http://localhost:1313/photo/</loc>
     <lastmod>2025-06-04T11:32:08+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/photo/when-the-taurus-moon-kicks-in/</loc>
+    <loc>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</loc>
     <lastmod>2025-06-04T11:32:08+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/bookmark/</loc>
+    <loc>http://localhost:1313/bookmark/</loc>
     <lastmod>2025-06-03T13:07:46+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/</loc>
+    <loc>http://localhost:1313/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/</loc>
     <lastmod>2025-06-03T13:07:46+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/listen/the-anxious-avoidant-deathtrap/</loc>
+    <loc>http://localhost:1313/listen/the-anxious-avoidant-deathtrap/</loc>
     <lastmod>2025-05-30T19:32:07+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/repost/</loc>
+    <loc>http://localhost:1313/repost/</loc>
     <lastmod>2025-05-29T01:00:35+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/repost/the-end-of-ideology/</loc>
+    <loc>http://localhost:1313/repost/the-end-of-ideology/</loc>
     <lastmod>2025-05-29T01:00:35+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/listen/darknet-market-maximalism/</loc>
+    <loc>http://localhost:1313/listen/darknet-market-maximalism/</loc>
     <lastmod>2025-05-26T14:02:16+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/video/dont-do-what-you-dont-want-to-do/</loc>
+    <loc>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</loc>
     <lastmod>2025-05-22T23:37:49+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/video/</loc>
+    <loc>http://localhost:1313/video/</loc>
     <lastmod>2025-05-22T23:37:49+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/quote/at-the-expense-of-morality/</loc>
+    <loc>http://localhost:1313/quote/at-the-expense-of-morality/</loc>
     <lastmod>2025-05-16T16:43:57+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/bookmark/bro-science-breathwork/</loc>
+    <loc>http://localhost:1313/bookmark/bro-science-breathwork/</loc>
     <lastmod>2025-05-15T20:54:07+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/repost/at-your-funeral/</loc>
+    <loc>http://localhost:1313/repost/at-your-funeral/</loc>
     <lastmod>2025-05-13T18:55:43+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/like/</loc>
+    <loc>http://localhost:1313/like/</loc>
     <lastmod>2025-05-10T23:42:45+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/like/they-dont-know/</loc>
+    <loc>http://localhost:1313/like/they-dont-know/</loc>
     <lastmod>2025-05-10T23:42:45+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/photo/luz-verde/</loc>
+    <loc>http://localhost:1313/photo/luz-verde/</loc>
     <lastmod>2025-05-03T23:32:13+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/video/the-dude-in-the-red-dress/</loc>
+    <loc>http://localhost:1313/video/the-dude-in-the-red-dress/</loc>
     <lastmod>2025-05-02T19:43:18+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/listen/vestens-undergang/</loc>
+    <loc>http://localhost:1313/listen/vestens-undergang/</loc>
     <lastmod>2025-04-30T11:23:04+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/quote/fall-in-love/</loc>
+    <loc>http://localhost:1313/quote/fall-in-love/</loc>
     <lastmod>2025-04-29T21:04:51+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/note/</loc>
+    <loc>http://localhost:1313/note/</loc>
     <lastmod>2025-04-28T23:58:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/note/viktig-%C3%A5-vaske-henda/</loc>
+    <loc>http://localhost:1313/note/viktig-%C3%A5-vaske-henda/</loc>
     <lastmod>2025-04-28T23:58:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/music/ferske-spor-april2025/</loc>
+    <loc>http://localhost:1313/music/ferske-spor-april2025/</loc>
     <lastmod>2025-04-22T18:52:27+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/music/</loc>
-    <lastmod>2025-04-22T18:52:27+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:45105/repost/fully-embody-your-nature/</loc>
+    <loc>http://localhost:1313/repost/fully-embody-your-nature/</loc>
     <lastmod>2025-04-19T11:32:34+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/like/choosing-the-sex-of-a-child/</loc>
+    <loc>http://localhost:1313/like/choosing-the-sex-of-a-child/</loc>
     <lastmod>2025-04-09T00:49:03+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/video/enslaved-by-the-ufc/</loc>
+    <loc>http://localhost:1313/video/enslaved-by-the-ufc/</loc>
     <lastmod>2025-04-07T11:19:39+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/bookmark/reject-statism/</loc>
+    <loc>http://localhost:1313/bookmark/reject-statism/</loc>
     <lastmod>2025-04-02T21:59:44+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/note/stand-out-in-all-your-weirdness/</loc>
+    <loc>http://localhost:1313/note/stand-out-in-all-your-weirdness/</loc>
     <lastmod>2025-04-01T00:04:40+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/note/pengene-du-har-i-banken/</loc>
+    <loc>http://localhost:1313/note/pengene-du-har-i-banken/</loc>
     <lastmod>2025-03-24T00:35:02+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/like/but-you-work-all-day-for-money/</loc>
+    <loc>http://localhost:1313/like/but-you-work-all-day-for-money/</loc>
     <lastmod>2025-03-21T23:49:09+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/music/ferske-spor-mars2025/</loc>
+    <loc>http://localhost:1313/music/ferske-spor-mars2025/</loc>
     <lastmod>2025-03-20T00:01:25+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/note/dont-be-realistic/</loc>
+    <loc>http://localhost:1313/note/dont-be-realistic/</loc>
     <lastmod>2025-03-16T22:12:59+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/bookmark/stop-trying-to-be-productive/</loc>
+    <loc>http://localhost:1313/bookmark/stop-trying-to-be-productive/</loc>
     <lastmod>2025-03-14T20:23:16+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/quote/preserve-the-privacy-of-financial-transactions/</loc>
+    <loc>http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/</loc>
     <lastmod>2025-03-11T12:51:45+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/repost/if-you-seek/</loc>
+    <loc>http://localhost:1313/repost/if-you-seek/</loc>
     <lastmod>2025-03-10T19:13:14+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/note/xochipilli-in-temicxoch/</loc>
+    <loc>http://localhost:1313/note/xochipilli-in-temicxoch/</loc>
     <lastmod>2025-03-09T11:09:49+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/photo/sveti-jovan-kaneo/</loc>
+    <loc>http://localhost:1313/photo/sveti-jovan-kaneo/</loc>
     <lastmod>2025-03-04T12:50:23+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/bookmark/the-true-size/</loc>
+    <loc>http://localhost:1313/bookmark/the-true-size/</loc>
     <lastmod>2025-03-02T12:48:45+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/listen/everything-is-eating-everything/</loc>
+    <loc>http://localhost:1313/listen/everything-is-eating-everything/</loc>
     <lastmod>2025-02-24T20:45:18+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/like/spirituality-packs/</loc>
+    <loc>http://localhost:1313/like/spirituality-packs/</loc>
     <lastmod>2025-02-17T11:17:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/music/klissete-lovesongs-for-deichman/</loc>
+    <loc>http://localhost:1313/music/klissete-lovesongs-for-deichman/</loc>
     <lastmod>2025-02-14T14:15:26+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/video/the-real-reason-you-cant-change/</loc>
+    <loc>http://localhost:1313/video/the-real-reason-you-cant-change/</loc>
     <lastmod>2025-02-12T15:44:43+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/bookmark/beyond-the-state/</loc>
+    <loc>http://localhost:1313/bookmark/beyond-the-state/</loc>
     <lastmod>2025-02-11T22:31:37+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/like/theatre-for-the-slave-class/</loc>
+    <loc>http://localhost:1313/like/theatre-for-the-slave-class/</loc>
     <lastmod>2025-02-10T23:00:09+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/music/ferske-spor-januar2025/</loc>
+    <loc>http://localhost:1313/music/ferske-spor-januar2025/</loc>
     <lastmod>2025-02-03T19:24:36+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/video/the-prosecution-of-roger-ver/</loc>
+    <loc>http://localhost:1313/video/the-prosecution-of-roger-ver/</loc>
     <lastmod>2025-01-29T13:40:38+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/like/how-to-survive-a-plunge-from-a-waterfall/</loc>
+    <loc>http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/</loc>
     <lastmod>2025-01-25T23:47:36+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/photo/sol-luna-clothes/</loc>
+    <loc>http://localhost:1313/photo/sol-luna-clothes/</loc>
     <lastmod>2025-01-19T18:48:15+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/note/the-most-powerful-men/</loc>
+    <loc>http://localhost:1313/note/the-most-powerful-men/</loc>
     <lastmod>2025-01-14T21:09:56+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/quote/go-to-the-library/</loc>
+    <loc>http://localhost:1313/quote/go-to-the-library/</loc>
     <lastmod>2025-01-12T16:47:44+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/video/be-like-water/</loc>
+    <loc>http://localhost:1313/video/be-like-water/</loc>
     <lastmod>2025-01-11T23:30:49+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/photo/salinas-de-gozo/</loc>
+    <loc>http://localhost:1313/photo/salinas-de-gozo/</loc>
     <lastmod>2025-01-01T13:55:37+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/music/arets-album-2024/</loc>
+    <loc>http://localhost:1313/music/arets-album-2024/</loc>
     <lastmod>2024-12-27T01:08:13+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/like/eating-babies/</loc>
+    <loc>http://localhost:1313/like/eating-babies/</loc>
     <lastmod>2024-12-25T17:40:15+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/repost/if-you-want/</loc>
+    <loc>http://localhost:1313/repost/if-you-want/</loc>
     <lastmod>2024-12-15T19:07:05+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/video/bitcoin-is-an-embarrassment/</loc>
+    <loc>http://localhost:1313/video/bitcoin-is-an-embarrassment/</loc>
     <lastmod>2024-12-11T13:20:09+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/photo/shadow-work-with-luna/</loc>
+    <loc>http://localhost:1313/photo/shadow-work-with-luna/</loc>
     <lastmod>2024-12-08T11:41:42+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/listen/pluto-in-aquarius/</loc>
+    <loc>http://localhost:1313/listen/pluto-in-aquarius/</loc>
     <lastmod>2024-12-02T22:12:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/quote/vastly-preferable-to-those-that-follow-authority/</loc>
+    <loc>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</loc>
     <lastmod>2024-11-24T12:24:56+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/repost/a-complete-inversion-of-everything-that-made-us-human/</loc>
+    <loc>http://localhost:1313/repost/a-complete-inversion-of-everything-that-made-us-human/</loc>
     <lastmod>2024-11-20T17:42:15+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/all/</loc>
+    <loc>http://localhost:1313/all/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:45105/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,2291 +2,2321 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Casa de JuJu</title>
-    <link>http://localhost:45105/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 12:32:54 +0200</lastBuildDate><atom:link href="http://localhost:45105/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 22:25:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Government</title>
-      <link>http://localhost:45105/tags/government/</link>
-      <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
+      <title>Atmospheric</title>
+      <link>http://localhost:1313/tags/atmospheric/</link>
+      <pubDate>Wed, 11 Jun 2025 22:25:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/government/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>http://localhost:45105/tags/politics/</link>
-      <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/politics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Dating</title>
-      <link>http://localhost:45105/tags/dating/</link>
-      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/dating/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Economy</title>
-      <link>http://localhost:45105/tags/economy/</link>
-      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/economy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Men</title>
-      <link>http://localhost:45105/tags/men/</link>
-      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/men/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Relationships</title>
-      <link>http://localhost:45105/tags/relationships/</link>
-      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/relationships/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sociology</title>
-      <link>http://localhost:45105/tags/sociology/</link>
-      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sociology/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Women</title>
-      <link>http://localhost:45105/tags/women/</link>
-      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/women/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cherries</title>
-      <link>http://localhost:45105/tags/cherries/</link>
-      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/cherries/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Chipotle</title>
-      <link>http://localhost:45105/tags/chipotle/</link>
-      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/chipotle/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Coconut Water</title>
-      <link>http://localhost:45105/tags/coconut-water/</link>
-      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/coconut-water/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>http://localhost:45105/tags/food/</link>
-      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/food/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Meat</title>
-      <link>http://localhost:45105/tags/meat/</link>
-      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/meat/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pleasure</title>
-      <link>http://localhost:45105/tags/pleasure/</link>
-      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/pleasure/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Taurus</title>
-      <link>http://localhost:45105/tags/taurus/</link>
-      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/taurus/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>http://localhost:45105/tags/education/</link>
-      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/education/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Feminism</title>
-      <link>http://localhost:45105/tags/feminism/</link>
-      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/feminism/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Independence</title>
-      <link>http://localhost:45105/tags/independence/</link>
-      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/independence/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Marriage</title>
-      <link>http://localhost:45105/tags/marriage/</link>
-      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/marriage/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tinder</title>
-      <link>http://localhost:45105/tags/tinder/</link>
-      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/tinder/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Anxious</title>
-      <link>http://localhost:45105/tags/anxious/</link>
-      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/anxious/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Attachment</title>
-      <link>http://localhost:45105/tags/attachment/</link>
-      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/attachment/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Avoidant</title>
-      <link>http://localhost:45105/tags/avoidant/</link>
-      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/avoidant/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Communication</title>
-      <link>http://localhost:45105/tags/communication/</link>
-      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/communication/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Patterns</title>
-      <link>http://localhost:45105/tags/patterns/</link>
-      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/patterns/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Transparency</title>
-      <link>http://localhost:45105/tags/transparency/</link>
-      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/transparency/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Decentralization</title>
-      <link>http://localhost:45105/tags/decentralization/</link>
-      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/decentralization/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Dogma</title>
-      <link>http://localhost:45105/tags/dogma/</link>
-      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/dogma/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Experiment</title>
-      <link>http://localhost:45105/tags/experiment/</link>
-      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/experiment/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ideology</title>
-      <link>http://localhost:45105/tags/ideology/</link>
-      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/ideology/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Minimalism</title>
-      <link>http://localhost:45105/tags/minimalism/</link>
-      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/minimalism/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bitcoin</title>
-      <link>http://localhost:45105/tags/bitcoin/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/bitcoin/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Crypto</title>
-      <link>http://localhost:45105/tags/crypto/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/crypto/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Darknet</title>
-      <link>http://localhost:45105/tags/darknet/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/darknet/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fiat</title>
-      <link>http://localhost:45105/tags/fiat/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/fiat/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>http://localhost:45105/tags/finance/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/finance/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Markets</title>
-      <link>http://localhost:45105/tags/markets/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/markets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Money</title>
-      <link>http://localhost:45105/tags/money/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/money/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>P2P</title>
-      <link>http://localhost:45105/tags/p2p/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/p2p/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:45105/tags/privacy/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/privacy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Balance</title>
-      <link>http://localhost:45105/tags/balance/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/balance/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Battery</title>
-      <link>http://localhost:45105/tags/battery/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/battery/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Chill</title>
-      <link>http://localhost:45105/tags/chill/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/chill/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Disconnect</title>
-      <link>http://localhost:45105/tags/disconnect/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/disconnect/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Doing</title>
-      <link>http://localhost:45105/tags/doing/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/doing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Force</title>
-      <link>http://localhost:45105/tags/force/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/force/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hair</title>
-      <link>http://localhost:45105/tags/hair/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/hair/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Phone</title>
-      <link>http://localhost:45105/tags/phone/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/phone/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Relax</title>
-      <link>http://localhost:45105/tags/relax/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/relax/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Self-Help</title>
-      <link>http://localhost:45105/tags/self-help/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/self-help/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>http://localhost:45105/tags/work/</link>
-      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/work/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Morality</title>
-      <link>http://localhost:45105/tags/morality/</link>
-      <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/morality/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pfizer</title>
-      <link>http://localhost:45105/tags/pfizer/</link>
-      <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/pfizer/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Breathing</title>
-      <link>http://localhost:45105/tags/breathing/</link>
-      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/breathing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Breathwork</title>
-      <link>http://localhost:45105/tags/breathwork/</link>
-      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/breathwork/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Essence</title>
-      <link>http://localhost:45105/tags/essence/</link>
-      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/essence/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Listening</title>
-      <link>http://localhost:45105/tags/listening/</link>
-      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/listening/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Nervous System</title>
-      <link>http://localhost:45105/tags/nervous-system/</link>
-      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/nervous-system/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Trauma</title>
-      <link>http://localhost:45105/tags/trauma/</link>
-      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/trauma/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Yin</title>
-      <link>http://localhost:45105/tags/yin/</link>
-      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/yin/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Death</title>
-      <link>http://localhost:45105/tags/death/</link>
-      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/death/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Family</title>
-      <link>http://localhost:45105/tags/family/</link>
-      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/family/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Friends</title>
-      <link>http://localhost:45105/tags/friends/</link>
-      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/friends/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Funeral</title>
-      <link>http://localhost:45105/tags/funeral/</link>
-      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/funeral/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>http://localhost:45105/tags/life/</link>
-      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/life/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>http://localhost:45105/tags/health/</link>
-      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/health/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Raw Milk</title>
-      <link>http://localhost:45105/tags/raw-milk/</link>
-      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/raw-milk/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Seed Oils</title>
-      <link>http://localhost:45105/tags/seed-oils/</link>
-      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/seed-oils/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sun</title>
-      <link>http://localhost:45105/tags/sun/</link>
-      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sun/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sunscreen</title>
-      <link>http://localhost:45105/tags/sunscreen/</link>
-      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sunscreen/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ceremony</title>
-      <link>http://localhost:45105/tags/ceremony/</link>
-      <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/ceremony/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Frog</title>
-      <link>http://localhost:45105/tags/frog/</link>
-      <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/frog/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Healing</title>
-      <link>http://localhost:45105/tags/healing/</link>
-      <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/healing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Kambo</title>
-      <link>http://localhost:45105/tags/kambo/</link>
-      <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/kambo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Biology</title>
-      <link>http://localhost:45105/tags/biology/</link>
-      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/biology/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cancelled</title>
-      <link>http://localhost:45105/tags/cancelled/</link>
-      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/cancelled/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Gender</title>
-      <link>http://localhost:45105/tags/gender/</link>
-      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/gender/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Identity</title>
-      <link>http://localhost:45105/tags/identity/</link>
-      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/identity/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Matrix</title>
-      <link>http://localhost:45105/tags/matrix/</link>
-      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/matrix/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Transform</title>
-      <link>http://localhost:45105/tags/transform/</link>
-      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/transform/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Woke</title>
-      <link>http://localhost:45105/tags/woke/</link>
-      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/woke/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Corruption</title>
-      <link>http://localhost:45105/tags/corruption/</link>
-      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/corruption/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Democracy</title>
-      <link>http://localhost:45105/tags/democracy/</link>
-      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/democracy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Elections</title>
-      <link>http://localhost:45105/tags/elections/</link>
-      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/elections/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>EU</title>
-      <link>http://localhost:45105/tags/eu/</link>
-      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/eu/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Norway</title>
-      <link>http://localhost:45105/tags/norway/</link>
-      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/norway/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Russia</title>
-      <link>http://localhost:45105/tags/russia/</link>
-      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/russia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ucraine</title>
-      <link>http://localhost:45105/tags/ucraine/</link>
-      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/ucraine/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>War</title>
-      <link>http://localhost:45105/tags/war/</link>
-      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/war/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Love</title>
-      <link>http://localhost:45105/tags/love/</link>
-      <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/love/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hands</title>
-      <link>http://localhost:45105/tags/hands/</link>
-      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/hands/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hygiene</title>
-      <link>http://localhost:45105/tags/hygiene/</link>
-      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/hygiene/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Toilet</title>
-      <link>http://localhost:45105/tags/toilet/</link>
-      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/toilet/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Washing</title>
-      <link>http://localhost:45105/tags/washing/</link>
-      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/washing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cello</title>
-      <link>http://localhost:45105/tags/cello/</link>
-      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/cello/</guid>
+      <guid>http://localhost:1313/tags/atmospheric/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Deichman</title>
-      <link>http://localhost:45105/tags/deichman/</link>
-      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
+      <link>http://localhost:1313/tags/deichman/</link>
+      <pubDate>Wed, 11 Jun 2025 22:25:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/deichman/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Dub</title>
-      <link>http://localhost:45105/tags/dub/</link>
-      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/dub/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Etnofusion</title>
-      <link>http://localhost:45105/tags/etnofusion/</link>
-      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/etnofusion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sensual</title>
-      <link>http://localhost:45105/tags/sensual/</link>
-      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sensual/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Son Cubano</title>
-      <link>http://localhost:45105/tags/son-cubano/</link>
-      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/son-cubano/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Feminine</title>
-      <link>http://localhost:45105/tags/feminine/</link>
-      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/feminine/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Masculine</title>
-      <link>http://localhost:45105/tags/masculine/</link>
-      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/masculine/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Nurture</title>
-      <link>http://localhost:45105/tags/nurture/</link>
-      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/nurture/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Protect</title>
-      <link>http://localhost:45105/tags/protect/</link>
-      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/protect/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Surrender</title>
-      <link>http://localhost:45105/tags/surrender/</link>
-      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/surrender/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Trust</title>
-      <link>http://localhost:45105/tags/trust/</link>
-      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/trust/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ejaculation</title>
-      <link>http://localhost:45105/tags/ejaculation/</link>
-      <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/ejaculation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Orgasm</title>
-      <link>http://localhost:45105/tags/orgasm/</link>
-      <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/orgasm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sex</title>
-      <link>http://localhost:45105/tags/sex/</link>
-      <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sex/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Accent</title>
-      <link>http://localhost:45105/tags/accent/</link>
-      <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/accent/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Britain</title>
-      <link>http://localhost:45105/tags/britain/</link>
-      <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/britain/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fighting</title>
-      <link>http://localhost:45105/tags/fighting/</link>
-      <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/fighting/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Nutrition</title>
-      <link>http://localhost:45105/tags/nutrition/</link>
-      <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/nutrition/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Autonomy</title>
-      <link>http://localhost:45105/tags/autonomy/</link>
-      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/autonomy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Coercion</title>
-      <link>http://localhost:45105/tags/coercion/</link>
-      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/coercion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Freedom</title>
-      <link>http://localhost:45105/tags/freedom/</link>
-      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/freedom/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Liberty</title>
-      <link>http://localhost:45105/tags/liberty/</link>
-      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/liberty/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Peace</title>
-      <link>http://localhost:45105/tags/peace/</link>
-      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/peace/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sovereign</title>
-      <link>http://localhost:45105/tags/sovereign/</link>
-      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sovereign/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Voluntaryism</title>
-      <link>http://localhost:45105/tags/voluntaryism/</link>
-      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/voluntaryism/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Weird</title>
-      <link>http://localhost:45105/tags/weird/</link>
-      <pubDate>Tue, 01 Apr 2025 00:04:40 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/weird/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Banks</title>
-      <link>http://localhost:45105/tags/banks/</link>
-      <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/banks/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sleep</title>
-      <link>http://localhost:45105/tags/sleep/</link>
-      <pubDate>Fri, 21 Mar 2025 23:49:09 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sleep/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Afrobeat</title>
-      <link>http://localhost:45105/tags/afrobeat/</link>
-      <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/afrobeat/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ambient</title>
-      <link>http://localhost:45105/tags/ambient/</link>
-      <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/ambient/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Electronica</title>
-      <link>http://localhost:45105/tags/electronica/</link>
-      <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/electronica/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hiphop</title>
-      <link>http://localhost:45105/tags/hiphop/</link>
-      <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/hiphop/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>http://localhost:45105/tags/people/</link>
-      <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/people/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Unrealistic</title>
-      <link>http://localhost:45105/tags/unrealistic/</link>
-      <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/unrealistic/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Leisure</title>
-      <link>http://localhost:45105/tags/leisure/</link>
-      <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/leisure/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>http://localhost:45105/tags/productivity/</link>
-      <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/productivity/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Slavery</title>
-      <link>http://localhost:45105/tags/slavery/</link>
-      <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/slavery/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Monero</title>
-      <link>http://localhost:45105/tags/monero/</link>
-      <pubDate>Tue, 11 Mar 2025 12:51:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/monero/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Discipline</title>
-      <link>http://localhost:45105/tags/discipline/</link>
-      <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/discipline/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Strenght</title>
-      <link>http://localhost:45105/tags/strenght/</link>
-      <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/strenght/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Success</title>
-      <link>http://localhost:45105/tags/success/</link>
-      <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/success/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Aztec</title>
-      <link>http://localhost:45105/tags/aztec/</link>
-      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/aztec/</guid>
+      <guid>http://localhost:1313/tags/deichman/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dreams</title>
-      <link>http://localhost:45105/tags/dreams/</link>
-      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
+      <link>http://localhost:1313/tags/dreams/</link>
+      <pubDate>Wed, 11 Jun 2025 22:25:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/dreams/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ecstasy</title>
-      <link>http://localhost:45105/tags/ecstasy/</link>
-      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/ecstasy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Entheogen</title>
-      <link>http://localhost:45105/tags/entheogen/</link>
-      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/entheogen/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Flowers</title>
-      <link>http://localhost:45105/tags/flowers/</link>
-      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/flowers/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>God</title>
-      <link>http://localhost:45105/tags/god/</link>
-      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/god/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Statue</title>
-      <link>http://localhost:45105/tags/statue/</link>
-      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/statue/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Church</title>
-      <link>http://localhost:45105/tags/church/</link>
-      <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/church/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Lake</title>
-      <link>http://localhost:45105/tags/lake/</link>
-      <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/lake/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Macedonia</title>
-      <link>http://localhost:45105/tags/macedonia/</link>
-      <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/macedonia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:45105/tags/geography/</link>
-      <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/geography/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Geopolitics</title>
-      <link>http://localhost:45105/tags/geopolitics/</link>
-      <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/geopolitics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Map</title>
-      <link>http://localhost:45105/tags/map/</link>
-      <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/map/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Size</title>
-      <link>http://localhost:45105/tags/size/</link>
-      <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/size/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hunting</title>
-      <link>http://localhost:45105/tags/hunting/</link>
-      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/hunting/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Killing</title>
-      <link>http://localhost:45105/tags/killing/</link>
-      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/killing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Reflections</title>
-      <link>http://localhost:45105/tags/reflections/</link>
-      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/reflections/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Transformation</title>
-      <link>http://localhost:45105/tags/transformation/</link>
-      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/transformation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Weapons</title>
-      <link>http://localhost:45105/tags/weapons/</link>
-      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/weapons/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ayahuasca</title>
-      <link>http://localhost:45105/tags/ayahuasca/</link>
-      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/ayahuasca/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Light</title>
-      <link>http://localhost:45105/tags/light/</link>
-      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/light/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Meditation</title>
-      <link>http://localhost:45105/tags/meditation/</link>
-      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/meditation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Moon</title>
-      <link>http://localhost:45105/tags/moon/</link>
-      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/moon/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Spiritual</title>
-      <link>http://localhost:45105/tags/spiritual/</link>
-      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/spiritual/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vibes</title>
-      <link>http://localhost:45105/tags/vibes/</link>
-      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/vibes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Classic</title>
-      <link>http://localhost:45105/tags/classic/</link>
-      <pubDate>Fri, 14 Feb 2025 14:15:26 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/classic/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Authenticity</title>
-      <link>http://localhost:45105/tags/authenticity/</link>
-      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/authenticity/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Consciousness</title>
-      <link>http://localhost:45105/tags/consciousness/</link>
-      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/consciousness/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Emotions</title>
-      <link>http://localhost:45105/tags/emotions/</link>
-      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/emotions/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Self-Awareness</title>
-      <link>http://localhost:45105/tags/self-awareness/</link>
-      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/self-awareness/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Triggers</title>
-      <link>http://localhost:45105/tags/triggers/</link>
-      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/triggers/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>State</title>
-      <link>http://localhost:45105/tags/state/</link>
-      <pubDate>Tue, 11 Feb 2025 22:31:37 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/state/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Farm</title>
-      <link>http://localhost:45105/tags/farm/</link>
-      <pubDate>Mon, 10 Feb 2025 23:00:09 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/farm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Theatre</title>
-      <link>http://localhost:45105/tags/theatre/</link>
-      <pubDate>Mon, 10 Feb 2025 23:00:09 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/theatre/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Chillout</title>
-      <link>http://localhost:45105/tags/chillout/</link>
-      <pubDate>Mon, 03 Feb 2025 19:24:36 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/chillout/</guid>
+      <guid>http://localhost:1313/tags/dreams/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lo-Fi</title>
-      <link>http://localhost:45105/tags/lo-fi/</link>
+      <link>http://localhost:1313/tags/lo-fi/</link>
+      <pubDate>Wed, 11 Jun 2025 22:25:06 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/lo-fi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Minimal</title>
+      <link>http://localhost:1313/tags/minimal/</link>
+      <pubDate>Wed, 11 Jun 2025 22:25:06 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/minimal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Organic</title>
+      <link>http://localhost:1313/tags/organic/</link>
+      <pubDate>Wed, 11 Jun 2025 22:25:06 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/organic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Government</title>
+      <link>http://localhost:1313/tags/government/</link>
+      <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/government/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/tags/politics/</link>
+      <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/politics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dating</title>
+      <link>http://localhost:1313/tags/dating/</link>
+      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/dating/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>http://localhost:1313/tags/economy/</link>
+      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/economy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Men</title>
+      <link>http://localhost:1313/tags/men/</link>
+      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/men/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Relationships</title>
+      <link>http://localhost:1313/tags/relationships/</link>
+      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/relationships/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sociology</title>
+      <link>http://localhost:1313/tags/sociology/</link>
+      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/sociology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Women</title>
+      <link>http://localhost:1313/tags/women/</link>
+      <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/women/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cherries</title>
+      <link>http://localhost:1313/tags/cherries/</link>
+      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/cherries/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chipotle</title>
+      <link>http://localhost:1313/tags/chipotle/</link>
+      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/chipotle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Coconut Water</title>
+      <link>http://localhost:1313/tags/coconut-water/</link>
+      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/coconut-water/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>http://localhost:1313/tags/food/</link>
+      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/food/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Meat</title>
+      <link>http://localhost:1313/tags/meat/</link>
+      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/meat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pleasure</title>
+      <link>http://localhost:1313/tags/pleasure/</link>
+      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/pleasure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Taurus</title>
+      <link>http://localhost:1313/tags/taurus/</link>
+      <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/taurus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/tags/education/</link>
+      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/education/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Feminism</title>
+      <link>http://localhost:1313/tags/feminism/</link>
+      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/feminism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Independence</title>
+      <link>http://localhost:1313/tags/independence/</link>
+      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/independence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Marriage</title>
+      <link>http://localhost:1313/tags/marriage/</link>
+      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/marriage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tinder</title>
+      <link>http://localhost:1313/tags/tinder/</link>
+      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/tinder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anxious</title>
+      <link>http://localhost:1313/tags/anxious/</link>
+      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/anxious/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Attachment</title>
+      <link>http://localhost:1313/tags/attachment/</link>
+      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/attachment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Avoidant</title>
+      <link>http://localhost:1313/tags/avoidant/</link>
+      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/avoidant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://localhost:1313/tags/communication/</link>
+      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/communication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Patterns</title>
+      <link>http://localhost:1313/tags/patterns/</link>
+      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/patterns/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transparency</title>
+      <link>http://localhost:1313/tags/transparency/</link>
+      <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/transparency/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Decentralization</title>
+      <link>http://localhost:1313/tags/decentralization/</link>
+      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/decentralization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dogma</title>
+      <link>http://localhost:1313/tags/dogma/</link>
+      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/dogma/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Experiment</title>
+      <link>http://localhost:1313/tags/experiment/</link>
+      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/experiment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ideology</title>
+      <link>http://localhost:1313/tags/ideology/</link>
+      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/ideology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Minimalism</title>
+      <link>http://localhost:1313/tags/minimalism/</link>
+      <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/minimalism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>http://localhost:1313/tags/bitcoin/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/bitcoin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Crypto</title>
+      <link>http://localhost:1313/tags/crypto/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/crypto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Darknet</title>
+      <link>http://localhost:1313/tags/darknet/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/darknet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fiat</title>
+      <link>http://localhost:1313/tags/fiat/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/fiat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markets</title>
+      <link>http://localhost:1313/tags/markets/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/markets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Money</title>
+      <link>http://localhost:1313/tags/money/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/money/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>P2P</title>
+      <link>http://localhost:1313/tags/p2p/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/p2p/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
+      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Balance</title>
+      <link>http://localhost:1313/tags/balance/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/balance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Battery</title>
+      <link>http://localhost:1313/tags/battery/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/battery/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chill</title>
+      <link>http://localhost:1313/tags/chill/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/chill/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Disconnect</title>
+      <link>http://localhost:1313/tags/disconnect/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/disconnect/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Doing</title>
+      <link>http://localhost:1313/tags/doing/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/doing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Force</title>
+      <link>http://localhost:1313/tags/force/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/force/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hair</title>
+      <link>http://localhost:1313/tags/hair/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/hair/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>http://localhost:1313/tags/phone/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/phone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Relax</title>
+      <link>http://localhost:1313/tags/relax/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/relax/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Self-Help</title>
+      <link>http://localhost:1313/tags/self-help/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/self-help/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/tags/work/</link>
+      <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/work/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Morality</title>
+      <link>http://localhost:1313/tags/morality/</link>
+      <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/morality/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pfizer</title>
+      <link>http://localhost:1313/tags/pfizer/</link>
+      <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/pfizer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Breathing</title>
+      <link>http://localhost:1313/tags/breathing/</link>
+      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/breathing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Breathwork</title>
+      <link>http://localhost:1313/tags/breathwork/</link>
+      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/breathwork/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Essence</title>
+      <link>http://localhost:1313/tags/essence/</link>
+      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/essence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Listening</title>
+      <link>http://localhost:1313/tags/listening/</link>
+      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/listening/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nervous System</title>
+      <link>http://localhost:1313/tags/nervous-system/</link>
+      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/nervous-system/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trauma</title>
+      <link>http://localhost:1313/tags/trauma/</link>
+      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/trauma/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Yin</title>
+      <link>http://localhost:1313/tags/yin/</link>
+      <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/yin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Death</title>
+      <link>http://localhost:1313/tags/death/</link>
+      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/death/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>http://localhost:1313/tags/family/</link>
+      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/family/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>http://localhost:1313/tags/friends/</link>
+      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/friends/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Funeral</title>
+      <link>http://localhost:1313/tags/funeral/</link>
+      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/funeral/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/tags/health/</link>
+      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/health/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Raw Milk</title>
+      <link>http://localhost:1313/tags/raw-milk/</link>
+      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/raw-milk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Seed Oils</title>
+      <link>http://localhost:1313/tags/seed-oils/</link>
+      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/seed-oils/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sun</title>
+      <link>http://localhost:1313/tags/sun/</link>
+      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/sun/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sunscreen</title>
+      <link>http://localhost:1313/tags/sunscreen/</link>
+      <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/sunscreen/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ceremony</title>
+      <link>http://localhost:1313/tags/ceremony/</link>
+      <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/ceremony/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Frog</title>
+      <link>http://localhost:1313/tags/frog/</link>
+      <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/frog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Healing</title>
+      <link>http://localhost:1313/tags/healing/</link>
+      <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/healing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kambo</title>
+      <link>http://localhost:1313/tags/kambo/</link>
+      <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/kambo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Biology</title>
+      <link>http://localhost:1313/tags/biology/</link>
+      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/biology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cancelled</title>
+      <link>http://localhost:1313/tags/cancelled/</link>
+      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/cancelled/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gender</title>
+      <link>http://localhost:1313/tags/gender/</link>
+      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/gender/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Identity</title>
+      <link>http://localhost:1313/tags/identity/</link>
+      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/identity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matrix</title>
+      <link>http://localhost:1313/tags/matrix/</link>
+      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/matrix/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transform</title>
+      <link>http://localhost:1313/tags/transform/</link>
+      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/transform/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Woke</title>
+      <link>http://localhost:1313/tags/woke/</link>
+      <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/woke/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Corruption</title>
+      <link>http://localhost:1313/tags/corruption/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/corruption/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Democracy</title>
+      <link>http://localhost:1313/tags/democracy/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/democracy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Elections</title>
+      <link>http://localhost:1313/tags/elections/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/elections/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>EU</title>
+      <link>http://localhost:1313/tags/eu/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/eu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Norway</title>
+      <link>http://localhost:1313/tags/norway/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/norway/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Russia</title>
+      <link>http://localhost:1313/tags/russia/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/russia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ucraine</title>
+      <link>http://localhost:1313/tags/ucraine/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/ucraine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>War</title>
+      <link>http://localhost:1313/tags/war/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/war/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Love</title>
+      <link>http://localhost:1313/tags/love/</link>
+      <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/love/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hands</title>
+      <link>http://localhost:1313/tags/hands/</link>
+      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/hands/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hygiene</title>
+      <link>http://localhost:1313/tags/hygiene/</link>
+      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/hygiene/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Toilet</title>
+      <link>http://localhost:1313/tags/toilet/</link>
+      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/toilet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Washing</title>
+      <link>http://localhost:1313/tags/washing/</link>
+      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/washing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cello</title>
+      <link>http://localhost:1313/tags/cello/</link>
+      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/cello/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dub</title>
+      <link>http://localhost:1313/tags/dub/</link>
+      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/dub/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Etnofusion</title>
+      <link>http://localhost:1313/tags/etnofusion/</link>
+      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/etnofusion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sensual</title>
+      <link>http://localhost:1313/tags/sensual/</link>
+      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/sensual/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Son Cubano</title>
+      <link>http://localhost:1313/tags/son-cubano/</link>
+      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/son-cubano/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Feminine</title>
+      <link>http://localhost:1313/tags/feminine/</link>
+      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/feminine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Masculine</title>
+      <link>http://localhost:1313/tags/masculine/</link>
+      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/masculine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nurture</title>
+      <link>http://localhost:1313/tags/nurture/</link>
+      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/nurture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Protect</title>
+      <link>http://localhost:1313/tags/protect/</link>
+      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/protect/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Surrender</title>
+      <link>http://localhost:1313/tags/surrender/</link>
+      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/surrender/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trust</title>
+      <link>http://localhost:1313/tags/trust/</link>
+      <pubDate>Sat, 19 Apr 2025 11:32:34 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/trust/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ejaculation</title>
+      <link>http://localhost:1313/tags/ejaculation/</link>
+      <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/ejaculation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Orgasm</title>
+      <link>http://localhost:1313/tags/orgasm/</link>
+      <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/orgasm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sex</title>
+      <link>http://localhost:1313/tags/sex/</link>
+      <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/sex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accent</title>
+      <link>http://localhost:1313/tags/accent/</link>
+      <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/accent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Britain</title>
+      <link>http://localhost:1313/tags/britain/</link>
+      <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/britain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fighting</title>
+      <link>http://localhost:1313/tags/fighting/</link>
+      <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/fighting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nutrition</title>
+      <link>http://localhost:1313/tags/nutrition/</link>
+      <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/nutrition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Autonomy</title>
+      <link>http://localhost:1313/tags/autonomy/</link>
+      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/autonomy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Coercion</title>
+      <link>http://localhost:1313/tags/coercion/</link>
+      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/coercion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Freedom</title>
+      <link>http://localhost:1313/tags/freedom/</link>
+      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/freedom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Liberty</title>
+      <link>http://localhost:1313/tags/liberty/</link>
+      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/liberty/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Peace</title>
+      <link>http://localhost:1313/tags/peace/</link>
+      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/peace/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sovereign</title>
+      <link>http://localhost:1313/tags/sovereign/</link>
+      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/sovereign/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Voluntaryism</title>
+      <link>http://localhost:1313/tags/voluntaryism/</link>
+      <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/voluntaryism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Weird</title>
+      <link>http://localhost:1313/tags/weird/</link>
+      <pubDate>Tue, 01 Apr 2025 00:04:40 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/weird/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Banks</title>
+      <link>http://localhost:1313/tags/banks/</link>
+      <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/banks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sleep</title>
+      <link>http://localhost:1313/tags/sleep/</link>
+      <pubDate>Fri, 21 Mar 2025 23:49:09 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/sleep/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Afrobeat</title>
+      <link>http://localhost:1313/tags/afrobeat/</link>
+      <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/afrobeat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ambient</title>
+      <link>http://localhost:1313/tags/ambient/</link>
+      <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/ambient/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Electronica</title>
+      <link>http://localhost:1313/tags/electronica/</link>
+      <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/electronica/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hiphop</title>
+      <link>http://localhost:1313/tags/hiphop/</link>
+      <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/hiphop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://localhost:1313/tags/people/</link>
+      <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/people/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unrealistic</title>
+      <link>http://localhost:1313/tags/unrealistic/</link>
+      <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/unrealistic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Leisure</title>
+      <link>http://localhost:1313/tags/leisure/</link>
+      <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/leisure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
+      <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/productivity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Slavery</title>
+      <link>http://localhost:1313/tags/slavery/</link>
+      <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/slavery/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Monero</title>
+      <link>http://localhost:1313/tags/monero/</link>
+      <pubDate>Tue, 11 Mar 2025 12:51:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/monero/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Discipline</title>
+      <link>http://localhost:1313/tags/discipline/</link>
+      <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/discipline/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Strenght</title>
+      <link>http://localhost:1313/tags/strenght/</link>
+      <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/strenght/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Success</title>
+      <link>http://localhost:1313/tags/success/</link>
+      <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/success/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aztec</title>
+      <link>http://localhost:1313/tags/aztec/</link>
+      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/aztec/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ecstasy</title>
+      <link>http://localhost:1313/tags/ecstasy/</link>
+      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/ecstasy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Entheogen</title>
+      <link>http://localhost:1313/tags/entheogen/</link>
+      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/entheogen/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Flowers</title>
+      <link>http://localhost:1313/tags/flowers/</link>
+      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/flowers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>God</title>
+      <link>http://localhost:1313/tags/god/</link>
+      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/god/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Statue</title>
+      <link>http://localhost:1313/tags/statue/</link>
+      <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/statue/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Church</title>
+      <link>http://localhost:1313/tags/church/</link>
+      <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/church/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lake</title>
+      <link>http://localhost:1313/tags/lake/</link>
+      <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/lake/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Macedonia</title>
+      <link>http://localhost:1313/tags/macedonia/</link>
+      <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/macedonia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Geography</title>
+      <link>http://localhost:1313/tags/geography/</link>
+      <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/geography/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Geopolitics</title>
+      <link>http://localhost:1313/tags/geopolitics/</link>
+      <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/geopolitics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Map</title>
+      <link>http://localhost:1313/tags/map/</link>
+      <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/map/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Size</title>
+      <link>http://localhost:1313/tags/size/</link>
+      <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/size/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hunting</title>
+      <link>http://localhost:1313/tags/hunting/</link>
+      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/hunting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Killing</title>
+      <link>http://localhost:1313/tags/killing/</link>
+      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/killing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reflections</title>
+      <link>http://localhost:1313/tags/reflections/</link>
+      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/reflections/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>http://localhost:1313/tags/transformation/</link>
+      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/transformation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Weapons</title>
+      <link>http://localhost:1313/tags/weapons/</link>
+      <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/weapons/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ayahuasca</title>
+      <link>http://localhost:1313/tags/ayahuasca/</link>
+      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/ayahuasca/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Light</title>
+      <link>http://localhost:1313/tags/light/</link>
+      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/light/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Meditation</title>
+      <link>http://localhost:1313/tags/meditation/</link>
+      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/meditation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Moon</title>
+      <link>http://localhost:1313/tags/moon/</link>
+      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/moon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spiritual</title>
+      <link>http://localhost:1313/tags/spiritual/</link>
+      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/spiritual/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vibes</title>
+      <link>http://localhost:1313/tags/vibes/</link>
+      <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/vibes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Classic</title>
+      <link>http://localhost:1313/tags/classic/</link>
+      <pubDate>Fri, 14 Feb 2025 14:15:26 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/classic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authenticity</title>
+      <link>http://localhost:1313/tags/authenticity/</link>
+      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/authenticity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Consciousness</title>
+      <link>http://localhost:1313/tags/consciousness/</link>
+      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/consciousness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Emotions</title>
+      <link>http://localhost:1313/tags/emotions/</link>
+      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/emotions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Self-Awareness</title>
+      <link>http://localhost:1313/tags/self-awareness/</link>
+      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/self-awareness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Triggers</title>
+      <link>http://localhost:1313/tags/triggers/</link>
+      <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/triggers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>State</title>
+      <link>http://localhost:1313/tags/state/</link>
+      <pubDate>Tue, 11 Feb 2025 22:31:37 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/state/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Farm</title>
+      <link>http://localhost:1313/tags/farm/</link>
+      <pubDate>Mon, 10 Feb 2025 23:00:09 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/farm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Theatre</title>
+      <link>http://localhost:1313/tags/theatre/</link>
+      <pubDate>Mon, 10 Feb 2025 23:00:09 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/theatre/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chillout</title>
+      <link>http://localhost:1313/tags/chillout/</link>
       <pubDate>Mon, 03 Feb 2025 19:24:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/lo-fi/</guid>
+      <guid>http://localhost:1313/tags/chillout/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Citizenship</title>
-      <link>http://localhost:45105/tags/citizenship/</link>
+      <link>http://localhost:1313/tags/citizenship/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/citizenship/</guid>
+      <guid>http://localhost:1313/tags/citizenship/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lawfare</title>
-      <link>http://localhost:45105/tags/lawfare/</link>
+      <link>http://localhost:1313/tags/lawfare/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/lawfare/</guid>
+      <guid>http://localhost:1313/tags/lawfare/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tax</title>
-      <link>http://localhost:45105/tags/tax/</link>
+      <link>http://localhost:1313/tags/tax/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/tax/</guid>
+      <guid>http://localhost:1313/tags/tax/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Survival</title>
-      <link>http://localhost:45105/tags/survival/</link>
+      <link>http://localhost:1313/tags/survival/</link>
       <pubDate>Sat, 25 Jan 2025 23:47:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/survival/</guid>
+      <guid>http://localhost:1313/tags/survival/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Swimming</title>
-      <link>http://localhost:45105/tags/swimming/</link>
+      <link>http://localhost:1313/tags/swimming/</link>
       <pubDate>Sat, 25 Jan 2025 23:47:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/swimming/</guid>
+      <guid>http://localhost:1313/tags/swimming/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Water</title>
-      <link>http://localhost:45105/tags/water/</link>
+      <link>http://localhost:1313/tags/water/</link>
       <pubDate>Sat, 25 Jan 2025 23:47:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/water/</guid>
+      <guid>http://localhost:1313/tags/water/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Clothes</title>
-      <link>http://localhost:45105/tags/clothes/</link>
+      <link>http://localhost:1313/tags/clothes/</link>
       <pubDate>Sun, 19 Jan 2025 18:48:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/clothes/</guid>
+      <guid>http://localhost:1313/tags/clothes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Luna</title>
-      <link>http://localhost:45105/tags/luna/</link>
+      <link>http://localhost:1313/tags/luna/</link>
       <pubDate>Sun, 19 Jan 2025 18:48:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/luna/</guid>
+      <guid>http://localhost:1313/tags/luna/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Empowerment</title>
-      <link>http://localhost:45105/tags/empowerment/</link>
+      <link>http://localhost:1313/tags/empowerment/</link>
       <pubDate>Tue, 14 Jan 2025 21:09:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/empowerment/</guid>
+      <guid>http://localhost:1313/tags/empowerment/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reactivity</title>
-      <link>http://localhost:45105/tags/reactivity/</link>
+      <link>http://localhost:1313/tags/reactivity/</link>
       <pubDate>Tue, 14 Jan 2025 21:09:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/reactivity/</guid>
+      <guid>http://localhost:1313/tags/reactivity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Library</title>
-      <link>http://localhost:45105/tags/library/</link>
+      <link>http://localhost:1313/tags/library/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/library/</guid>
+      <guid>http://localhost:1313/tags/library/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mind</title>
-      <link>http://localhost:45105/tags/mind/</link>
+      <link>http://localhost:1313/tags/mind/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/mind/</guid>
+      <guid>http://localhost:1313/tags/mind/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>School</title>
-      <link>http://localhost:45105/tags/school/</link>
+      <link>http://localhost:1313/tags/school/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/school/</guid>
+      <guid>http://localhost:1313/tags/school/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Acceptance</title>
-      <link>http://localhost:45105/tags/acceptance/</link>
+      <link>http://localhost:1313/tags/acceptance/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/acceptance/</guid>
+      <guid>http://localhost:1313/tags/acceptance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Action</title>
-      <link>http://localhost:45105/tags/action/</link>
+      <link>http://localhost:1313/tags/action/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/action/</guid>
+      <guid>http://localhost:1313/tags/action/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Adapt</title>
-      <link>http://localhost:45105/tags/adapt/</link>
+      <link>http://localhost:1313/tags/adapt/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/adapt/</guid>
+      <guid>http://localhost:1313/tags/adapt/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Being</title>
-      <link>http://localhost:45105/tags/being/</link>
+      <link>http://localhost:1313/tags/being/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/being/</guid>
+      <guid>http://localhost:1313/tags/being/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Flow</title>
-      <link>http://localhost:45105/tags/flow/</link>
+      <link>http://localhost:1313/tags/flow/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/flow/</guid>
+      <guid>http://localhost:1313/tags/flow/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Focus</title>
-      <link>http://localhost:45105/tags/focus/</link>
+      <link>http://localhost:1313/tags/focus/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/focus/</guid>
+      <guid>http://localhost:1313/tags/focus/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mindset</title>
-      <link>http://localhost:45105/tags/mindset/</link>
+      <link>http://localhost:1313/tags/mindset/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/mindset/</guid>
+      <guid>http://localhost:1313/tags/mindset/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Motivation</title>
-      <link>http://localhost:45105/tags/motivation/</link>
+      <link>http://localhost:1313/tags/motivation/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/motivation/</guid>
+      <guid>http://localhost:1313/tags/motivation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:45105/tags/philosophy/</link>
+      <link>http://localhost:1313/tags/philosophy/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/philosophy/</guid>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Salt</title>
-      <link>http://localhost:45105/tags/salt/</link>
+      <link>http://localhost:1313/tags/salt/</link>
       <pubDate>Wed, 01 Jan 2025 13:55:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/salt/</guid>
+      <guid>http://localhost:1313/tags/salt/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sea</title>
-      <link>http://localhost:45105/tags/sea/</link>
+      <link>http://localhost:1313/tags/sea/</link>
       <pubDate>Wed, 01 Jan 2025 13:55:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sea/</guid>
+      <guid>http://localhost:1313/tags/sea/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Beats</title>
-      <link>http://localhost:45105/tags/beats/</link>
+      <link>http://localhost:1313/tags/beats/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/beats/</guid>
+      <guid>http://localhost:1313/tags/beats/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dance</title>
-      <link>http://localhost:45105/tags/dance/</link>
+      <link>http://localhost:1313/tags/dance/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/dance/</guid>
+      <guid>http://localhost:1313/tags/dance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Experimental</title>
-      <link>http://localhost:45105/tags/experimental/</link>
+      <link>http://localhost:1313/tags/experimental/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/experimental/</guid>
+      <guid>http://localhost:1313/tags/experimental/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bird</title>
-      <link>http://localhost:45105/tags/bird/</link>
+      <link>http://localhost:1313/tags/bird/</link>
       <pubDate>Wed, 25 Dec 2024 17:40:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/bird/</guid>
+      <guid>http://localhost:1313/tags/bird/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Eating</title>
-      <link>http://localhost:45105/tags/eating/</link>
+      <link>http://localhost:1313/tags/eating/</link>
       <pubDate>Wed, 25 Dec 2024 17:40:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/eating/</guid>
+      <guid>http://localhost:1313/tags/eating/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Singing</title>
-      <link>http://localhost:45105/tags/singing/</link>
+      <link>http://localhost:1313/tags/singing/</link>
       <pubDate>Wed, 25 Dec 2024 17:40:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/singing/</guid>
+      <guid>http://localhost:1313/tags/singing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Challenges</title>
-      <link>http://localhost:45105/tags/challenges/</link>
+      <link>http://localhost:1313/tags/challenges/</link>
       <pubDate>Sun, 15 Dec 2024 19:07:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/challenges/</guid>
+      <guid>http://localhost:1313/tags/challenges/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fitness</title>
-      <link>http://localhost:45105/tags/fitness/</link>
+      <link>http://localhost:1313/tags/fitness/</link>
       <pubDate>Sun, 15 Dec 2024 19:07:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/fitness/</guid>
+      <guid>http://localhost:1313/tags/fitness/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fulfillment</title>
-      <link>http://localhost:45105/tags/fulfillment/</link>
+      <link>http://localhost:1313/tags/fulfillment/</link>
       <pubDate>Sun, 15 Dec 2024 19:07:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/fulfillment/</guid>
+      <guid>http://localhost:1313/tags/fulfillment/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Growth</title>
-      <link>http://localhost:45105/tags/growth/</link>
+      <link>http://localhost:1313/tags/growth/</link>
       <pubDate>Sun, 15 Dec 2024 19:07:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/growth/</guid>
+      <guid>http://localhost:1313/tags/growth/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Passion</title>
-      <link>http://localhost:45105/tags/passion/</link>
+      <link>http://localhost:1313/tags/passion/</link>
       <pubDate>Sun, 15 Dec 2024 19:07:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/passion/</guid>
+      <guid>http://localhost:1313/tags/passion/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Censorship</title>
-      <link>http://localhost:45105/tags/censorship/</link>
+      <link>http://localhost:1313/tags/censorship/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/censorship/</guid>
+      <guid>http://localhost:1313/tags/censorship/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Persecution</title>
-      <link>http://localhost:45105/tags/persecution/</link>
+      <link>http://localhost:1313/tags/persecution/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/persecution/</guid>
+      <guid>http://localhost:1313/tags/persecution/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Traceability</title>
-      <link>http://localhost:45105/tags/traceability/</link>
+      <link>http://localhost:1313/tags/traceability/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/traceability/</guid>
+      <guid>http://localhost:1313/tags/traceability/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Shadows</title>
-      <link>http://localhost:45105/tags/shadows/</link>
+      <link>http://localhost:1313/tags/shadows/</link>
       <pubDate>Sun, 08 Dec 2024 11:41:42 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/shadows/</guid>
+      <guid>http://localhost:1313/tags/shadows/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Aquarius</title>
-      <link>http://localhost:45105/tags/aquarius/</link>
+      <link>http://localhost:1313/tags/aquarius/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/aquarius/</guid>
+      <guid>http://localhost:1313/tags/aquarius/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Astrology</title>
-      <link>http://localhost:45105/tags/astrology/</link>
+      <link>http://localhost:1313/tags/astrology/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/astrology/</guid>
+      <guid>http://localhost:1313/tags/astrology/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Collective</title>
-      <link>http://localhost:45105/tags/collective/</link>
+      <link>http://localhost:1313/tags/collective/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/collective/</guid>
+      <guid>http://localhost:1313/tags/collective/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Evolution</title>
-      <link>http://localhost:45105/tags/evolution/</link>
+      <link>http://localhost:1313/tags/evolution/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/evolution/</guid>
+      <guid>http://localhost:1313/tags/evolution/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pluto</title>
-      <link>http://localhost:45105/tags/pluto/</link>
+      <link>http://localhost:1313/tags/pluto/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/pluto/</guid>
+      <guid>http://localhost:1313/tags/pluto/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Polarization</title>
-      <link>http://localhost:45105/tags/polarization/</link>
+      <link>http://localhost:1313/tags/polarization/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/polarization/</guid>
+      <guid>http://localhost:1313/tags/polarization/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Revolution</title>
-      <link>http://localhost:45105/tags/revolution/</link>
+      <link>http://localhost:1313/tags/revolution/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/revolution/</guid>
+      <guid>http://localhost:1313/tags/revolution/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Technology</title>
-      <link>http://localhost:45105/tags/technology/</link>
+      <link>http://localhost:1313/tags/technology/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/technology/</guid>
+      <guid>http://localhost:1313/tags/technology/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Anarchism</title>
-      <link>http://localhost:45105/tags/anarchism/</link>
+      <link>http://localhost:1313/tags/anarchism/</link>
       <pubDate>Sun, 24 Nov 2024 12:24:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/anarchism/</guid>
+      <guid>http://localhost:1313/tags/anarchism/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Authority</title>
-      <link>http://localhost:45105/tags/authority/</link>
+      <link>http://localhost:1313/tags/authority/</link>
       <pubDate>Sun, 24 Nov 2024 12:24:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/authority/</guid>
+      <guid>http://localhost:1313/tags/authority/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Perfection</title>
-      <link>http://localhost:45105/tags/perfection/</link>
+      <link>http://localhost:1313/tags/perfection/</link>
       <pubDate>Sun, 24 Nov 2024 12:24:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/perfection/</guid>
+      <guid>http://localhost:1313/tags/perfection/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>City</title>
-      <link>http://localhost:45105/tags/city/</link>
+      <link>http://localhost:1313/tags/city/</link>
       <pubDate>Wed, 20 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/city/</guid>
+      <guid>http://localhost:1313/tags/city/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Culture</title>
-      <link>http://localhost:45105/tags/culture/</link>
+      <link>http://localhost:1313/tags/culture/</link>
       <pubDate>Wed, 20 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/culture/</guid>
+      <guid>http://localhost:1313/tags/culture/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Suffering</title>
-      <link>http://localhost:45105/tags/suffering/</link>
+      <link>http://localhost:1313/tags/suffering/</link>
       <pubDate>Wed, 20 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/suffering/</guid>
+      <guid>http://localhost:1313/tags/suffering/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sunshine</title>
-      <link>http://localhost:45105/tags/sunshine/</link>
+      <link>http://localhost:1313/tags/sunshine/</link>
       <pubDate>Wed, 20 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/sunshine/</guid>
+      <guid>http://localhost:1313/tags/sunshine/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tribe</title>
-      <link>http://localhost:45105/tags/tribe/</link>
+      <link>http://localhost:1313/tags/tribe/</link>
       <pubDate>Wed, 20 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/tribe/</guid>
+      <guid>http://localhost:1313/tags/tribe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Veganism</title>
-      <link>http://localhost:45105/tags/veganism/</link>
+      <link>http://localhost:1313/tags/veganism/</link>
       <pubDate>Wed, 20 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:45105/tags/veganism/</guid>
+      <guid>http://localhost:1313/tags/veganism/</guid>
       <description></description>
       
     </item>
