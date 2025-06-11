@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ceremony on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/ceremony/</link>
+    <link>http://localhost:45105/tags/ceremony/</link>
     <description>Recent content in Ceremony on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sat, 03 May 2025 23:32:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/ceremony/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 May 2025 23:32:13 +0200</lastBuildDate><atom:link href="http://localhost:45105/tags/ceremony/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Luz verde</title>
-      <link>http://localhost:1313/photo/luz-verde/</link>
+      <link>http://localhost:45105/photo/luz-verde/</link>
       <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/luz-verde/</guid>
+      <guid>http://localhost:45105/photo/luz-verde/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/luz-verde/featured-kit.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/photo/luz-verde/featured-kit.jpg" />
     </item>
     
     <item>
       <title>Everything is eating everything</title>
-      <link>http://localhost:1313/listen/everything-is-eating-everything/</link>
+      <link>http://localhost:45105/listen/everything-is-eating-everything/</link>
       <pubDate>Mon, 24 Feb 2025 20:45:18 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/listen/everything-is-eating-everything/</guid>
+      <guid>http://localhost:45105/listen/everything-is-eating-everything/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/listen/everything-is-eating-everything/featured-header.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/listen/everything-is-eating-everything/featured-header.jpg" />
     </item>
     
     <item>
       <title>Spirituality packs</title>
-      <link>http://localhost:1313/like/spirituality-packs/</link>
+      <link>http://localhost:45105/like/spirituality-packs/</link>
       <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/spirituality-packs/</guid>
+      <guid>http://localhost:45105/like/spirituality-packs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/spirituality-packs/featured-shooting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45105/like/spirituality-packs/featured-shooting.jpg" />
     </item>
     
   </channel>
