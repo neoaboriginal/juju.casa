@@ -21,15 +21,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/when-the-taurus-moon-kicks-in/featured-flavors.jpeg" />
     </item>
     
-    <item>
-      <title>A complete inversion of everything that made us human</title>
-      <link>http://localhost:1313/repost/a-complete-inversion-of-everything-that-made-us-human/</link>
-      <pubDate>Wed, 20 Nov 2024 17:42:15 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/a-complete-inversion-of-everything-that-made-us-human/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
-    </item>
-    
   </channel>
 </rss>

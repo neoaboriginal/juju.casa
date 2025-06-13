@@ -4,19 +4,37 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-11T22:25:06+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/music/ferske-spor-juni2025/</loc>
-    <lastmod>2025-06-11T22:25:06+02:00</lastmod>
+    <lastmod>2025-06-18T22:25:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/music/</loc>
-    <lastmod>2025-06-11T22:25:06+02:00</lastmod>
+    <lastmod>2025-06-18T22:25:06+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bookmark/</loc>
+    <lastmod>2025-06-13T19:49:25+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bookmark/how-do-you-choose-to-suffer/</loc>
+    <lastmod>2025-06-13T19:49:25+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/repost/men-are-solar-women-are-lunar/</loc>
+    <lastmod>2025-06-13T19:39:44+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/repost/</loc>
+    <lastmod>2025-06-13T19:39:44+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,20 +63,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/photo/enter-the-void/</loc>
+    <lastmod>2025-06-07T19:29:59+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/photo/</loc>
-    <lastmod>2025-06-04T11:32:08+02:00</lastmod>
+    <lastmod>2025-06-07T19:29:59+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</loc>
     <lastmod>2025-06-04T11:32:08+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bookmark/</loc>
-    <lastmod>2025-06-03T13:07:46+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -71,12 +89,6 @@
   <url>
     <loc>http://localhost:1313/listen/the-anxious-avoidant-deathtrap/</loc>
     <lastmod>2025-05-30T19:32:07+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/repost/</loc>
-    <lastmod>2025-05-29T01:00:35+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -393,8 +405,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/repost/a-complete-inversion-of-everything-that-made-us-human/</loc>
-    <lastmod>2024-11-20T17:42:15+02:00</lastmod>
+    <loc>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</loc>
+    <lastmod>2024-11-19T17:42:15+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
