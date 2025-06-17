@@ -4,25 +4,13 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-18T22:25:06+02:00</lastmod>
+    <lastmod>2025-06-17T22:25:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/music/</loc>
-    <lastmod>2025-06-18T22:25:06+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bookmark/</loc>
-    <lastmod>2025-06-13T19:49:25+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bookmark/how-do-you-choose-to-suffer/</loc>
-    <lastmod>2025-06-13T19:49:25+02:00</lastmod>
+    <lastmod>2025-06-17T22:25:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -77,6 +65,12 @@
   <url>
     <loc>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</loc>
     <lastmod>2025-06-04T11:32:08+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bookmark/</loc>
+    <lastmod>2025-06-03T13:07:46+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -407,6 +401,12 @@
   <url>
     <loc>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</loc>
     <lastmod>2024-11-19T17:42:15+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bookmark/how-do-you-choose-to-suffer/</loc>
+    <lastmod>2024-11-18T19:49:25+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
