@@ -9,7 +9,17 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 16 Jun 2025 22:25:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2025 23:53:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Antall kjønn</title>
+      <link>http://localhost:1313/repost/antall-kjonn/</link>
+      <pubDate>Mon, 23 Jun 2025 23:53:06 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/repost/antall-kjonn/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/antall-kjonn/featured-pride.jpg" />
+    </item>
     
     <item>
       <title>Ferske spor (Juni 2025)</title>
@@ -18,7 +28,7 @@
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/music/ferske-spor-juni2025/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/music/ferske-spor-juni2025/featured-cover.jpg" />
     </item>
     
     <item>
@@ -599,6 +609,16 @@
       <guid>http://localhost:1313/bookmark/how-do-you-choose-to-suffer/</guid>
       <description>Everybody wants what feels good.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/how-do-you-choose-to-suffer/featured-suffering.jpg" />
+    </item>
+    
+    <item>
+      <title>The courage to be disliked</title>
+      <link>http://localhost:1313/read/the-courage-to-be-disliked/</link>
+      <pubDate>Fri, 15 Nov 2024 14:14:27 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/read/the-courage-to-be-disliked/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/read/the-courage-to-be-disliked/featured-couragebook.jpg" />
     </item>
     
     <item>

@@ -4,24 +4,36 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-17T22:25:06+02:00</lastmod>
+    <lastmod>2025-06-23T23:53:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/music/</loc>
-    <lastmod>2025-06-17T22:25:06+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/repost/men-are-solar-women-are-lunar/</loc>
-    <lastmod>2025-06-13T19:39:44+02:00</lastmod>
+    <loc>http://localhost:1313/repost/antall-kjonn/</loc>
+    <lastmod>2025-06-23T23:53:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/repost/</loc>
+    <lastmod>2025-06-23T23:53:06+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/music/ferske-spor-juni2025/</loc>
+    <lastmod>2025-06-16T22:25:06+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/music/</loc>
+    <lastmod>2025-06-16T22:25:06+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/repost/men-are-solar-women-are-lunar/</loc>
     <lastmod>2025-06-13T19:39:44+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -407,6 +419,18 @@
   <url>
     <loc>http://localhost:1313/bookmark/how-do-you-choose-to-suffer/</loc>
     <lastmod>2024-11-18T19:49:25+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/read/</loc>
+    <lastmod>2024-11-15T14:14:27+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/read/the-courage-to-be-disliked/</loc>
+    <lastmod>2024-11-15T14:14:27+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

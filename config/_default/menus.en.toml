@@ -74,11 +74,11 @@
   pageRef = "listen"
   weight = 90
 
-#[[main]]
-#  name = "Reads 📚"
-#  parent = "Stream ⚡"
-#  pageRef = "read"
-#  weight = 20
+[[main]]
+  name = "Reads 📚"
+  parent = "Categories 🗃️"
+  pageRef = "read"
+  weight = 100
 
 #[[main]]
 #  name = "Checkins 📍"
