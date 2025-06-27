@@ -31,5 +31,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/enslaved-by-the-ufc/featured.jpg" />
     </item>
     
+    <item>
+      <title>Essential habits for becoming an agile vital and durable human being</title>
+      <link>http://localhost:1313/listen/essential-habits-for-becoming-an-agile-vital-and-durable-human-being/</link>
+      <pubDate>Wed, 13 Nov 2024 19:26:41 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/listen/essential-habits-for-becoming-an-agile-vital-and-durable-human-being/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/listen/essential-habits-for-becoming-an-agile-vital-and-durable-human-being/featured-agility.jpg" />
+    </item>
+    
   </channel>
 </rss>

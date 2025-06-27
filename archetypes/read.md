@@ -7,6 +7,9 @@ tags: [""]
 bookTitle: ""  # Book title
 bookAuthor: ""  # Author
 rating: ""  # Rating (e.g., "4.5/5")
-externalUrl: "" # Link til deichman.no
 ---
-[Your book review content here...]
+{{< alert "bars" >}}
+**Tittel**: 
+<br>
+**Forfatter**:
+{{< /alert >}}

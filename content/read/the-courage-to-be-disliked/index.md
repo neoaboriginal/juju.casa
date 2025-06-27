@@ -8,6 +8,12 @@ bookTitle: "The courage  to be disliked"  # Book title
 bookAuthor: "Ichiro Kishimi"  # Author
 rating: "4.5/5"  # Rating (e.g., "4.5/5")
 ---
+{{< alert "bars" >}}
+**Tittel**: The courage to be disliked
+<br>
+**Aktører**: Ichiro Kishimi (Forfatter) & Fumitake Koga (Forfatter)
+{{< /alert >}}
+
 **Mer enn bare barndomstraumer: Det Freud ikke fortalte deg.**
 
 I denne tankevekkende boka, i form av en levende sokratisk dialog mellom en filosof og en ung mann, får vi innblikk i hvordan våre tanker, følelser og handlinger påvirker våre relasjoner med andre og med oss selv. Den legger vekt på temaer som mot, traumer, ansvar, verdier – og hvordan vi kan bruke disse prinsippene til å leve et mer meningfylt liv.

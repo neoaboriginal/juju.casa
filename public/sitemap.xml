@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-23T23:53:06+02:00</lastmod>
+    <lastmod>2025-06-27T19:14:54+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/listen/komformitet/</loc>
+    <lastmod>2025-06-27T19:14:54+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/listen/</loc>
+    <lastmod>2025-06-27T19:14:54+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -47,12 +59,6 @@
   <url>
     <loc>http://localhost:1313/quote/the-governments-boot/</loc>
     <lastmod>2025-06-11T12:32:54+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/listen/</loc>
-    <lastmod>2025-06-10T21:59:37+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -431,6 +437,12 @@
   <url>
     <loc>http://localhost:1313/read/the-courage-to-be-disliked/</loc>
     <lastmod>2024-11-15T14:14:27+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/listen/essential-habits-for-becoming-an-agile-vital-and-durable-human-being/</loc>
+    <lastmod>2024-11-13T19:26:41+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

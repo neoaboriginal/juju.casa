@@ -9,7 +9,37 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 23 Jun 2025 23:53:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jun 2025 19:14:54 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conformity</title>
+      <link>http://localhost:1313/tags/conformity/</link>
+      <pubDate>Fri, 27 Jun 2025 19:14:54 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/conformity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Influence</title>
+      <link>http://localhost:1313/tags/influence/</link>
+      <pubDate>Fri, 27 Jun 2025 19:14:54 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/influence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/tags/philosophy/</link>
+      <pubDate>Fri, 27 Jun 2025 19:14:54 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Gender</title>
@@ -2012,16 +2042,6 @@
     </item>
     
     <item>
-      <title>Philosophy</title>
-      <link>http://localhost:1313/tags/philosophy/</link>
-      <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/tags/philosophy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Salt</title>
       <link>http://localhost:1313/tags/salt/</link>
       <pubDate>Wed, 01 Jan 2025 13:55:37 +0200</pubDate>
@@ -2647,6 +2667,56 @@
       <pubDate>Fri, 15 Nov 2024 14:14:27 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/tags/self-confidence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Longevity</title>
+      <link>http://localhost:1313/tags/longevity/</link>
+      <pubDate>Wed, 13 Nov 2024 19:26:41 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/longevity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mobility</title>
+      <link>http://localhost:1313/tags/mobility/</link>
+      <pubDate>Wed, 13 Nov 2024 19:26:41 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/mobility/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Movement</title>
+      <link>http://localhost:1313/tags/movement/</link>
+      <pubDate>Wed, 13 Nov 2024 19:26:41 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/movement/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Posture</title>
+      <link>http://localhost:1313/tags/posture/</link>
+      <pubDate>Wed, 13 Nov 2024 19:26:41 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/posture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wellness</title>
+      <link>http://localhost:1313/tags/wellness/</link>
+      <pubDate>Wed, 13 Nov 2024 19:26:41 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/wellness/</guid>
       <description></description>
       
     </item>
