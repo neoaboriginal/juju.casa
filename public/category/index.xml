@@ -9,7 +9,17 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Fri, 27 Jun 2025 19:14:54 +0200</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 01:38:38 +0200</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Note</title>
+      <link>http://localhost:1313/category/note/</link>
+      <pubDate>Sat, 28 Jun 2025 01:38:38 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/category/note/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Listen</title>
@@ -87,16 +97,6 @@
       <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/category/like/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Note</title>
-      <link>http://localhost:1313/category/note/</link>
-      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/category/note/</guid>
       <description></description>
       
     </item>

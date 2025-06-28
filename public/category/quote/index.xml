@@ -71,5 +71,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/featured-tucker.jpg" />
     </item>
     
+    <item>
+      <title>Bankers are looting the world</title>
+      <link>http://localhost:1313/quote/bankers-are-looting-the-world/</link>
+      <pubDate>Sun, 10 Nov 2024 01:43:44 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/quote/bankers-are-looting-the-world/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/bankers-are-looting-the-world/featured-looting.jpg" />
+    </item>
+    
   </channel>
 </rss>

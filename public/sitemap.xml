@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-27T19:14:54+02:00</lastmod>
+    <lastmod>2025-06-28T01:38:38+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/note/i-am/</loc>
+    <lastmod>2025-06-28T01:38:38+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/note/</loc>
+    <lastmod>2025-06-28T01:38:38+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -179,12 +191,6 @@
   <url>
     <loc>http://localhost:1313/quote/fall-in-love/</loc>
     <lastmod>2025-04-29T21:04:51+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/note/</loc>
-    <lastmod>2025-04-28T23:58:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -443,6 +449,12 @@
   <url>
     <loc>http://localhost:1313/listen/essential-habits-for-becoming-an-agile-vital-and-durable-human-being/</loc>
     <lastmod>2024-11-13T19:26:41+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quote/bankers-are-looting-the-world/</loc>
+    <lastmod>2024-11-10T01:43:44+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

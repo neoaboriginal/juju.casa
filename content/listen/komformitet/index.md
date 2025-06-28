@@ -12,10 +12,6 @@ Spotify:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4XW2NMNgIcCaAYJrNge4Mm?utm_source=generator&t=90" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Apple Podcast:
-
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/filosofi-med-einar-%C3%B8verenget-s01-e03-lykke/id1458178464?i=1000585137250"></iframe>
-
 YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cT8DCYUAWPE?si=Bp3yCCxrMKPKq0hB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
