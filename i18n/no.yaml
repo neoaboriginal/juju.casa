@@ -1,72 +1,71 @@
-home: Hjem
-posts: Innlegg
-recent: Nylige
-show_more: Vis mer
+global:
+  language: "NO"
 
-reading_time:
-  one: Ett minutts lesetid
-  other: "{{ .Count }} minutters lesetid"
-page_not_found:
-  other: Siden ble ikke funnet
-page_does_not_exist:
-  other: Beklager, denne siden finnes ikke.
-head_back_home:
-  other: Tilbake til forsiden
-table_of_contents:
-  other: Innholdsfortegnelse
-read_more:
-  other: Les mer
-share_post:
-  other: Del dette innlegget
-related_posts:
-  other: Relaterte innlegg
-views:
-  other: visninger
-likes:
-  other: likerklikk
-last_updated_on:
-  other: Sist oppdatert
-ago:
-  other: siden
-edit_post:
-  other: Rediger innlegg
-read_in_zen_mode:
-  other: Les i Zen-modus
-exit_zen_mode:
-  other: Avslutt Zen-modus
-reply_by_email:
-  other: Svar på e-post
-search_placeholder:
-  other: Søk…
-search_no_results:
-  other: Ingen resultater funnet.
-search_initial_message:
-  other: Skriv for å søke…
-search_see_all:
-  other: Se alle
-tags:
-  other: Tagger
-categories:
-  other: Kategorier
-series:
-  other: Serier
-all_tags:
-  other: Alle Tagger
-all_categories:
-  other: Alle Kategorier
+article:
+  anchor_label: "Ancla"
+  date: "{{ .Date }}"
+  date_updated: "Oppdatert: {{ .Date }}"
+  draft: "Mal"
+  edit_title: "Endre innhold"
+  reading_time:
+    one: "{{ .Count }} minutt"
+    other: "{{ .Count }} minutter"
+  reading_time_title: "Lesetid"
+  table_of_contents: "Innholdsfortegnelse"
+  word_count:
+    one: "{{ .Count }} ord"
+    other: "{{ .Count }} ord"
+  views:
+    one: "Sett {{ .Count }} gang"
+    other: "Sett {{ .Count }} ganger"
+  likes:
+    one: "{{ .Count }} liker"
+    other: "{{ .Count }} liker"
+  part_of_series: "Denne artikkelen er del av en serie."
+  part: "Del"
+  this_article: "Denne artikkelen"
+  related_articles: "Lignende artikler"
+  zen_mode_title:
+    enable: "Aktivér zen modus"
+    disable: "Avslutt zen modus"
 
-next_page:
-  other: Neste side
-previous_page:
-  other: Forrige side
+author:
+  byline_title: "Forfatter"
 
-and:
-  other: og
-copy:
-  other: Kopier
-copied:
-  other: Kopiert!
-dark:
-  other: Mørk
-light:
-  other: Lys
+code:
+  copy: "Kopiér"
+  copied: "Kopiert"
+
+error:
+  404_title: "Side ikke funnet :confused:"
+  404_error: "Feil 404"
+  404_description: "Ser ikke ut som siden du leter etter finnes."
+
+footer:
+  dark_appearance: "Bytt til mørkt modus"
+  light_appearance: "Bytt til lys modus"
+  powered_by: "Laget med {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Lenke til ekstern side"
+  no_articles: "Det finnes ikke artikler her."
+
+nav:
+  scroll_to_top_title: "Gå til topen"
+  skip_to_main: "Gå til innhold"
+
+search:
+  open_button_title: "Søk (/)"
+  close_button_title: "Lukk (Esc)"
+  input_placeholder: "Søk"
+
+sharing:
+  email: "Sende via email"
+  facebook: "Del på Facebook"
+  twitter: "Del på Twitter"
+
+shortcode:
+  recent_articles: "Nylige"
+
+recent:
+  show_more: "Vis mer"

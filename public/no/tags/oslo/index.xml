@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oslo on Casa de JuJu</title>
-    <link>http://localhost:39601/no/tags/oslo/</link>
+    <link>http://localhost:41249/no/tags/oslo/</link>
     <description>Recent content in Oslo on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 23 Jun 2025 23:53:06 +0200</lastBuildDate><atom:link href="http://localhost:39601/no/tags/oslo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2025 23:53:06 +0200</lastBuildDate><atom:link href="http://localhost:41249/no/tags/oslo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Antall kjønn</title>
-      <link>http://localhost:39601/no/repost/antall-kjonn/</link>
+      <link>http://localhost:41249/no/repost/antall-kjonn/</link>
       <pubDate>Mon, 23 Jun 2025 23:53:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:39601/no/repost/antall-kjonn/</guid>
+      <guid>http://localhost:41249/no/repost/antall-kjonn/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39601/no/repost/antall-kjonn/featured-pride.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41249/no/repost/antall-kjonn/featured-pride.no.jpg" />
     </item>
     
   </channel>

@@ -10,6 +10,7 @@ rating: ""  # Rating (e.g., "4.5/5")
 ---
 {{< alert "bars" >}}
 **Tittel**: 
-<br>
+{{< /alert >}}
+<{{< alert "bars" >}}
 **Forfatter**:
 {{< /alert >}}

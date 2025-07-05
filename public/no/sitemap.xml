@@ -3,68 +3,188 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:39601/no/</loc>
+    <loc>http://localhost:41249/no/</loc>
     <lastmod>2025-07-04T14:00:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:39601/"
+      href="http://localhost:41249/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="no"
-      href="http://localhost:39601/no/"
+      href="http://localhost:41249/no/"
     />
   </url>
   <url>
-    <loc>http://localhost:39601/no/music/ferske-spor-juli-2025.no/</loc>
+    <loc>http://localhost:41249/no/music/ferske-spor-juli-2025/</loc>
     <lastmod>2025-07-04T14:00:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39601/no/music/</loc>
+    <loc>http://localhost:41249/no/music/</loc>
     <lastmod>2025-07-04T14:00:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:39601/music/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="no"
-      href="http://localhost:39601/no/music/"
-    />
   </url>
   <url>
-    <loc>http://localhost:39601/no/repost/antall-kjonn/</loc>
+    <loc>http://localhost:41249/no/repost/antall-kjonn/</loc>
     <lastmod>2025-06-23T23:53:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39601/no/repost/</loc>
+    <loc>http://localhost:41249/no/repost/</loc>
     <lastmod>2025-06-23T23:53:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:39601/repost/"
+      href="http://localhost:41249/repost/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="no"
-      href="http://localhost:39601/no/repost/"
+      href="http://localhost:41249/no/repost/"
     />
   </url>
   <url>
-    <loc>http://localhost:39601/no/om/</loc>
+    <loc>http://localhost:41249/no/music/ferske-spor-juni2025/</loc>
+    <lastmod>2025-06-16T22:25:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/bookmark/</loc>
+    <lastmod>2025-06-03T13:07:46+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:41249/bookmark/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="no"
+      href="http://localhost:41249/no/bookmark/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/</loc>
+    <lastmod>2025-06-03T13:07:46+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/video/vestens-undergang/</loc>
+    <lastmod>2025-04-30T11:23:04+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/video/</loc>
+    <lastmod>2025-04-30T11:23:04+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:41249/video/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="no"
+      href="http://localhost:41249/no/video/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/note/</loc>
+    <lastmod>2025-04-28T23:58:12+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:41249/note/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="no"
+      href="http://localhost:41249/no/note/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/note/viktig-%C3%A5-vaske-henda/</loc>
+    <lastmod>2025-04-28T23:58:12+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/music/ferske-spor-april2025/</loc>
+    <lastmod>2025-04-22T18:52:27+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/note/pengene-du-har-i-banken/</loc>
+    <lastmod>2025-03-24T00:35:02+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/music/ferske-spor-mars2025/</loc>
+    <lastmod>2025-03-20T00:01:25+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/music/klissete-lovesongs-for-deichman/</loc>
+    <lastmod>2025-02-14T14:15:26+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/music/ferske-spor-januar2025/</loc>
+    <lastmod>2025-02-03T19:24:36+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/music/arets-album-2024/</loc>
+    <lastmod>2024-12-27T01:08:13+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/read/</loc>
+    <lastmod>2024-11-15T14:14:27+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/read/v%C3%A5g-%C3%A5-bli-mislikt/</loc>
+    <lastmod>2024-11-15T14:14:27+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:41249/no/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:41249/about/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="no"
+      href="http://localhost:41249/no/about/"
+    />
   </url>
 </urlset>

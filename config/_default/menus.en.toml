@@ -28,9 +28,9 @@
   weight = 20
 
 [[main]]
-  name = "Music 🎵"
+  name = "Bookmarks 🔖"
   parent = "Categories 🗃️"
-  pageRef = "music"
+  pageRef = "bookmark"
   weight = 30
 
 [[main]]
@@ -40,40 +40,34 @@
   weight = 40
 
 [[main]]
-  name = "Bookmarks 🔖"
-  parent = "Categories 🗃️"
-  pageRef = "bookmark"
-  weight = 50
-
-[[main]]
   name = "Videos 📽️"
   parent = "Categories 🗃️"
   pageRef = "video"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Likes ❤️"
   parent = "Categories 🗃️"
   pageRef = "like"
-  weight = 70
+  weight = 60
 
 [[main]]
   name = "RePosts 🔁"
   parent = "Categories 🗃️"
   pageRef= "repost"
-  weight = 80
+  weight = 70
 
-[[main]]
-  name = "Reads 📚"
-  parent = "Categories 🗃️"
-  pageRef = "read"
-  weight = 90
+#[[main]]
+#  name = "Reads 📚"
+#  parent = "Categories 🗃️"
+#  pageRef = "read"
+#  weight = 80
 
 [[main]]
   name = "Podcasts 🎙️"
   parent = "Categories 🗃️"
   url = "https://open.spotify.com/playlist/2zVbDT1D2MJFRNU6Po2blC?si=d9a65f0280ed4a49"
-  weight = 100
+  weight = 80
 
 #[[main]]
 #  name = "Checkins 📍"

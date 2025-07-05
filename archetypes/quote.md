@@ -7,10 +7,6 @@ tags: [""]
 quoteText: ""  # The quote itself
 quoteAuthor: ""  # Author of the quote
 ---
-![Alt text](/img/quote/QUOTE-IMAGE)
-
-#Eller
-
 {{< typeit 
   tag=h2
   lifeLike=true

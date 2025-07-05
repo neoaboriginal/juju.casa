@@ -9,59 +9,59 @@
   pageRef = "note"
   weight = 10
 
-[[main]]
-  name = "Bilder 📸"
-  parent = "Kategorier 🗃️"
-  pageRef = "photo"
-  weight = 20
+#[[main]]
+#  name = "Bilder 📸"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "photo"
+#  weight = 20
 
 [[main]]
   name = "Musikk 🎵"
   parent = "Kategorier 🗃️"
   pageRef = "music"
-  weight = 30
+  weight = 20
 
-[[main]]
-  name = "Sitater 🗣️"
-  parent = "Kategorier 🗃️"
-  pageRef = "quote"
-  weight = 40
+#[[main]]
+#  name = "Sitater 🗣️"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "quote"
+#  weight = 40
 
-[[main]]
-  name = "Bokmerker 🔖"
-  parent = "Kategorier 🗃️"
-  pageRef = "bookmark"
-  weight = 50
+#[[main]]
+#  name = "Bokmerker 🔖"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "bookmark"
+#  weight = 50
 
 [[main]]
   name = "Videoer 📽️"
   parent = "Kategorier 🗃️"
   pageRef = "video"
-  weight = 60
+  weight = 40
 
-[[main]]
-  name = "Liker ❤️"
-  parent = "Kategorier 🗃️"
-  pageRef = "like"
-  weight = 70
+#[[main]]
+#  name = "Liker ❤️"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "like"
+#  weight = 70
 
 [[main]]
   name = "Republisert 🔁"
   parent = "Kategorier 🗃️"
   pageRef= "repost"
-  weight = 80
+  weight = 50
 
 [[main]]
   name = "Lest 📚"
   parent = "Kategorier 🗃️"
   pageRef = "read"
-  weight = 90
+  weight = 30
 
-[[main]]
-  name = "Podcaster 🎙️"
-  parent = "Kategorier 🗃️"
-  url = "https://open.spotify.com/playlist/2zVbDT1D2MJFRNU6Po2blC?si=d9a65f0280ed4a49"
-  weight = 100
+#[[main]]
+#  name = "Podcaster 🎙️"
+#  parent = "Kategorier 🗃️"
+#  url = "https://open.spotify.com/playlist/2zVbDT1D2MJFRNU6Po2blC?si=d9a65f0280ed4a49"
+#  weight = 100
 
 #[[main]]
 #  name = "Checkins 📍"
@@ -76,7 +76,7 @@
 
 [[main]]
   name = "Om 🧔🏻‍♂️"
-  url = "/om"
+  url = "/about"
   weight = 40
 
 

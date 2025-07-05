@@ -3,7 +3,7 @@ title: "Kvinner i Vesten vil ikke gifte seg"
 date: 2025-06-03T13:07:46+02:00
 draft: false
 category: "Bookmark"  # Curated links
-tags: ["marriage", "feminism", "independence", "education", "tinder", "dating",]
+tags: ["ekteskap", "feminisme", "uavhengighet", "utdannelse", "dating",]
 sources: "https://inyheter.no/19/05/2025/kvinner-i-vesten-vil-ikke-gifte-seg-dette-er-arsakene/"  # URL of the linked site
 summary: ""  # Short description, the same as 'description' in the OpenGraph preview
 ---

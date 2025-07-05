@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transparency on Casa de JuJu</title>
-    <link>http://localhost:39601/tags/transparency/</link>
+    <link>http://localhost:41249/tags/transparency/</link>
     <description>Recent content in Transparency on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Fri, 30 May 2025 19:32:07 +0200</lastBuildDate><atom:link href="http://localhost:39601/tags/transparency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 19:32:07 +0200</lastBuildDate><atom:link href="http://localhost:41249/tags/transparency/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The anxious/avoidant deathtrap</title>
-      <link>http://localhost:39601/video/the-anxious-avoidant-deathtrap/</link>
+      <link>http://localhost:41249/video/the-anxious-avoidant-deathtrap/</link>
       <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:39601/video/the-anxious-avoidant-deathtrap/</guid>
+      <guid>http://localhost:41249/video/the-anxious-avoidant-deathtrap/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39601/video/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41249/video/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
     </item>
     
   </channel>
