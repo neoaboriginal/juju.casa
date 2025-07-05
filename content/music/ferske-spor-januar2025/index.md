@@ -1,5 +1,5 @@
 ---
-title: "Ferske spor Januar 2025"  # Auto-generate title from filename
+title: "Ferske spor / Januar 2025"  # Auto-generate title from filename
 date: 2025-02-03T19:24:36+02:00
 draft: false
 category: "Music" 

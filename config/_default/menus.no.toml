@@ -1,0 +1,95 @@
+[[main]]
+  name = "Kategorier 🗃️"
+  pageRef = "#"
+  weight = 10
+
+[[main]]
+  name = "Notater 📝"
+  parent = "Kategorier 🗃️"
+  pageRef = "note"
+  weight = 10
+
+[[main]]
+  name = "Bilder 📸"
+  parent = "Kategorier 🗃️"
+  pageRef = "photo"
+  weight = 20
+
+[[main]]
+  name = "Musikk 🎵"
+  parent = "Kategorier 🗃️"
+  pageRef = "music"
+  weight = 30
+
+[[main]]
+  name = "Sitater 🗣️"
+  parent = "Kategorier 🗃️"
+  pageRef = "quote"
+  weight = 40
+
+[[main]]
+  name = "Bokmerker 🔖"
+  parent = "Kategorier 🗃️"
+  pageRef = "bookmark"
+  weight = 50
+
+[[main]]
+  name = "Videoer 📽️"
+  parent = "Kategorier 🗃️"
+  pageRef = "video"
+  weight = 60
+
+[[main]]
+  name = "Liker ❤️"
+  parent = "Kategorier 🗃️"
+  pageRef = "like"
+  weight = 70
+
+[[main]]
+  name = "Republisert 🔁"
+  parent = "Kategorier 🗃️"
+  pageRef= "repost"
+  weight = 80
+
+[[main]]
+  name = "Lest 📚"
+  parent = "Kategorier 🗃️"
+  pageRef = "read"
+  weight = 90
+
+[[main]]
+  name = "Podcaster 🎙️"
+  parent = "Kategorier 🗃️"
+  url = "https://open.spotify.com/playlist/2zVbDT1D2MJFRNU6Po2blC?si=d9a65f0280ed4a49"
+  weight = 100
+
+#[[main]]
+#  name = "Checkins 📍"
+#  parent = "Stream ⚡"
+#  pageRef = "checkin"
+#  weight = 40
+
+[[main]]
+  name = "Kambo 🐸"
+  url = "https://kam.bo"
+  weight = 30
+
+[[main]]
+  name = "Om 🧔🏻‍♂️"
+  url = "/om"
+  weight = 40
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "Tagger 🏷️"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "Kategorier 🗃️"
+   pageRef = "category"
+   weight = 20

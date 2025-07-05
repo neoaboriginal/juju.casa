@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seed Oils on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/seed-oils/</link>
+    <link>http://localhost:39601/tags/seed-oils/</link>
     <description>Recent content in Seed Oils on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sat, 10 May 2025 23:42:45 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/seed-oils/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 May 2025 23:42:45 +0200</lastBuildDate><atom:link href="http://localhost:39601/tags/seed-oils/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>They don&#39;t know</title>
-      <link>http://localhost:1313/like/they-dont-know/</link>
+      <link>http://localhost:39601/like/they-dont-know/</link>
       <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/they-dont-know/</guid>
+      <guid>http://localhost:39601/like/they-dont-know/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/they-dont-know/featured-weirdguy.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39601/like/they-dont-know/featured-weirdguy.jpg" />
     </item>
     
   </channel>

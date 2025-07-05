@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robbery on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/robbery/</link>
+    <link>http://localhost:39601/tags/robbery/</link>
     <description>Recent content in Robbery on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 10 Nov 2024 01:43:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/robbery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Nov 2024 01:43:44 +0200</lastBuildDate><atom:link href="http://localhost:39601/tags/robbery/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bankers are looting the world</title>
-      <link>http://localhost:1313/quote/bankers-are-looting-the-world/</link>
+      <link>http://localhost:39601/quote/bankers-are-looting-the-world/</link>
       <pubDate>Sun, 10 Nov 2024 01:43:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/bankers-are-looting-the-world/</guid>
+      <guid>http://localhost:39601/quote/bankers-are-looting-the-world/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/bankers-are-looting-the-world/featured-looting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39601/quote/bankers-are-looting-the-world/featured-looting.jpg" />
     </item>
     
   </channel>

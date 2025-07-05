@@ -1,0 +1,72 @@
+home: Hjem
+posts: Innlegg
+recent: Nylige
+show_more: Vis mer
+
+reading_time:
+  one: Ett minutts lesetid
+  other: "{{ .Count }} minutters lesetid"
+page_not_found:
+  other: Siden ble ikke funnet
+page_does_not_exist:
+  other: Beklager, denne siden finnes ikke.
+head_back_home:
+  other: Tilbake til forsiden
+table_of_contents:
+  other: Innholdsfortegnelse
+read_more:
+  other: Les mer
+share_post:
+  other: Del dette innlegget
+related_posts:
+  other: Relaterte innlegg
+views:
+  other: visninger
+likes:
+  other: likerklikk
+last_updated_on:
+  other: Sist oppdatert
+ago:
+  other: siden
+edit_post:
+  other: Rediger innlegg
+read_in_zen_mode:
+  other: Les i Zen-modus
+exit_zen_mode:
+  other: Avslutt Zen-modus
+reply_by_email:
+  other: Svar på e-post
+search_placeholder:
+  other: Søk…
+search_no_results:
+  other: Ingen resultater funnet.
+search_initial_message:
+  other: Skriv for å søke…
+search_see_all:
+  other: Se alle
+tags:
+  other: Tagger
+categories:
+  other: Kategorier
+series:
+  other: Serier
+all_tags:
+  other: Alle Tagger
+all_categories:
+  other: Alle Kategorier
+
+next_page:
+  other: Neste side
+previous_page:
+  other: Forrige side
+
+and:
+  other: og
+copy:
+  other: Kopier
+copied:
+  other: Kopiert!
+dark:
+  other: Mørk
+light:
+  other: Lys

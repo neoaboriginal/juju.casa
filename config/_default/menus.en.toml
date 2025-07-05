@@ -10,11 +10,6 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Stream ⚡"
-#  pageRef = "#"
-#  weight = 10
-
 [[main]]
   name = "Categories 🗃️"
   pageRef = "#"
@@ -27,9 +22,9 @@
   weight = 10
 
 [[main]]
-  name = "Likes ❤️"
+  name = "Photos 📸"
   parent = "Categories 🗃️"
-  pageRef = "like"
+  pageRef = "photo"
   weight = 20
 
 [[main]]
@@ -39,9 +34,9 @@
   weight = 30
 
 [[main]]
-  name = "Photos 📸"
+  name = "Quotes 🗣️"
   parent = "Categories 🗃️"
-  pageRef = "photo"
+  pageRef = "quote"
   weight = 40
 
 [[main]]
@@ -51,33 +46,33 @@
   weight = 50
 
 [[main]]
-  name = "Quotes 🗣️"
+  name = "Videos 📽️"
   parent = "Categories 🗃️"
-  pageRef = "quote"
+  pageRef = "video"
   weight = 60
+
+[[main]]
+  name = "Likes ❤️"
+  parent = "Categories 🗃️"
+  pageRef = "like"
+  weight = 70
 
 [[main]]
   name = "RePosts 🔁"
   parent = "Categories 🗃️"
   pageRef= "repost"
-  weight = 70
-
-[[main]]
-  name = "Videos 📽️"
-  parent = "Categories 🗃️"
-  pageRef = "video"
   weight = 80
-
-[[main]]
-  name = "Listen 🎙️"
-  parent = "Categories 🗃️"
-  pageRef = "listen"
-  weight = 90
 
 [[main]]
   name = "Reads 📚"
   parent = "Categories 🗃️"
   pageRef = "read"
+  weight = 90
+
+[[main]]
+  name = "Podcasts 🎙️"
+  parent = "Categories 🗃️"
+  url = "https://open.spotify.com/playlist/2zVbDT1D2MJFRNU6Po2blC?si=d9a65f0280ed4a49"
   weight = 100
 
 #[[main]]
@@ -85,13 +80,6 @@
 #  parent = "Stream ⚡"
 #  pageRef = "checkin"
 #  weight = 40
-
-#[[main]]
-#  name = "Recommended ⭐"
-#  pageRef = "#"
-#  weight = 20
-
-
 
 [[main]]
   name = "Kambo 🐸"
@@ -117,4 +105,3 @@
    name = "Categories 🗃️"
    pageRef = "category"
    weight = 20
-

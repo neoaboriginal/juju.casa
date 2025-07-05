@@ -5,7 +5,7 @@ weight = 1
 title = "Casa de JuJu"
 
 [params]
-  displayName = "EN"
+  displayName = "English 🇬🇧"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"

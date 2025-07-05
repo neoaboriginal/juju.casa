@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "no"
+languageName = "Norsk"
+weight = 2
+title = "Casa de JuJu"
+
+[params]
+  displayName = "Norsk 🇳🇴"
+  isoCode = "no"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/rev.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Another JuJu Production"
+  # copyright = "Another JuJu Production"
+
+[params.author]
+   name = "JuJu Darío"
+   email = "mail@juju.casa"
+   image = "img/Ghiblied.jpg"
+   imageQuality = 96
+   headline = "Blod, kärlek, jord, dag för dag, ord för ord<br>Inuti, utanför, runtomkring och in igenom<br>Allomfattande"
+   bio = ""
+   links = [
+     { rss = "https://juju.casa/index.xml" },
+     { email = "mailto:mail@juju.casa" },
+     { spotify = "https://open.spotify.com/user/jujudario" },
+     { x-twitter = "https://twitter.com/jujudario" },
+ ]
