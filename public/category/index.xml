@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on Casa de JuJu</title>
-    <link>http://localhost:41249/category/</link>
+    <link>http://localhost:34833/category/</link>
     <description>Recent content in Category on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sat, 05 Jul 2025 21:27:05 +0200</lastBuildDate><atom:link href="http://localhost:41249/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 02:42:58 +0200</lastBuildDate><atom:link href="http://localhost:34833/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Repost</title>
+      <link>http://localhost:34833/category/repost/</link>
+      <pubDate>Wed, 09 Jul 2025 02:42:58 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:34833/category/repost/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Like</title>
-      <link>http://localhost:41249/category/like/</link>
+      <link>http://localhost:34833/category/like/</link>
       <pubDate>Sat, 05 Jul 2025 21:27:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41249/category/like/</guid>
+      <guid>http://localhost:34833/category/like/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Note</title>
-      <link>http://localhost:41249/category/note/</link>
+      <link>http://localhost:34833/category/note/</link>
       <pubDate>Sat, 28 Jun 2025 01:38:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41249/category/note/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Repost</title>
-      <link>http://localhost:41249/category/repost/</link>
-      <pubDate>Fri, 13 Jun 2025 19:39:44 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41249/category/repost/</guid>
+      <guid>http://localhost:34833/category/note/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Quote</title>
-      <link>http://localhost:41249/category/quote/</link>
+      <link>http://localhost:34833/category/quote/</link>
       <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41249/category/quote/</guid>
+      <guid>http://localhost:34833/category/quote/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Video</title>
-      <link>http://localhost:41249/category/video/</link>
+      <link>http://localhost:34833/category/video/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41249/category/video/</guid>
+      <guid>http://localhost:34833/category/video/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Photo</title>
-      <link>http://localhost:41249/category/photo/</link>
+      <link>http://localhost:34833/category/photo/</link>
       <pubDate>Sat, 07 Jun 2025 19:29:59 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41249/category/photo/</guid>
+      <guid>http://localhost:34833/category/photo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bookmark</title>
-      <link>http://localhost:41249/category/bookmark/</link>
+      <link>http://localhost:34833/category/bookmark/</link>
       <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41249/category/bookmark/</guid>
+      <guid>http://localhost:34833/category/bookmark/</guid>
       <description></description>
       
     </item>

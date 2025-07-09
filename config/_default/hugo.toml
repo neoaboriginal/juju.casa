@@ -2,9 +2,14 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/gettinpx blowfish-toolsng-started/
 
-theme = "blowfish"
+theme = "github.com/nunocoracao/blowfish/v2"
 baseURL = "https://juju.casa/"
 defaultContentLanguage = "en"
+
+[module]
+[[module.imports]]
+  path = "github.com/nunocoracao/blowfish/v2"
+  disable = false
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
