@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Banker on Casa de JuJu</title>
-    <link>http://localhost:34833/no/tags/banker/</link>
+    <link>http://localhost:1313/no/tags/banker/</link>
     <description>Recent content in Banker on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 24 Mar 2025 00:35:02 +0200</lastBuildDate><atom:link href="http://localhost:34833/no/tags/banker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 00:35:02 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/banker/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pengene du har i banken</title>
-      <link>http://localhost:34833/no/note/pengene-du-har-i-banken/</link>
+      <link>http://localhost:1313/no/note/pengene-du-har-i-banken/</link>
       <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:34833/no/note/pengene-du-har-i-banken/</guid>
+      <guid>http://localhost:1313/no/note/pengene-du-har-i-banken/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34833/no/note/pengene-du-har-i-banken/featured-bank.no.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/note/pengene-du-har-i-banken/featured-bank.no.png" />
     </item>
     
   </channel>
