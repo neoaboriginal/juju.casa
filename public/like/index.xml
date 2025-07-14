@@ -2,93 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Likes on Casa de JuJu</title>
-    <link>http://localhost:1313/like/</link>
+    <link>http://localhost:39021/like/</link>
     <description>Recent content in Likes on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sat, 05 Jul 2025 21:27:05 +0200</lastBuildDate><atom:link href="http://localhost:1313/like/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jul 2025 13:02:02 +0200</lastBuildDate><atom:link href="http://localhost:39021/like/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ancestors are close</title>
+      <link>http://localhost:39021/like/ancestors-are-close/</link>
+      <pubDate>Mon, 14 Jul 2025 13:02:02 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:39021/like/ancestors-are-close/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/ancestors-are-close/featured-mirror.png" />
+    </item>
     
     <item>
       <title>Mugshots of anti-vaxxers</title>
-      <link>http://localhost:1313/like/anti-vaxx-gallery/</link>
+      <link>http://localhost:39021/like/anti-vaxx-gallery/</link>
       <pubDate>Sat, 05 Jul 2025 21:27:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/anti-vaxx-gallery/</guid>
+      <guid>http://localhost:39021/like/anti-vaxx-gallery/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/anti-vaxx-gallery/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/anti-vaxx-gallery/featured.jpg" />
     </item>
     
     <item>
       <title>They don&#39;t know</title>
-      <link>http://localhost:1313/like/they-dont-know/</link>
+      <link>http://localhost:39021/like/they-dont-know/</link>
       <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/they-dont-know/</guid>
+      <guid>http://localhost:39021/like/they-dont-know/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/they-dont-know/featured-weirdguy.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/they-dont-know/featured-weirdguy.jpg" />
     </item>
     
     <item>
       <title>Choosing the sex of a child</title>
-      <link>http://localhost:1313/like/choosing-the-sex-of-a-child/</link>
+      <link>http://localhost:39021/like/choosing-the-sex-of-a-child/</link>
       <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/choosing-the-sex-of-a-child/</guid>
+      <guid>http://localhost:39021/like/choosing-the-sex-of-a-child/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/choosing-the-sex-of-a-child/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/choosing-the-sex-of-a-child/featured.png" />
     </item>
     
     <item>
       <title>But you work all day for money</title>
-      <link>http://localhost:1313/like/but-you-work-all-day-for-money/</link>
+      <link>http://localhost:39021/like/but-you-work-all-day-for-money/</link>
       <pubDate>Fri, 21 Mar 2025 23:49:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/but-you-work-all-day-for-money/</guid>
+      <guid>http://localhost:39021/like/but-you-work-all-day-for-money/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/but-you-work-all-day-for-money/featured-brain.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/but-you-work-all-day-for-money/featured-brain.jpg" />
     </item>
     
     <item>
       <title>Spirituality packs</title>
-      <link>http://localhost:1313/like/spirituality-packs/</link>
+      <link>http://localhost:39021/like/spirituality-packs/</link>
       <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/spirituality-packs/</guid>
+      <guid>http://localhost:39021/like/spirituality-packs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/spirituality-packs/featured-shooting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/spirituality-packs/featured-shooting.jpg" />
     </item>
     
     <item>
       <title>Theatre for the slave class</title>
-      <link>http://localhost:1313/like/theatre-for-the-slave-class/</link>
+      <link>http://localhost:39021/like/theatre-for-the-slave-class/</link>
       <pubDate>Mon, 10 Feb 2025 23:00:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/theatre-for-the-slave-class/</guid>
+      <guid>http://localhost:39021/like/theatre-for-the-slave-class/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/theatre-for-the-slave-class/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/theatre-for-the-slave-class/featured.jpg" />
     </item>
     
     <item>
       <title>How to survive a plunge from a waterfall</title>
-      <link>http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/</link>
+      <link>http://localhost:39021/like/how-to-survive-a-plunge-from-a-waterfall/</link>
       <pubDate>Sat, 25 Jan 2025 23:47:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/</guid>
+      <guid>http://localhost:39021/like/how-to-survive-a-plunge-from-a-waterfall/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/featured-plunge.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/how-to-survive-a-plunge-from-a-waterfall/featured-plunge.jpg" />
     </item>
     
     <item>
       <title>Eating babies</title>
-      <link>http://localhost:1313/like/eating-babies/</link>
+      <link>http://localhost:39021/like/eating-babies/</link>
       <pubDate>Wed, 25 Dec 2024 17:40:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/eating-babies/</guid>
+      <guid>http://localhost:39021/like/eating-babies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/eating-babies/featured-birds.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/like/eating-babies/featured-birds.jpg" />
     </item>
     
   </channel>

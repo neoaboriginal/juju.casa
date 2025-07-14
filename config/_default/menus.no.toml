@@ -27,17 +27,17 @@
 #  pageRef = "quote"
 #  weight = 40
 
-#[[main]]
-#  name = "Bokmerker 🔖"
-#  parent = "Kategorier 🗃️"
-#  pageRef = "bookmark"
-#  weight = 50
+[[main]]
+  name = "Bokmerker 🔖"
+  parent = "Kategorier 🗃️"
+  pageRef = "bookmark"
+  weight = 40
 
 [[main]]
   name = "Videoer 📽️"
   parent = "Kategorier 🗃️"
   pageRef = "video"
-  weight = 40
+  weight = 50
 
 #[[main]]
 #  name = "Liker ❤️"
@@ -49,7 +49,7 @@
   name = "Republisert 🔁"
   parent = "Kategorier 🗃️"
   pageRef= "repost"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Lest 📚"
@@ -72,12 +72,12 @@
 [[main]]
   name = "Kambo 🐸"
   url = "https://kam.bo"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Om 🧔🏻‍♂️"
   url = "/about"
-  weight = 40
+  weight = 30
 
 
 # -- Footer Menu --
