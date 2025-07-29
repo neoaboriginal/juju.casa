@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unity on Casa de JuJu</title>
-    <link>http://localhost:39021/tags/unity/</link>
+    <link>http://localhost:1313/tags/unity/</link>
     <description>Recent content in Unity on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sat, 28 Jun 2025 01:38:38 +0200</lastBuildDate><atom:link href="http://localhost:39021/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 01:38:38 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>I am</title>
-      <link>http://localhost:39021/note/i-am/</link>
+      <link>http://localhost:1313/note/i-am/</link>
       <pubDate>Sat, 28 Jun 2025 01:38:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:39021/note/i-am/</guid>
+      <guid>http://localhost:1313/note/i-am/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39021/note/i-am/featured-I.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/i-am/featured-I.jpg" />
     </item>
     
   </channel>
