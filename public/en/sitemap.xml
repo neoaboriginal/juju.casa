@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-29T17:36:29+02:00</lastmod>
+    <lastmod>2025-07-31T20:45:52+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,28 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/note/3-things-i-have-learned-today/</loc>
+    <lastmod>2025-07-31T20:45:52+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/note/</loc>
+    <lastmod>2025-07-31T20:45:52+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="no"
+      href="http://localhost:1313/no/note/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/note/"
     />
   </url>
   <url>
@@ -75,22 +97,6 @@
     <lastmod>2025-06-28T01:38:38+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/note/</loc>
-    <lastmod>2025-06-28T01:38:38+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="no"
-      href="http://localhost:1313/no/note/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/note/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/repost/men-are-solar-women-are-lunar/</loc>
