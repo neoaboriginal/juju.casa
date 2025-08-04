@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hiphop on Casa de JuJu</title>
-    <link>http://localhost:37953/no/tags/hiphop/</link>
+    <link>http://localhost:36259/no/tags/hiphop/</link>
     <description>Recent content in Hiphop on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 14:00:12 +0200</lastBuildDate><atom:link href="http://localhost:37953/no/tags/hiphop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 14:00:12 +0200</lastBuildDate><atom:link href="http://localhost:36259/no/tags/hiphop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor / Juli 2025</title>
-      <link>http://localhost:37953/no/music/ferske-spor-juli-2025/</link>
+      <link>http://localhost:36259/no/music/ferske-spor-juli-2025/</link>
       <pubDate>Fri, 04 Jul 2025 14:00:12 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:37953/no/music/ferske-spor-juli-2025/</guid>
+      <guid>http://localhost:36259/no/music/ferske-spor-juli-2025/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/no/music/ferske-spor-juli-2025/featured-cover.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/no/music/ferske-spor-juli-2025/featured-cover.no.jpg" />
     </item>
     
     <item>
       <title>Ferske spor / Mars 2025</title>
-      <link>http://localhost:37953/no/music/ferske-spor-mars2025/</link>
+      <link>http://localhost:36259/no/music/ferske-spor-mars2025/</link>
       <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:37953/no/music/ferske-spor-mars2025/</guid>
+      <guid>http://localhost:36259/no/music/ferske-spor-mars2025/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/no/music/ferske-spor-mars2025/featured-de.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/no/music/ferske-spor-mars2025/featured-de.no.jpg" />
     </item>
     
     <item>
       <title>Deichman: Årets album 2024</title>
-      <link>http://localhost:37953/no/music/arets-album-2024/</link>
+      <link>http://localhost:36259/no/music/arets-album-2024/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:37953/no/music/arets-album-2024/</guid>
+      <guid>http://localhost:36259/no/music/arets-album-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/no/music/arets-album-2024/featured-arets2024.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/no/music/arets-album-2024/featured-arets2024.no.jpg" />
     </item>
     
   </channel>
