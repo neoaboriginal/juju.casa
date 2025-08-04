@@ -57,11 +57,10 @@
   pageRef= "repost"
   weight = 70
 
-#[[main]]
-#  name = "Reads 📚"
-#  parent = "Categories 🗃️"
-#  pageRef = "read"
-#  weight = 80
+[[main]]
+   name = "Tags 🏷️"
+   pageRef = "tags"
+   weight = 20
 
 [[main]]
   name = "Podcasts 🎙️"

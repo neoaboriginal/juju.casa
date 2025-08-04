@@ -9,11 +9,10 @@
   pageRef = "note"
   weight = 10
 
-#[[main]]
-#  name = "Bilder 📸"
-#  parent = "Kategorier 🗃️"
-#  pageRef = "photo"
-#  weight = 20
+[[main]]
+   name = "Tagger 🏷️"
+   pageRef = "tags"
+   weight = 20
 
 [[main]]
   name = "Musikk 🎵"
@@ -72,12 +71,12 @@
 [[main]]
   name = "Kambo 🐸"
   url = "https://kam.bo"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Om 🧔🏻‍♂️"
   url = "/about"
-  weight = 30
+  weight = 40
 
 
 # -- Footer Menu --

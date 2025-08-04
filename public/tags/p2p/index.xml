@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P2P on Casa de JuJu</title>
-    <link>http://localhost:36259/tags/p2p/</link>
+    <link>http://localhost:1313/tags/p2p/</link>
     <description>Recent content in P2P on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 26 May 2025 14:02:16 +0200</lastBuildDate><atom:link href="http://localhost:36259/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 May 2025 14:02:16 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Darknet Market Maximalism</title>
-      <link>http://localhost:36259/bookmark/darknet-market-maximalism/</link>
+      <link>http://localhost:1313/bookmark/darknet-market-maximalism/</link>
       <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36259/bookmark/darknet-market-maximalism/</guid>
+      <guid>http://localhost:1313/bookmark/darknet-market-maximalism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/bookmark/darknet-market-maximalism/featured-manifesto.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/darknet-market-maximalism/featured-manifesto.png" />
     </item>
     
     <item>
       <title>Bitcoin is an embarrassment</title>
-      <link>http://localhost:36259/video/bitcoin-is-an-embarrassment/</link>
+      <link>http://localhost:1313/video/bitcoin-is-an-embarrassment/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36259/video/bitcoin-is-an-embarrassment/</guid>
+      <guid>http://localhost:1313/video/bitcoin-is-an-embarrassment/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/video/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
     </item>
     
   </channel>

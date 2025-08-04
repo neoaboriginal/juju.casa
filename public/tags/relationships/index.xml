@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Relationships on Casa de JuJu</title>
-    <link>http://localhost:36259/tags/relationships/</link>
+    <link>http://localhost:1313/tags/relationships/</link>
     <description>Recent content in Relationships on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 10 Jun 2025 21:59:37 +0200</lastBuildDate><atom:link href="http://localhost:36259/tags/relationships/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jun 2025 21:59:37 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/relationships/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why finding love feels harder than ever</title>
-      <link>http://localhost:36259/video/why-finding-love-feels-harder-than-ever/</link>
+      <link>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36259/video/why-finding-love-feels-harder-than-ever/</guid>
+      <guid>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/video/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
     </item>
     
     <item>
       <title>The anxious/avoidant deathtrap</title>
-      <link>http://localhost:36259/video/the-anxious-avoidant-deathtrap/</link>
+      <link>http://localhost:1313/video/the-anxious-avoidant-deathtrap/</link>
       <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36259/video/the-anxious-avoidant-deathtrap/</guid>
+      <guid>http://localhost:1313/video/the-anxious-avoidant-deathtrap/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/video/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
     </item>
     
     <item>
       <title>Fall in love</title>
-      <link>http://localhost:36259/quote/fall-in-love/</link>
+      <link>http://localhost:1313/quote/fall-in-love/</link>
       <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36259/quote/fall-in-love/</guid>
+      <guid>http://localhost:1313/quote/fall-in-love/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/quote/fall-in-love/featured-frida.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/fall-in-love/featured-frida.jpg" />
     </item>
     
   </channel>

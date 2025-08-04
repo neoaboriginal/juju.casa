@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrition on Casa de JuJu</title>
-    <link>http://localhost:36259/tags/nutrition/</link>
+    <link>http://localhost:1313/tags/nutrition/</link>
     <description>Recent content in Nutrition on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 07 Apr 2025 11:19:39 +0200</lastBuildDate><atom:link href="http://localhost:36259/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Apr 2025 11:19:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Enslaved by the UFC</title>
-      <link>http://localhost:36259/video/enslaved-by-the-ufc/</link>
+      <link>http://localhost:1313/video/enslaved-by-the-ufc/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36259/video/enslaved-by-the-ufc/</guid>
+      <guid>http://localhost:1313/video/enslaved-by-the-ufc/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/video/enslaved-by-the-ufc/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/enslaved-by-the-ufc/featured.jpg" />
     </item>
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:36259/note/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:36259/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36259/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
   </channel>
