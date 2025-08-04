@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quote on Casa de JuJu</title>
-    <link>http://localhost:1313/category/quote/</link>
+    <link>http://localhost:37953/category/quote/</link>
     <description>Recent content in Quote on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 29 Jul 2025 17:36:29 +0200</lastBuildDate><atom:link href="http://localhost:1313/category/quote/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jul 2025 17:36:29 +0200</lastBuildDate><atom:link href="http://localhost:37953/category/quote/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The proper response</title>
-      <link>http://localhost:1313/quote/the-proper-response/</link>
+      <link>http://localhost:37953/quote/the-proper-response/</link>
       <pubDate>Tue, 29 Jul 2025 17:36:29 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/the-proper-response/</guid>
+      <guid>http://localhost:37953/quote/the-proper-response/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-proper-response/featured-clap.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/the-proper-response/featured-clap.jpg" />
     </item>
     
     <item>
       <title>The government&#39;s boot</title>
-      <link>http://localhost:1313/quote/the-governments-boot/</link>
+      <link>http://localhost:37953/quote/the-governments-boot/</link>
       <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/the-governments-boot/</guid>
+      <guid>http://localhost:37953/quote/the-governments-boot/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-governments-boot/featured-boot.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/the-governments-boot/featured-boot.jpeg" />
     </item>
     
     <item>
       <title>At the expense of morality</title>
-      <link>http://localhost:1313/quote/at-the-expense-of-morality/</link>
+      <link>http://localhost:37953/quote/at-the-expense-of-morality/</link>
       <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/at-the-expense-of-morality/</guid>
+      <guid>http://localhost:37953/quote/at-the-expense-of-morality/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/at-the-expense-of-morality/featured-btcmorality.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/at-the-expense-of-morality/featured-btcmorality.jpeg" />
     </item>
     
     <item>
       <title>Fall in love</title>
-      <link>http://localhost:1313/quote/fall-in-love/</link>
+      <link>http://localhost:37953/quote/fall-in-love/</link>
       <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/fall-in-love/</guid>
+      <guid>http://localhost:37953/quote/fall-in-love/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/fall-in-love/featured-frida.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/fall-in-love/featured-frida.jpg" />
     </item>
     
     <item>
       <title>Preserve the privacy of financial transactions</title>
-      <link>http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/</link>
+      <link>http://localhost:37953/quote/preserve-the-privacy-of-financial-transactions/</link>
       <pubDate>Tue, 11 Mar 2025 12:51:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/</guid>
+      <guid>http://localhost:37953/quote/preserve-the-privacy-of-financial-transactions/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/featured-finney.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/preserve-the-privacy-of-financial-transactions/featured-finney.jpeg" />
     </item>
     
     <item>
       <title>Go to the library</title>
-      <link>http://localhost:1313/quote/go-to-the-library/</link>
+      <link>http://localhost:37953/quote/go-to-the-library/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/go-to-the-library/</guid>
+      <guid>http://localhost:37953/quote/go-to-the-library/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/go-to-the-library/featured-zappa.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/go-to-the-library/featured-zappa.jpg" />
     </item>
     
     <item>
       <title>Vastly preferable to those that follow authority</title>
-      <link>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</link>
+      <link>http://localhost:37953/quote/vastly-preferable-to-those-that-follow-authority/</link>
       <pubDate>Sun, 24 Nov 2024 12:24:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</guid>
+      <guid>http://localhost:37953/quote/vastly-preferable-to-those-that-follow-authority/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/featured-tucker.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/vastly-preferable-to-those-that-follow-authority/featured-tucker.jpg" />
     </item>
     
     <item>
       <title>Bankers are looting the world</title>
-      <link>http://localhost:1313/quote/bankers-are-looting-the-world/</link>
+      <link>http://localhost:37953/quote/bankers-are-looting-the-world/</link>
       <pubDate>Sun, 10 Nov 2024 01:43:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/bankers-are-looting-the-world/</guid>
+      <guid>http://localhost:37953/quote/bankers-are-looting-the-world/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/bankers-are-looting-the-world/featured-looting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/bankers-are-looting-the-world/featured-looting.jpg" />
     </item>
     
   </channel>

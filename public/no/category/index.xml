@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on Casa de JuJu</title>
-    <link>http://localhost:1313/no/category/</link>
+    <link>http://localhost:37953/no/category/</link>
     <description>Recent content in Category on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 13 Jul 2025 23:23:58 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 19:44:02 +0200</lastBuildDate><atom:link href="http://localhost:37953/no/category/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bookmark</title>
-      <link>http://localhost:1313/no/category/bookmark/</link>
-      <pubDate>Sun, 13 Jul 2025 23:23:58 +0200</pubDate>
+      <link>http://localhost:37953/no/category/bookmark/</link>
+      <pubDate>Mon, 04 Aug 2025 19:44:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/category/bookmark/</guid>
+      <guid>http://localhost:37953/no/category/bookmark/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/no/category/music/</link>
+      <link>http://localhost:37953/no/category/music/</link>
       <pubDate>Fri, 04 Jul 2025 14:00:12 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/category/music/</guid>
+      <guid>http://localhost:37953/no/category/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Repost</title>
-      <link>http://localhost:1313/no/category/repost/</link>
+      <link>http://localhost:37953/no/category/repost/</link>
       <pubDate>Mon, 23 Jun 2025 23:53:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/category/repost/</guid>
+      <guid>http://localhost:37953/no/category/repost/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Video</title>
-      <link>http://localhost:1313/no/category/video/</link>
+      <link>http://localhost:37953/no/category/video/</link>
       <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/category/video/</guid>
+      <guid>http://localhost:37953/no/category/video/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Note</title>
-      <link>http://localhost:1313/no/category/note/</link>
+      <link>http://localhost:37953/no/category/note/</link>
       <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/category/note/</guid>
+      <guid>http://localhost:37953/no/category/note/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Read</title>
-      <link>http://localhost:1313/no/category/read/</link>
+      <link>http://localhost:37953/no/category/read/</link>
       <pubDate>Fri, 15 Nov 2024 14:14:27 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/category/read/</guid>
+      <guid>http://localhost:37953/no/category/read/</guid>
       <description></description>
       
     </item>

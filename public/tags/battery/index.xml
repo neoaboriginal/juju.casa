@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Battery on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/battery/</link>
+    <link>http://localhost:37953/tags/battery/</link>
     <description>Recent content in Battery on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Thu, 22 May 2025 23:37:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/battery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 May 2025 23:37:49 +0200</lastBuildDate><atom:link href="http://localhost:37953/tags/battery/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Don&#39;t do what you don&#39;t want to do</title>
-      <link>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</link>
+      <link>http://localhost:37953/video/dont-do-what-you-dont-want-to-do/</link>
       <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</guid>
+      <guid>http://localhost:37953/video/dont-do-what-you-dont-want-to-do/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
     </item>
     
   </channel>

@@ -2,571 +2,581 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casa de JuJu</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:37953/</link>
     <description>Recent content on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Thu, 31 Jul 2025 20:45:52 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 19:32:08 +0200</lastBuildDate><atom:link href="http://localhost:37953/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The financial system has reached the end</title>
+      <link>http://localhost:37953/bookmark/the-financial-system-has-reached-the-end/</link>
+      <pubDate>Mon, 04 Aug 2025 19:32:08 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:37953/bookmark/the-financial-system-has-reached-the-end/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/the-financial-system-has-reached-the-end/featured-downtrend.png" />
+    </item>
     
     <item>
       <title>3 things I have learned today</title>
-      <link>http://localhost:1313/note/3-things-i-have-learned-today/</link>
+      <link>http://localhost:37953/note/3-things-i-have-learned-today/</link>
       <pubDate>Thu, 31 Jul 2025 20:45:52 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/3-things-i-have-learned-today/</guid>
+      <guid>http://localhost:37953/note/3-things-i-have-learned-today/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/3-things-i-have-learned-today/featured-cocooil.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/note/3-things-i-have-learned-today/featured-cocooil.png" />
     </item>
     
     <item>
       <title>The proper response</title>
-      <link>http://localhost:1313/quote/the-proper-response/</link>
+      <link>http://localhost:37953/quote/the-proper-response/</link>
       <pubDate>Tue, 29 Jul 2025 17:36:29 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/the-proper-response/</guid>
+      <guid>http://localhost:37953/quote/the-proper-response/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-proper-response/featured-clap.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/the-proper-response/featured-clap.jpg" />
     </item>
     
     <item>
       <title>Ancestors are close</title>
-      <link>http://localhost:1313/like/ancestors-are-close/</link>
+      <link>http://localhost:37953/like/ancestors-are-close/</link>
       <pubDate>Mon, 14 Jul 2025 13:02:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/ancestors-are-close/</guid>
+      <guid>http://localhost:37953/like/ancestors-are-close/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/ancestors-are-close/featured-mirror.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/ancestors-are-close/featured-mirror.png" />
     </item>
     
     <item>
       <title>The modern world is a massive scam</title>
-      <link>http://localhost:1313/repost/the-modern-world-is-a-massive-scam/</link>
+      <link>http://localhost:37953/repost/the-modern-world-is-a-massive-scam/</link>
       <pubDate>Wed, 09 Jul 2025 02:42:58 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/the-modern-world-is-a-massive-scam/</guid>
+      <guid>http://localhost:37953/repost/the-modern-world-is-a-massive-scam/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/repost/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
     </item>
     
     <item>
       <title>Mugshots of anti-vaxxers</title>
-      <link>http://localhost:1313/like/anti-vaxx-gallery/</link>
+      <link>http://localhost:37953/like/anti-vaxx-gallery/</link>
       <pubDate>Sat, 05 Jul 2025 21:27:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/anti-vaxx-gallery/</guid>
+      <guid>http://localhost:37953/like/anti-vaxx-gallery/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/anti-vaxx-gallery/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/anti-vaxx-gallery/featured.jpg" />
     </item>
     
     <item>
       <title>I am</title>
-      <link>http://localhost:1313/note/i-am/</link>
+      <link>http://localhost:37953/note/i-am/</link>
       <pubDate>Sat, 28 Jun 2025 01:38:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/i-am/</guid>
+      <guid>http://localhost:37953/note/i-am/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/i-am/featured-I.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/note/i-am/featured-I.jpg" />
     </item>
     
     <item>
       <title>Men are solar, Women are lunar</title>
-      <link>http://localhost:1313/repost/men-are-solar-women-are-lunar/</link>
+      <link>http://localhost:37953/repost/men-are-solar-women-are-lunar/</link>
       <pubDate>Fri, 13 Jun 2025 19:39:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/men-are-solar-women-are-lunar/</guid>
+      <guid>http://localhost:37953/repost/men-are-solar-women-are-lunar/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/repost/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
     </item>
     
     <item>
       <title>The government&#39;s boot</title>
-      <link>http://localhost:1313/quote/the-governments-boot/</link>
+      <link>http://localhost:37953/quote/the-governments-boot/</link>
       <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/the-governments-boot/</guid>
+      <guid>http://localhost:37953/quote/the-governments-boot/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-governments-boot/featured-boot.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/the-governments-boot/featured-boot.jpeg" />
     </item>
     
     <item>
       <title>Why finding love feels harder than ever</title>
-      <link>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</link>
+      <link>http://localhost:37953/video/why-finding-love-feels-harder-than-ever/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</guid>
+      <guid>http://localhost:37953/video/why-finding-love-feels-harder-than-ever/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
     </item>
     
     <item>
       <title>Enter the void</title>
-      <link>http://localhost:1313/photo/enter-the-void/</link>
+      <link>http://localhost:37953/photo/enter-the-void/</link>
       <pubDate>Sat, 07 Jun 2025 19:29:59 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/enter-the-void/</guid>
+      <guid>http://localhost:37953/photo/enter-the-void/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/enter-the-void/featured-stolpe.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/photo/enter-the-void/featured-stolpe.jpg" />
     </item>
     
     <item>
       <title>When the Taurus moon kicks in</title>
-      <link>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</link>
+      <link>http://localhost:37953/photo/when-the-taurus-moon-kicks-in/</link>
       <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</guid>
+      <guid>http://localhost:37953/photo/when-the-taurus-moon-kicks-in/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/when-the-taurus-moon-kicks-in/featured-flavors.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/photo/when-the-taurus-moon-kicks-in/featured-flavors.jpeg" />
     </item>
     
     <item>
       <title>The anxious/avoidant deathtrap</title>
-      <link>http://localhost:1313/video/the-anxious-avoidant-deathtrap/</link>
+      <link>http://localhost:37953/video/the-anxious-avoidant-deathtrap/</link>
       <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/the-anxious-avoidant-deathtrap/</guid>
+      <guid>http://localhost:37953/video/the-anxious-avoidant-deathtrap/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
     </item>
     
     <item>
       <title>The end of ideology</title>
-      <link>http://localhost:1313/repost/the-end-of-ideology/</link>
+      <link>http://localhost:37953/repost/the-end-of-ideology/</link>
       <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/the-end-of-ideology/</guid>
+      <guid>http://localhost:37953/repost/the-end-of-ideology/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/the-end-of-ideology/featured-continue.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/repost/the-end-of-ideology/featured-continue.jpg" />
     </item>
     
     <item>
       <title>Darknet Market Maximalism</title>
-      <link>http://localhost:1313/bookmark/darknet-market-maximalism/</link>
+      <link>http://localhost:37953/bookmark/darknet-market-maximalism/</link>
       <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/darknet-market-maximalism/</guid>
+      <guid>http://localhost:37953/bookmark/darknet-market-maximalism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/darknet-market-maximalism/featured-manifesto.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/darknet-market-maximalism/featured-manifesto.png" />
     </item>
     
     <item>
       <title>Don&#39;t do what you don&#39;t want to do</title>
-      <link>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</link>
+      <link>http://localhost:37953/video/dont-do-what-you-dont-want-to-do/</link>
       <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</guid>
+      <guid>http://localhost:37953/video/dont-do-what-you-dont-want-to-do/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
     </item>
     
     <item>
       <title>At the expense of morality</title>
-      <link>http://localhost:1313/quote/at-the-expense-of-morality/</link>
+      <link>http://localhost:37953/quote/at-the-expense-of-morality/</link>
       <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/at-the-expense-of-morality/</guid>
+      <guid>http://localhost:37953/quote/at-the-expense-of-morality/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/at-the-expense-of-morality/featured-btcmorality.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/at-the-expense-of-morality/featured-btcmorality.jpeg" />
     </item>
     
     <item>
       <title>Bro science breathwork</title>
-      <link>http://localhost:1313/bookmark/bro-science-breathwork/</link>
+      <link>http://localhost:37953/bookmark/bro-science-breathwork/</link>
       <pubDate>Thu, 15 May 2025 20:54:07 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/bro-science-breathwork/</guid>
+      <guid>http://localhost:37953/bookmark/bro-science-breathwork/</guid>
       <description>Breathing deeply and with ease is one of the most potent ways to make love to and connect with oneself on a moment to moment basis</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/bro-science-breathwork/featured-bale.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/bro-science-breathwork/featured-bale.jpeg" />
     </item>
     
     <item>
       <title>At your funeral</title>
-      <link>http://localhost:1313/repost/at-your-funeral/</link>
+      <link>http://localhost:37953/repost/at-your-funeral/</link>
       <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/at-your-funeral/</guid>
+      <guid>http://localhost:37953/repost/at-your-funeral/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/at-your-funeral/featured-funeral.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/repost/at-your-funeral/featured-funeral.jpg" />
     </item>
     
     <item>
       <title>They don&#39;t know</title>
-      <link>http://localhost:1313/like/they-dont-know/</link>
+      <link>http://localhost:37953/like/they-dont-know/</link>
       <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/they-dont-know/</guid>
+      <guid>http://localhost:37953/like/they-dont-know/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/they-dont-know/featured-weirdguy.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/they-dont-know/featured-weirdguy.jpg" />
     </item>
     
     <item>
       <title>Luz verde</title>
-      <link>http://localhost:1313/photo/luz-verde/</link>
+      <link>http://localhost:37953/photo/luz-verde/</link>
       <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/luz-verde/</guid>
+      <guid>http://localhost:37953/photo/luz-verde/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/luz-verde/featured-kit.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/photo/luz-verde/featured-kit.jpg" />
     </item>
     
     <item>
       <title>The dude in the red dress</title>
-      <link>http://localhost:1313/video/the-dude-in-the-red-dress/</link>
+      <link>http://localhost:37953/video/the-dude-in-the-red-dress/</link>
       <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/the-dude-in-the-red-dress/</guid>
+      <guid>http://localhost:37953/video/the-dude-in-the-red-dress/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-dude-in-the-red-dress/featured-woke.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/the-dude-in-the-red-dress/featured-woke.jpg" />
     </item>
     
     <item>
       <title>Fall in love</title>
-      <link>http://localhost:1313/quote/fall-in-love/</link>
+      <link>http://localhost:37953/quote/fall-in-love/</link>
       <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/fall-in-love/</guid>
+      <guid>http://localhost:37953/quote/fall-in-love/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/fall-in-love/featured-frida.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/fall-in-love/featured-frida.jpg" />
     </item>
     
     <item>
       <title>Choosing the sex of a child</title>
-      <link>http://localhost:1313/like/choosing-the-sex-of-a-child/</link>
+      <link>http://localhost:37953/like/choosing-the-sex-of-a-child/</link>
       <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/choosing-the-sex-of-a-child/</guid>
+      <guid>http://localhost:37953/like/choosing-the-sex-of-a-child/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/choosing-the-sex-of-a-child/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/choosing-the-sex-of-a-child/featured.png" />
     </item>
     
     <item>
       <title>Enslaved by the UFC</title>
-      <link>http://localhost:1313/video/enslaved-by-the-ufc/</link>
+      <link>http://localhost:37953/video/enslaved-by-the-ufc/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/enslaved-by-the-ufc/</guid>
+      <guid>http://localhost:37953/video/enslaved-by-the-ufc/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/enslaved-by-the-ufc/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/enslaved-by-the-ufc/featured.jpg" />
     </item>
     
     <item>
       <title>Reject statism</title>
-      <link>http://localhost:1313/bookmark/reject-statism/</link>
+      <link>http://localhost:37953/bookmark/reject-statism/</link>
       <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/reject-statism/</guid>
+      <guid>http://localhost:37953/bookmark/reject-statism/</guid>
       <description>The world has long been governed by systems of statism—systems built on force, coercion, and the suppression of individual sovereignty. These systems present themselves as protectors of order and providers of security, yet at their core, they perpetuate violence, extortion, and control.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/reject-statism/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/reject-statism/featured.jpg" />
     </item>
     
     <item>
       <title>Stand out in all your weirdness</title>
-      <link>http://localhost:1313/note/stand-out-in-all-your-weirdness/</link>
+      <link>http://localhost:37953/note/stand-out-in-all-your-weirdness/</link>
       <pubDate>Tue, 01 Apr 2025 00:04:40 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/stand-out-in-all-your-weirdness/</guid>
+      <guid>http://localhost:37953/note/stand-out-in-all-your-weirdness/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/stand-out-in-all-your-weirdness/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/note/stand-out-in-all-your-weirdness/featured.jpg" />
     </item>
     
     <item>
       <title>But you work all day for money</title>
-      <link>http://localhost:1313/like/but-you-work-all-day-for-money/</link>
+      <link>http://localhost:37953/like/but-you-work-all-day-for-money/</link>
       <pubDate>Fri, 21 Mar 2025 23:49:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/but-you-work-all-day-for-money/</guid>
+      <guid>http://localhost:37953/like/but-you-work-all-day-for-money/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/but-you-work-all-day-for-money/featured-brain.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/but-you-work-all-day-for-money/featured-brain.jpg" />
     </item>
     
     <item>
       <title>Don&#39;t be realistic</title>
-      <link>http://localhost:1313/note/dont-be-realistic/</link>
+      <link>http://localhost:37953/note/dont-be-realistic/</link>
       <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/dont-be-realistic/</guid>
+      <guid>http://localhost:37953/note/dont-be-realistic/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/dont-be-realistic/featured-realistic.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/note/dont-be-realistic/featured-realistic.png" />
     </item>
     
     <item>
       <title>Stop trying to be productive</title>
-      <link>http://localhost:1313/bookmark/stop-trying-to-be-productive/</link>
+      <link>http://localhost:37953/bookmark/stop-trying-to-be-productive/</link>
       <pubDate>Fri, 14 Mar 2025 20:23:16 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/stop-trying-to-be-productive/</guid>
+      <guid>http://localhost:37953/bookmark/stop-trying-to-be-productive/</guid>
       <description>Why leisure is the basis for civilization</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/stop-trying-to-be-productive/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/stop-trying-to-be-productive/featured.jpg" />
     </item>
     
     <item>
       <title>Preserve the privacy of financial transactions</title>
-      <link>http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/</link>
+      <link>http://localhost:37953/quote/preserve-the-privacy-of-financial-transactions/</link>
       <pubDate>Tue, 11 Mar 2025 12:51:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/</guid>
+      <guid>http://localhost:37953/quote/preserve-the-privacy-of-financial-transactions/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/featured-finney.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/preserve-the-privacy-of-financial-transactions/featured-finney.jpeg" />
     </item>
     
     <item>
       <title>If you seek..</title>
-      <link>http://localhost:1313/repost/if-you-seek/</link>
+      <link>http://localhost:37953/repost/if-you-seek/</link>
       <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/if-you-seek/</guid>
+      <guid>http://localhost:37953/repost/if-you-seek/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/if-you-seek/featured-seeking.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/repost/if-you-seek/featured-seeking.png" />
     </item>
     
     <item>
       <title>Xochipilli in temicxoch</title>
-      <link>http://localhost:1313/note/xochipilli-in-temicxoch/</link>
+      <link>http://localhost:37953/note/xochipilli-in-temicxoch/</link>
       <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/xochipilli-in-temicxoch/</guid>
+      <guid>http://localhost:37953/note/xochipilli-in-temicxoch/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/xochipilli-in-temicxoch/featured-statue.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/note/xochipilli-in-temicxoch/featured-statue.jpg" />
     </item>
     
     <item>
       <title>Sveti Jovan Kaneo</title>
-      <link>http://localhost:1313/photo/sveti-jovan-kaneo/</link>
+      <link>http://localhost:37953/photo/sveti-jovan-kaneo/</link>
       <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/sveti-jovan-kaneo/</guid>
+      <guid>http://localhost:37953/photo/sveti-jovan-kaneo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/sveti-jovan-kaneo/featured-church.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/photo/sveti-jovan-kaneo/featured-church.jpg" />
     </item>
     
     <item>
       <title>The true size</title>
-      <link>http://localhost:1313/bookmark/the-true-size/</link>
+      <link>http://localhost:37953/bookmark/the-true-size/</link>
       <pubDate>Sun, 02 Mar 2025 12:48:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/the-true-size/</guid>
+      <guid>http://localhost:37953/bookmark/the-true-size/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/the-true-size/featured-map.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/the-true-size/featured-map.jpg" />
     </item>
     
     <item>
       <title>Spirituality packs</title>
-      <link>http://localhost:1313/like/spirituality-packs/</link>
+      <link>http://localhost:37953/like/spirituality-packs/</link>
       <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/spirituality-packs/</guid>
+      <guid>http://localhost:37953/like/spirituality-packs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/spirituality-packs/featured-shooting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/spirituality-packs/featured-shooting.jpg" />
     </item>
     
     <item>
       <title>The real reason you can&#39;t change</title>
-      <link>http://localhost:1313/video/the-real-reason-you-cant-change/</link>
+      <link>http://localhost:37953/video/the-real-reason-you-cant-change/</link>
       <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/the-real-reason-you-cant-change/</guid>
+      <guid>http://localhost:37953/video/the-real-reason-you-cant-change/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-real-reason-you-cant-change/featured-k.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/the-real-reason-you-cant-change/featured-k.jpg" />
     </item>
     
     <item>
       <title>Beyond the state</title>
-      <link>http://localhost:1313/bookmark/beyond-the-state/</link>
+      <link>http://localhost:37953/bookmark/beyond-the-state/</link>
       <pubDate>Tue, 11 Feb 2025 22:31:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/beyond-the-state/</guid>
+      <guid>http://localhost:37953/bookmark/beyond-the-state/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/beyond-the-state/featured-anarchy.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/beyond-the-state/featured-anarchy.png" />
     </item>
     
     <item>
       <title>Theatre for the slave class</title>
-      <link>http://localhost:1313/like/theatre-for-the-slave-class/</link>
+      <link>http://localhost:37953/like/theatre-for-the-slave-class/</link>
       <pubDate>Mon, 10 Feb 2025 23:00:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/theatre-for-the-slave-class/</guid>
+      <guid>http://localhost:37953/like/theatre-for-the-slave-class/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/theatre-for-the-slave-class/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/theatre-for-the-slave-class/featured.jpg" />
     </item>
     
     <item>
       <title>The prosecution of Roger Ver</title>
-      <link>http://localhost:1313/video/the-prosecution-of-roger-ver/</link>
+      <link>http://localhost:37953/video/the-prosecution-of-roger-ver/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/the-prosecution-of-roger-ver/</guid>
+      <guid>http://localhost:37953/video/the-prosecution-of-roger-ver/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-prosecution-of-roger-ver/featured-roger.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/the-prosecution-of-roger-ver/featured-roger.jpg" />
     </item>
     
     <item>
       <title>How to survive a plunge from a waterfall</title>
-      <link>http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/</link>
+      <link>http://localhost:37953/like/how-to-survive-a-plunge-from-a-waterfall/</link>
       <pubDate>Sat, 25 Jan 2025 23:47:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/</guid>
+      <guid>http://localhost:37953/like/how-to-survive-a-plunge-from-a-waterfall/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/how-to-survive-a-plunge-from-a-waterfall/featured-plunge.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/how-to-survive-a-plunge-from-a-waterfall/featured-plunge.jpg" />
     </item>
     
     <item>
       <title>Sol y Luna (Vinyl)</title>
-      <link>http://localhost:1313/photo/sol-luna-clothes/</link>
+      <link>http://localhost:37953/photo/sol-luna-clothes/</link>
       <pubDate>Sun, 19 Jan 2025 18:48:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/sol-luna-clothes/</guid>
+      <guid>http://localhost:37953/photo/sol-luna-clothes/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/sol-luna-clothes/featured-sweater.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/photo/sol-luna-clothes/featured-sweater.jpg" />
     </item>
     
     <item>
       <title>The most powerful men</title>
-      <link>http://localhost:1313/note/the-most-powerful-men/</link>
+      <link>http://localhost:37953/note/the-most-powerful-men/</link>
       <pubDate>Tue, 14 Jan 2025 21:09:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/the-most-powerful-men/</guid>
+      <guid>http://localhost:37953/note/the-most-powerful-men/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/the-most-powerful-men/featured-men.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/note/the-most-powerful-men/featured-men.png" />
     </item>
     
     <item>
       <title>Go to the library</title>
-      <link>http://localhost:1313/quote/go-to-the-library/</link>
+      <link>http://localhost:37953/quote/go-to-the-library/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/go-to-the-library/</guid>
+      <guid>http://localhost:37953/quote/go-to-the-library/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/go-to-the-library/featured-zappa.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/go-to-the-library/featured-zappa.jpg" />
     </item>
     
     <item>
       <title>Be like water</title>
-      <link>http://localhost:1313/video/be-like-water/</link>
+      <link>http://localhost:37953/video/be-like-water/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/be-like-water/</guid>
+      <guid>http://localhost:37953/video/be-like-water/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/be-like-water/featured-water.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/be-like-water/featured-water.jpg" />
     </item>
     
     <item>
       <title>Salinas de Gozo 🇲🇹</title>
-      <link>http://localhost:1313/photo/salinas-de-gozo/</link>
+      <link>http://localhost:37953/photo/salinas-de-gozo/</link>
       <pubDate>Wed, 01 Jan 2025 13:55:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/salinas-de-gozo/</guid>
+      <guid>http://localhost:37953/photo/salinas-de-gozo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/salinas-de-gozo/featured-salinas.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/photo/salinas-de-gozo/featured-salinas.jpg" />
     </item>
     
     <item>
       <title>Eating babies</title>
-      <link>http://localhost:1313/like/eating-babies/</link>
+      <link>http://localhost:37953/like/eating-babies/</link>
       <pubDate>Wed, 25 Dec 2024 17:40:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/eating-babies/</guid>
+      <guid>http://localhost:37953/like/eating-babies/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/eating-babies/featured-birds.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/like/eating-babies/featured-birds.jpg" />
     </item>
     
     <item>
       <title>If you want..</title>
-      <link>http://localhost:1313/repost/if-you-want/</link>
+      <link>http://localhost:37953/repost/if-you-want/</link>
       <pubDate>Sun, 15 Dec 2024 19:07:05 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/if-you-want/</guid>
+      <guid>http://localhost:37953/repost/if-you-want/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/if-you-want/featured-wants.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/repost/if-you-want/featured-wants.jpg" />
     </item>
     
     <item>
       <title>Bitcoin is an embarrassment</title>
-      <link>http://localhost:1313/video/bitcoin-is-an-embarrassment/</link>
+      <link>http://localhost:37953/video/bitcoin-is-an-embarrassment/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/bitcoin-is-an-embarrassment/</guid>
+      <guid>http://localhost:37953/video/bitcoin-is-an-embarrassment/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/video/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
     </item>
     
     <item>
       <title>Shadow work with Luna</title>
-      <link>http://localhost:1313/photo/shadow-work-with-luna/</link>
+      <link>http://localhost:37953/photo/shadow-work-with-luna/</link>
       <pubDate>Sun, 08 Dec 2024 11:41:42 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/shadow-work-with-luna/</guid>
+      <guid>http://localhost:37953/photo/shadow-work-with-luna/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/shadow-work-with-luna/featured-shadow-work.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/photo/shadow-work-with-luna/featured-shadow-work.jpg" />
     </item>
     
     <item>
       <title>Pluto in Aquarius</title>
-      <link>http://localhost:1313/bookmark/pluto-in-aquarius/</link>
+      <link>http://localhost:37953/bookmark/pluto-in-aquarius/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/pluto-in-aquarius/</guid>
+      <guid>http://localhost:37953/bookmark/pluto-in-aquarius/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/pluto-in-aquarius/featured-plutoaquarius.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/pluto-in-aquarius/featured-plutoaquarius.jpg" />
     </item>
     
     <item>
       <title>Vastly preferable to those that follow authority</title>
-      <link>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</link>
+      <link>http://localhost:37953/quote/vastly-preferable-to-those-that-follow-authority/</link>
       <pubDate>Sun, 24 Nov 2024 12:24:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</guid>
+      <guid>http://localhost:37953/quote/vastly-preferable-to-those-that-follow-authority/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/featured-tucker.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/vastly-preferable-to-those-that-follow-authority/featured-tucker.jpg" />
     </item>
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:37953/note/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:37953/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
     <item>
       <title>How do you choose to suffer?</title>
-      <link>http://localhost:1313/bookmark/how-do-you-choose-to-suffer/</link>
+      <link>http://localhost:37953/bookmark/how-do-you-choose-to-suffer/</link>
       <pubDate>Mon, 18 Nov 2024 19:49:25 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/how-do-you-choose-to-suffer/</guid>
+      <guid>http://localhost:37953/bookmark/how-do-you-choose-to-suffer/</guid>
       <description>Everybody wants what feels good.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/how-do-you-choose-to-suffer/featured-suffering.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/how-do-you-choose-to-suffer/featured-suffering.jpg" />
     </item>
     
     <item>
       <title>Bankers are looting the world</title>
-      <link>http://localhost:1313/quote/bankers-are-looting-the-world/</link>
+      <link>http://localhost:37953/quote/bankers-are-looting-the-world/</link>
       <pubDate>Sun, 10 Nov 2024 01:43:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/bankers-are-looting-the-world/</guid>
+      <guid>http://localhost:37953/quote/bankers-are-looting-the-world/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/bankers-are-looting-the-world/featured-looting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/quote/bankers-are-looting-the-world/featured-looting.jpg" />
     </item>
     
     <item>
       <title>Lessons from the Sioux in how to turn a boy into a man</title>
-      <link>http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</link>
+      <link>http://localhost:37953/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</link>
       <pubDate>Sun, 03 Nov 2024 13:08:17 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</guid>
+      <guid>http://localhost:37953/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/featured-indian.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37953/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/featured-indian.jpg" />
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:37953/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:37953/about/</guid>
       <description></description>
       
     </item>
