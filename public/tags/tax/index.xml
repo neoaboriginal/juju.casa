@@ -21,5 +21,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-prosecution-of-roger-ver/featured-roger.jpg" />
     </item>
     
+    <item>
+      <title>She kept her income</title>
+      <link>http://localhost:1313/like/she-kept-her-income/</link>
+      <pubDate>Wed, 30 Oct 2024 16:31:26 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/like/she-kept-her-income/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/she-kept-her-income/featured-income.jpeg" />
+    </item>
+    
   </channel>
 </rss>
