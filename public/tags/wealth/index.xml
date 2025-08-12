@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wealth on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/wealth/</link>
+    <link>http://localhost:40639/tags/wealth/</link>
     <description>Recent content in Wealth on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 04 Aug 2025 19:32:08 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/wealth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 19:32:08 +0200</lastBuildDate><atom:link href="http://localhost:40639/tags/wealth/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The financial system has reached the end</title>
-      <link>http://localhost:1313/bookmark/the-financial-system-has-reached-the-end/</link>
+      <link>http://localhost:40639/bookmark/the-financial-system-has-reached-the-end/</link>
       <pubDate>Mon, 04 Aug 2025 19:32:08 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/the-financial-system-has-reached-the-end/</guid>
+      <guid>http://localhost:40639/bookmark/the-financial-system-has-reached-the-end/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/the-financial-system-has-reached-the-end/featured-downtrend.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40639/bookmark/the-financial-system-has-reached-the-end/featured-downtrend.png" />
     </item>
     
     <item>
       <title>The modern world is a massive scam</title>
-      <link>http://localhost:1313/repost/the-modern-world-is-a-massive-scam/</link>
+      <link>http://localhost:40639/repost/the-modern-world-is-a-massive-scam/</link>
       <pubDate>Wed, 09 Jul 2025 02:42:58 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/the-modern-world-is-a-massive-scam/</guid>
+      <guid>http://localhost:40639/repost/the-modern-world-is-a-massive-scam/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40639/repost/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
     </item>
     
   </channel>
