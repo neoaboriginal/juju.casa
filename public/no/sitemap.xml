@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/no/</loc>
+    <lastmod>2025-08-15T16:51:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="no"
+      href="http://localhost:1313/no/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/no/music/ferske-spor-august2025/</loc>
+    <lastmod>2025-08-15T16:51:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/no/music/</loc>
+    <lastmod>2025-08-15T16:51:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/no/bookmark/</loc>
     <lastmod>2025-08-04T19:44:02+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -19,22 +47,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/no/</loc>
-    <lastmod>2025-08-04T19:44:02+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="no"
-      href="http://localhost:1313/no/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/no/bookmark/fra-morsmelk-til-fast-foede/</loc>
     <lastmod>2025-08-04T19:44:02+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -48,12 +60,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/no/music/ferske-spor-juli-2025/</loc>
-    <lastmod>2025-07-04T14:00:12+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/no/music/</loc>
     <lastmod>2025-07-04T14:00:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

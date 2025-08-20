@@ -9,7 +9,57 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 04 Aug 2025 19:44:02 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Aug 2025 16:51:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bass</title>
+      <link>http://localhost:1313/no/tags/bass/</link>
+      <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/no/tags/bass/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jazz</title>
+      <link>http://localhost:1313/no/tags/jazz/</link>
+      <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/no/tags/jazz/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lekent</title>
+      <link>http://localhost:1313/no/tags/lekent/</link>
+      <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/no/tags/lekent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sommer</title>
+      <link>http://localhost:1313/no/tags/sommer/</link>
+      <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/no/tags/sommer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spotify</title>
+      <link>http://localhost:1313/no/tags/spotify/</link>
+      <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/no/tags/spotify/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Ernæring</title>
@@ -207,16 +257,6 @@
       <pubDate>Sun, 13 Jul 2025 23:23:58 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/no/tags/verdi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bass</title>
-      <link>http://localhost:1313/no/tags/bass/</link>
-      <pubDate>Fri, 04 Jul 2025 14:00:12 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/tags/bass/</guid>
       <description></description>
       
     </item>
