@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Penger on Casa de JuJu</title>
-    <link>http://localhost:40639/no/tags/penger/</link>
+    <link>http://localhost:1313/no/tags/penger/</link>
     <description>Recent content in Penger on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 13 Jul 2025 23:23:58 +0200</lastBuildDate><atom:link href="http://localhost:40639/no/tags/penger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jul 2025 23:23:58 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/penger/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fiat-pengenes forførende usannheter</title>
-      <link>http://localhost:40639/no/bookmark/fiat-pengenes-forfoerende-usannheter/</link>
+      <link>http://localhost:1313/no/bookmark/fiat-pengenes-forfoerende-usannheter/</link>
       <pubDate>Sun, 13 Jul 2025 23:23:58 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40639/no/bookmark/fiat-pengenes-forfoerende-usannheter/</guid>
+      <guid>http://localhost:1313/no/bookmark/fiat-pengenes-forfoerende-usannheter/</guid>
       <description>Hvordan moderne penger ble en illusjon vi betaler dyrt for å tro på.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40639/no/bookmark/fiat-pengenes-forfoerende-usannheter/featured.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/bookmark/fiat-pengenes-forfoerende-usannheter/featured.no.jpg" />
     </item>
     
     <item>
       <title>Pengene du har i banken</title>
-      <link>http://localhost:40639/no/note/pengene-du-har-i-banken/</link>
+      <link>http://localhost:1313/no/note/pengene-du-har-i-banken/</link>
       <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:40639/no/note/pengene-du-har-i-banken/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40639/no/note/pengene-du-har-i-banken/featured-bank.no.png" />
+      <guid>http://localhost:1313/no/note/pengene-du-har-i-banken/</guid>
+      <description>Pengene du har i banken.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/note/pengene-du-har-i-banken/featured-bank.no.png" />
     </item>
     
   </channel>
