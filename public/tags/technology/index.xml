@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Casa de JuJu</title>
-    <link>http://localhost:38841/tags/technology/</link>
+    <link>http://localhost:1313/tags/technology/</link>
     <description>Recent content in Technology on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 02 Dec 2024 22:12:06 +0200</lastBuildDate><atom:link href="http://localhost:38841/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 22:12:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pluto in Aquarius</title>
-      <link>http://localhost:38841/bookmark/pluto-in-aquarius/</link>
+      <link>http://localhost:1313/bookmark/pluto-in-aquarius/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:38841/bookmark/pluto-in-aquarius/</guid>
+      <guid>http://localhost:1313/bookmark/pluto-in-aquarius/</guid>
       <description>Big changes are ahead for humanity as Pluto has entered Aquarius for good over the next 20 years.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38841/bookmark/pluto-in-aquarius/featured-plutoaquarius.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/pluto-in-aquarius/featured-plutoaquarius.jpg" />
     </item>
     
   </channel>

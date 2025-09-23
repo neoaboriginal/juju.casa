@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Note on Casa de JuJu</title>
-    <link>http://localhost:38841/no/category/note/</link>
+    <link>http://localhost:1313/no/category/note/</link>
     <description>Recent content in Note on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 28 Apr 2025 23:58:12 +0200</lastBuildDate><atom:link href="http://localhost:38841/no/category/note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 23:58:12 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/category/note/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Viktig å vaske henda</title>
-      <link>http://localhost:38841/no/note/viktig-%C3%A5-vaske-henda/</link>
+      <link>http://localhost:1313/no/note/viktig-%C3%A5-vaske-henda/</link>
       <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:38841/no/note/viktig-%C3%A5-vaske-henda/</guid>
+      <guid>http://localhost:1313/no/note/viktig-%C3%A5-vaske-henda/</guid>
       <description>I dagens &amp;rsquo;toxic environments&amp;rsquo; så er det en ting som er viktigere enn å vaske henda etter at du har vært på do: Å vaske henda før du går på do.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38841/no/note/viktig-%C3%A5-vaske-henda/featured-hands.no.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/note/viktig-%C3%A5-vaske-henda/featured-hands.no.png" />
     </item>
     
     <item>
       <title>Pengene du har i banken</title>
-      <link>http://localhost:38841/no/note/pengene-du-har-i-banken/</link>
+      <link>http://localhost:1313/no/note/pengene-du-har-i-banken/</link>
       <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:38841/no/note/pengene-du-har-i-banken/</guid>
+      <guid>http://localhost:1313/no/note/pengene-du-har-i-banken/</guid>
       <description>Pengene du har i banken.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38841/no/note/pengene-du-har-i-banken/featured-bank.no.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/note/pengene-du-har-i-banken/featured-bank.no.png" />
     </item>
     
     <item>
       <title>Mye mat i lang tid</title>
-      <link>http://localhost:38841/no/note/mye-mat-i-lang-tid.no/</link>
+      <link>http://localhost:1313/no/note/mye-mat-i-lang-tid.no/</link>
       <pubDate>Mon, 28 Oct 2024 17:03:01 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:38841/no/note/mye-mat-i-lang-tid.no/</guid>
+      <guid>http://localhost:1313/no/note/mye-mat-i-lang-tid.no/</guid>
       <description>Viltkjøtt gir mye mat i lang tid, og bør være en førsteprioritet dersom du bor i Norge.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38841/no/note/mye-mat-i-lang-tid.no/featured.autumn.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/note/mye-mat-i-lang-tid.no/featured.autumn.no.jpg" />
     </item>
     
   </channel>

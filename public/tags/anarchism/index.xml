@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anarchism on Casa de JuJu</title>
-    <link>http://localhost:38841/tags/anarchism/</link>
+    <link>http://localhost:1313/tags/anarchism/</link>
     <description>Recent content in Anarchism on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 24 Nov 2024 12:24:56 +0200</lastBuildDate><atom:link href="http://localhost:38841/tags/anarchism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Nov 2024 12:24:56 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/anarchism/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vastly preferable to those that follow authority</title>
-      <link>http://localhost:38841/quote/vastly-preferable-to-those-that-follow-authority/</link>
+      <link>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</link>
       <pubDate>Sun, 24 Nov 2024 12:24:56 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:38841/quote/vastly-preferable-to-those-that-follow-authority/</guid>
+      <guid>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</guid>
       <description> ~ Benjamin Tucker </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38841/quote/vastly-preferable-to-those-that-follow-authority/featured-tucker.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/featured-tucker.jpg" />
     </item>
     
   </channel>
