@@ -1,9 +1,11 @@
 ---
 title: "Parking allowed"
-date: 2025-10-20T17:45:17+02:00
+date: 2025-10-02T17:45:17+02:00
 draft: false
 category: "Photo"  # Personal photos
-tags: [""]
-caption: ""  # Photo caption
+tags: ["parking", "rebellious"]
+caption: "A sign on the ground"  # Photo caption
 ---
-![Alt Text](/img/photo/YOUR-IMAGE)
+I wanna park wherever I want.
+
+![Alt Text](/img/photo/kveldsroveien.jpg)
