@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gender on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/gender/</link>
+    <link>http://localhost:41737/tags/gender/</link>
     <description>Recent content in Gender on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 17:45:53 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/gender/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 17:45:53 +0200</lastBuildDate><atom:link href="http://localhost:41737/tags/gender/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What every woman should know</title>
-      <link>http://localhost:1313/video/what-every-woman-should-know/</link>
+      <link>http://localhost:41737/video/what-every-woman-should-know/</link>
       <pubDate>Thu, 18 Sep 2025 17:45:53 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/what-every-woman-should-know/</guid>
+      <guid>http://localhost:41737/video/what-every-woman-should-know/</guid>
       <description>To all women, with love.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/what-every-woman-should-know/featured-knowing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/video/what-every-woman-should-know/featured-knowing.jpg" />
     </item>
     
     <item>
       <title>The dude in the red dress</title>
-      <link>http://localhost:1313/video/the-dude-in-the-red-dress/</link>
+      <link>http://localhost:41737/video/the-dude-in-the-red-dress/</link>
       <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/the-dude-in-the-red-dress/</guid>
+      <guid>http://localhost:41737/video/the-dude-in-the-red-dress/</guid>
       <description>&amp;ldquo;IT&amp;rsquo;S MA&amp;rsquo;AM !</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-dude-in-the-red-dress/featured-woke.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/video/the-dude-in-the-red-dress/featured-woke.jpg" />
     </item>
     
     <item>
       <title>Choosing the sex of a child</title>
-      <link>http://localhost:1313/like/choosing-the-sex-of-a-child/</link>
+      <link>http://localhost:41737/like/choosing-the-sex-of-a-child/</link>
       <pubDate>Wed, 09 Apr 2025 00:49:03 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/choosing-the-sex-of-a-child/</guid>
+      <guid>http://localhost:41737/like/choosing-the-sex-of-a-child/</guid>
       <description>Never forget.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/choosing-the-sex-of-a-child/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/like/choosing-the-sex-of-a-child/featured.png" />
     </item>
     
   </channel>

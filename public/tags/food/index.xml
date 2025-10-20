@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/food/</link>
+    <link>http://localhost:41737/tags/food/</link>
     <description>Recent content in Food on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 04 Jun 2025 11:32:08 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jun 2025 11:32:08 +0200</lastBuildDate><atom:link href="http://localhost:41737/tags/food/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>When the Taurus moon kicks in</title>
-      <link>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</link>
+      <link>http://localhost:41737/photo/when-the-taurus-moon-kicks-in/</link>
       <pubDate>Wed, 04 Jun 2025 11:32:08 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/when-the-taurus-moon-kicks-in/</guid>
+      <guid>http://localhost:41737/photo/when-the-taurus-moon-kicks-in/</guid>
       <description>Rich, strong and tropical flavors.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/when-the-taurus-moon-kicks-in/featured-flavors.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/photo/when-the-taurus-moon-kicks-in/featured-flavors.jpeg" />
     </item>
     
     <item>
       <title>At your funeral</title>
-      <link>http://localhost:1313/repost/at-your-funeral/</link>
+      <link>http://localhost:41737/repost/at-your-funeral/</link>
       <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/at-your-funeral/</guid>
+      <guid>http://localhost:41737/repost/at-your-funeral/</guid>
       <description>Original post available here At your funeral, friends and family will argue over who gets your belongings.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/at-your-funeral/featured-funeral.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/repost/at-your-funeral/featured-funeral.jpg" />
     </item>
     
     <item>
       <title>Enslaved by the UFC</title>
-      <link>http://localhost:1313/video/enslaved-by-the-ufc/</link>
+      <link>http://localhost:41737/video/enslaved-by-the-ufc/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/enslaved-by-the-ufc/</guid>
+      <guid>http://localhost:41737/video/enslaved-by-the-ufc/</guid>
       <description>Goatis (sv3rige) has solid nutritional and health advice, although his style is not for the soft-hearted snowflakes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/enslaved-by-the-ufc/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/video/enslaved-by-the-ufc/featured.jpg" />
     </item>
     
   </channel>

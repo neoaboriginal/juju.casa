@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oil on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/oil/</link>
+    <link>http://localhost:41737/tags/oil/</link>
     <description>Recent content in Oil on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Thu, 31 Jul 2025 20:45:52 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/oil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Jul 2025 20:45:52 +0200</lastBuildDate><atom:link href="http://localhost:41737/tags/oil/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>3 things I have learned today</title>
-      <link>http://localhost:1313/note/3-things-i-have-learned-today/</link>
+      <link>http://localhost:41737/note/3-things-i-have-learned-today/</link>
       <pubDate>Thu, 31 Jul 2025 20:45:52 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/3-things-i-have-learned-today/</guid>
+      <guid>http://localhost:41737/note/3-things-i-have-learned-today/</guid>
       <description>You don&amp;rsquo;t need a thermometer.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/3-things-i-have-learned-today/featured-cocooil.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/note/3-things-i-have-learned-today/featured-cocooil.png" />
     </item>
     
   </channel>

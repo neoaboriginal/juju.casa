@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politics on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/politics/</link>
+    <link>http://localhost:41737/tags/politics/</link>
     <description>Recent content in Politics on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 12:32:54 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 12:32:54 +0200</lastBuildDate><atom:link href="http://localhost:41737/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The government&#39;s boot</title>
-      <link>http://localhost:1313/quote/the-governments-boot/</link>
+      <link>http://localhost:41737/quote/the-governments-boot/</link>
       <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/the-governments-boot/</guid>
+      <guid>http://localhost:41737/quote/the-governments-boot/</guid>
       <description>~ Gary Lloyd</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-governments-boot/featured-boot.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/quote/the-governments-boot/featured-boot.jpeg" />
     </item>
     
     <item>
       <title>The end of ideology</title>
-      <link>http://localhost:1313/repost/the-end-of-ideology/</link>
+      <link>http://localhost:41737/repost/the-end-of-ideology/</link>
       <pubDate>Thu, 29 May 2025 01:00:35 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/the-end-of-ideology/</guid>
+      <guid>http://localhost:41737/repost/the-end-of-ideology/</guid>
       <description>It is not about left or right dogma anymore.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/the-end-of-ideology/featured-continue.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/repost/the-end-of-ideology/featured-continue.jpg" />
     </item>
     
     <item>
       <title>Theatre for the slave class</title>
-      <link>http://localhost:1313/like/theatre-for-the-slave-class/</link>
+      <link>http://localhost:41737/like/theatre-for-the-slave-class/</link>
       <pubDate>Mon, 10 Feb 2025 23:00:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/theatre-for-the-slave-class/</guid>
+      <guid>http://localhost:41737/like/theatre-for-the-slave-class/</guid>
       <description>God morgen, god morgen – til hele bondegården 🚜🐄🐖🐔</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/theatre-for-the-slave-class/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/like/theatre-for-the-slave-class/featured.jpg" />
     </item>
     
   </channel>
