@@ -29,6 +29,16 @@
     <lastmod>2025-08-15T16:51:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/music/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="no"
+      href="http://localhost:1313/no/music/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/no/bookmark/</loc>
