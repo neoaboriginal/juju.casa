@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kjærlighet on Casa de JuJu</title>
-    <link>http://localhost:41737/no/tags/kj%C3%A6rlighet/</link>
+    <link>http://localhost:1313/no/tags/kj%C3%A6rlighet/</link>
     <description>Recent content in Kjærlighet on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Fri, 14 Feb 2025 14:15:26 +0200</lastBuildDate><atom:link href="http://localhost:41737/no/tags/kj%C3%A6rlighet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Feb 2025 14:15:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/kj%C3%A6rlighet/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Klissete lovesongs for Deichman</title>
-      <link>http://localhost:41737/no/music/klissete-lovesongs-for-deichman/</link>
+      <link>http://localhost:1313/no/music/klissete-lovesongs-for-deichman/</link>
       <pubDate>Fri, 14 Feb 2025 14:15:26 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/no/music/klissete-lovesongs-for-deichman/</guid>
+      <guid>http://localhost:1313/no/music/klissete-lovesongs-for-deichman/</guid>
       <description>Klissete lovesongs for Deichman Musikkblogg :</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/no/music/klissete-lovesongs-for-deichman/featured-bjork.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/music/klissete-lovesongs-for-deichman/featured-bjork.no.jpg" />
     </item>
     
   </channel>

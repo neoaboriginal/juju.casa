@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etnofusion on Casa de JuJu</title>
-    <link>http://localhost:41737/no/tags/etnofusion/</link>
+    <link>http://localhost:1313/no/tags/etnofusion/</link>
     <description>Recent content in Etnofusion on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 22 Apr 2025 18:52:27 +0200</lastBuildDate><atom:link href="http://localhost:41737/no/tags/etnofusion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Apr 2025 18:52:27 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/etnofusion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor / April 2025</title>
-      <link>http://localhost:41737/no/music/ferske-spor-april2025/</link>
+      <link>http://localhost:1313/no/music/ferske-spor-april2025/</link>
       <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/no/music/ferske-spor-april2025/</guid>
+      <guid>http://localhost:1313/no/music/ferske-spor-april2025/</guid>
       <description>Link til Deichmans musikkblogg her .</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/no/music/ferske-spor-april2025/featured.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/music/ferske-spor-april2025/featured.no.jpg" />
     </item>
     
   </channel>

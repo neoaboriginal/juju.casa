@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attractive on Casa de JuJu</title>
-    <link>http://localhost:41737/tags/attractive/</link>
+    <link>http://localhost:1313/tags/attractive/</link>
     <description>Recent content in Attractive on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 20 Oct 2025 18:02:36 +0200</lastBuildDate><atom:link href="http://localhost:41737/tags/attractive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Oct 2025 18:02:36 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/attractive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nothing going on</title>
-      <link>http://localhost:41737/repost/nothing-going-on/</link>
+      <link>http://localhost:1313/repost/nothing-going-on/</link>
       <pubDate>Mon, 20 Oct 2025 18:02:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/repost/nothing-going-on/</guid>
+      <guid>http://localhost:1313/repost/nothing-going-on/</guid>
       <description>It&amp;rsquo;s all so simple.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/repost/nothing-going-on/featured-activity.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/nothing-going-on/featured-activity.png" />
     </item>
     
   </channel>

@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luna on Casa de JuJu</title>
-    <link>http://localhost:41737/tags/luna/</link>
+    <link>http://localhost:1313/tags/luna/</link>
     <description>Recent content in Luna on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 19 Jan 2025 18:48:15 +0200</lastBuildDate><atom:link href="http://localhost:41737/tags/luna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jan 2025 18:48:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/luna/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sol y Luna (Vinyl)</title>
-      <link>http://localhost:41737/photo/sol-luna-clothes/</link>
+      <link>http://localhost:1313/photo/sol-luna-clothes/</link>
       <pubDate>Sun, 19 Jan 2025 18:48:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/photo/sol-luna-clothes/</guid>
+      <guid>http://localhost:1313/photo/sol-luna-clothes/</guid>
       <description>Sol ☀️ y Luna 🌙</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/photo/sol-luna-clothes/featured-sweater.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/sol-luna-clothes/featured-sweater.jpg" />
     </item>
     
     <item>
       <title>Shadow work with Luna</title>
-      <link>http://localhost:41737/photo/shadow-work-with-luna/</link>
+      <link>http://localhost:1313/photo/shadow-work-with-luna/</link>
       <pubDate>Sun, 08 Dec 2024 11:41:42 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/photo/shadow-work-with-luna/</guid>
+      <guid>http://localhost:1313/photo/shadow-work-with-luna/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/photo/shadow-work-with-luna/featured-shadow-work.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/shadow-work-with-luna/featured-shadow-work.jpg" />
     </item>
     
   </channel>

@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Men on Casa de JuJu</title>
-    <link>http://localhost:41737/tags/men/</link>
+    <link>http://localhost:1313/tags/men/</link>
     <description>Recent content in Men on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 20 Oct 2025 18:02:36 +0200</lastBuildDate><atom:link href="http://localhost:41737/tags/men/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Oct 2025 18:02:36 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/men/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nothing going on</title>
-      <link>http://localhost:41737/repost/nothing-going-on/</link>
+      <link>http://localhost:1313/repost/nothing-going-on/</link>
       <pubDate>Mon, 20 Oct 2025 18:02:36 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/repost/nothing-going-on/</guid>
+      <guid>http://localhost:1313/repost/nothing-going-on/</guid>
       <description>It&amp;rsquo;s all so simple.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/repost/nothing-going-on/featured-activity.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/nothing-going-on/featured-activity.png" />
     </item>
     
     <item>
       <title>What every woman should know</title>
-      <link>http://localhost:41737/video/what-every-woman-should-know/</link>
+      <link>http://localhost:1313/video/what-every-woman-should-know/</link>
       <pubDate>Thu, 18 Sep 2025 17:45:53 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/video/what-every-woman-should-know/</guid>
+      <guid>http://localhost:1313/video/what-every-woman-should-know/</guid>
       <description>To all women, with love.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/video/what-every-woman-should-know/featured-knowing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/what-every-woman-should-know/featured-knowing.jpg" />
     </item>
     
     <item>
       <title>Men are solar, Women are lunar</title>
-      <link>http://localhost:41737/repost/men-are-solar-women-are-lunar/</link>
+      <link>http://localhost:1313/repost/men-are-solar-women-are-lunar/</link>
       <pubDate>Fri, 13 Jun 2025 19:39:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/repost/men-are-solar-women-are-lunar/</guid>
+      <guid>http://localhost:1313/repost/men-are-solar-women-are-lunar/</guid>
       <description>Could be an idea to respect your natural cycles.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/repost/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
     </item>
     
     <item>
       <title>Why finding love feels harder than ever</title>
-      <link>http://localhost:41737/video/why-finding-love-feels-harder-than-ever/</link>
+      <link>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/video/why-finding-love-feels-harder-than-ever/</guid>
+      <guid>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</guid>
       <description>Negative take: If you hate being single just try dating today.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/video/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
     </item>
     
     <item>
       <title>Lessons from the Sioux in how to turn a boy into a man</title>
-      <link>http://localhost:41737/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</link>
+      <link>http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</link>
       <pubDate>Sun, 03 Nov 2024 13:08:17 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:41737/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</guid>
+      <guid>http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</guid>
       <description>Check out the link below.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:41737/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/featured-indian.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/featured-indian.jpg" />
     </item>
     
   </channel>
