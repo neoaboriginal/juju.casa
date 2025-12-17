@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-30T08:41:50+01:00</lastmod>
+    <lastmod>2025-12-17T19:51:19+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,18 @@
       hreflang="en"
       href="http://localhost:1313/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/quote/</loc>
+    <lastmod>2025-12-17T19:51:19+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quote/risks-of-autonomy/</loc>
+    <lastmod>2025-12-17T19:51:19+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/photo/</loc>
@@ -139,12 +151,6 @@
   <url>
     <loc>http://localhost:1313/note/3-things-i-have-learned-today/</loc>
     <lastmod>2025-07-31T20:45:52+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/quote/</loc>
-    <lastmod>2025-07-29T17:36:29+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

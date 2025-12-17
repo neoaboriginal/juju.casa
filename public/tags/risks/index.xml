@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Risks on Casa de JuJu</title>
+    <link>http://localhost:1313/tags/risks/</link>
+    <description>Recent content in Risks on Casa de JuJu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
+    <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
+    <copyright>© 2025 JuJu Darío</copyright>
+    <lastBuildDate>Wed, 17 Dec 2025 19:51:19 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/risks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Risks of autonomy</title>
+      <link>http://localhost:1313/quote/risks-of-autonomy/</link>
+      <pubDate>Wed, 17 Dec 2025 19:51:19 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/quote/risks-of-autonomy/</guid>
+      <description>~ Antonio Escohotado</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/risks-of-autonomy/featured-escohotado.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
