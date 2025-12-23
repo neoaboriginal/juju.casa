@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-17T19:51:19+07:00</lastmod>
+    <lastmod>2025-12-23T10:01:41+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,6 +19,34 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/photo/khmer-coast/</loc>
+    <lastmod>2025-12-23T10:01:41+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/photo/</loc>
+    <lastmod>2025-12-23T10:01:41+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/music/</loc>
+    <lastmod>2025-12-22T16:06:01+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="no"
+      href="http://localhost:1313/no/music/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/music/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/quote/</loc>
     <lastmod>2025-12-17T19:51:19+07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -27,12 +55,6 @@
   <url>
     <loc>http://localhost:1313/quote/risks-of-autonomy/</loc>
     <lastmod>2025-12-17T19:51:19+07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/photo/</loc>
-    <lastmod>2025-11-30T08:41:50+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

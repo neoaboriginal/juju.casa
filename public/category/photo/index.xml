@@ -9,7 +9,17 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 30 Nov 2025 08:41:50 +0100</lastBuildDate><atom:link href="http://localhost:1313/category/photo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Dec 2025 10:01:41 +0700</lastBuildDate><atom:link href="http://localhost:1313/category/photo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Khmer coast</title>
+      <link>http://localhost:1313/photo/khmer-coast/</link>
+      <pubDate>Tue, 23 Dec 2025 10:01:41 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/photo/khmer-coast/</guid>
+      <description>That&amp;rsquo;s why I&amp;rsquo;m here; for proper sun exposure.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/khmer-coast/featured-lagoon.jpg" />
+    </item>
     
     <item>
       <title>Siem Reap 2025</title>
