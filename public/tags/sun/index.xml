@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sun on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/sun/</link>
+    <link>http://localhost:46803/tags/sun/</link>
     <description>Recent content in Sun on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 23 Dec 2025 10:01:41 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/sun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Dec 2025 10:01:41 +0700</lastBuildDate><atom:link href="http://localhost:46803/tags/sun/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Khmer coast 2025</title>
-      <link>http://localhost:1313/photo/khmer-coast/</link>
+      <link>http://localhost:46803/photo/khmer-coast/</link>
       <pubDate>Tue, 23 Dec 2025 10:01:41 +0700</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/khmer-coast/</guid>
+      <guid>http://localhost:46803/photo/khmer-coast/</guid>
       <description>That&amp;rsquo;s why I&amp;rsquo;m here; for proper sun exposure.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/khmer-coast/featured-lagoon.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/photo/khmer-coast/featured-lagoon.jpg" />
     </item>
     
     <item>
       <title>Men are solar, Women are lunar</title>
-      <link>http://localhost:1313/repost/men-are-solar-women-are-lunar/</link>
+      <link>http://localhost:46803/repost/men-are-solar-women-are-lunar/</link>
       <pubDate>Fri, 13 Jun 2025 19:39:44 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/men-are-solar-women-are-lunar/</guid>
+      <guid>http://localhost:46803/repost/men-are-solar-women-are-lunar/</guid>
       <description>Could be an idea to respect your natural cycles.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/repost/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
     </item>
     
     <item>
       <title>They don&#39;t know</title>
-      <link>http://localhost:1313/like/they-dont-know/</link>
+      <link>http://localhost:46803/like/they-dont-know/</link>
       <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/they-dont-know/</guid>
+      <guid>http://localhost:46803/like/they-dont-know/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/they-dont-know/featured-weirdguy.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/like/they-dont-know/featured-weirdguy.jpg" />
     </item>
     
     <item>
       <title>Sol y Luna (Vinyl)</title>
-      <link>http://localhost:1313/photo/sol-luna-clothes/</link>
+      <link>http://localhost:46803/photo/sol-luna-clothes/</link>
       <pubDate>Sun, 19 Jan 2025 18:48:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/photo/sol-luna-clothes/</guid>
+      <guid>http://localhost:46803/photo/sol-luna-clothes/</guid>
       <description>Sol ☀️ y Luna 🌙</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/sol-luna-clothes/featured-sweater.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/photo/sol-luna-clothes/featured-sweater.jpg" />
     </item>
     
   </channel>

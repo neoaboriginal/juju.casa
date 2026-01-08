@@ -12,61 +12,61 @@
 
 [[main]]
   name = "Categories 🗃️"
-  pageRef = "#"
+  pageRef = "category"
   weight = 10
 
-[[main]]
-  name = "Notes 📝"
-  parent = "Categories 🗃️"
-  pageRef = "note"
-  weight = 10
+#[[main]]
+#  name = "Notes 📝"
+#  parent = "Categories 🗃️"
+#  pageRef = "note"
+#  weight = 10
 
-[[main]]
-  name = "Photos 📸"
-  parent = "Categories 🗃️"
-  pageRef = "photo"
-  weight = 20
+#[[main]]
+#  name = "Photos 📸"
+#  parent = "Categories 🗃️"
+#  pageRef = "photo"
+#  weight = 20
 
-[[main]]
-  name = "Bookmarks 🔖"
-  parent = "Categories 🗃️"
-  pageRef = "bookmark"
-  weight = 30
+#[[main]]
+#  name = "Bookmarks 🔖"
+#  parent = "Categories 🗃️"
+#  pageRef = "bookmark"
+#  weight = 30
 
-[[main]]
-  name = "Quotes 🗣️"
-  parent = "Categories 🗃️"
-  pageRef = "quote"
-  weight = 40
+#[[main]]
+#  name = "Quotes 🗣️"
+#  parent = "Categories 🗃️"
+#  pageRef = "quote"
+#  weight = 40
 
-[[main]]
-  name = "Videos 📽️"
-  parent = "Categories 🗃️"
-  pageRef = "video"
-  weight = 50
+#[[main]]
+#  name = "Videos 📽️"
+#  parent = "Categories 🗃️"
+#  pageRef = "video"
+#  weight = 50
 
-[[main]]
-  name = "Likes ❤️"
-  parent = "Categories 🗃️"
-  pageRef = "like"
-  weight = 60
+#[[main]]
+#  name = "Likes ❤️"
+#  parent = "Categories 🗃️"
+#  pageRef = "like"
+#  weight = 60
 
-[[main]]
-  name = "RePosts 🔁"
-  parent = "Categories 🗃️"
-  pageRef= "repost"
-  weight = 70
+#[[main]]
+#  name = "RePosts 🔁"
+#  parent = "Categories 🗃️"
+#  pageRef= "repost"
+#  weight = 70
 
 [[main]]
    name = "Tags 🏷️"
    pageRef = "tags"
    weight = 20
 
-[[main]]
-  name = "Podcasts 🎙️"
-  parent = "Categories 🗃️"
-  url = "https://open.spotify.com/playlist/2zVbDT1D2MJFRNU6Po2blC?si=d9a65f0280ed4a49"
-  weight = 80
+#[[main]]
+#  name = "Podcasts 🎙️"
+#  parent = "Categories 🗃️"
+# url = "https://open.spotify.com/playlist/2zVbDT1D2MJFRNU6Po2blC?si=d9a65f0280ed4a49"
+#  weight = 80
 
 #[[main]]
 #  name = "Checkins 📍"

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reads on Casa de JuJu</title>
-    <link>http://localhost:1313/no/read/</link>
+    <link>http://localhost:46803/no/read/</link>
     <description>Recent content in Reads on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Fri, 15 Nov 2024 14:14:27 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/read/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Nov 2024 14:14:27 +0200</lastBuildDate><atom:link href="http://localhost:46803/no/read/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Våg å bli mislikt</title>
-      <link>http://localhost:1313/no/read/v%C3%A5g-%C3%A5-bli-mislikt/</link>
+      <link>http://localhost:46803/no/read/v%C3%A5g-%C3%A5-bli-mislikt/</link>
       <pubDate>Fri, 15 Nov 2024 14:14:27 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/read/v%C3%A5g-%C3%A5-bli-mislikt/</guid>
+      <guid>http://localhost:46803/no/read/v%C3%A5g-%C3%A5-bli-mislikt/</guid>
       <description>Tittel: The courage to be disliked Forfatter: Ichiro Kishimi &amp;amp; Fumitake Koga Mer enn bare barndomstraumer: Det Freud ikke fortalte deg.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/read/v%C3%A5g-%C3%A5-bli-mislikt/featured-couragebook.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/no/read/v%C3%A5g-%C3%A5-bli-mislikt/featured-couragebook.no.jpg" />
     </item>
     
   </channel>

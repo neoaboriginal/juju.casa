@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boys on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/boys/</link>
+    <link>http://localhost:46803/tags/boys/</link>
     <description>Recent content in Boys on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 03 Nov 2024 13:08:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/boys/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2024 13:08:17 +0200</lastBuildDate><atom:link href="http://localhost:46803/tags/boys/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lessons from the Sioux in how to turn a boy into a man</title>
-      <link>http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</link>
+      <link>http://localhost:46803/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</link>
       <pubDate>Sun, 03 Nov 2024 13:08:17 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</guid>
+      <guid>http://localhost:46803/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</guid>
       <description>Check out the link below.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/featured-indian.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/bookmark/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/featured-indian.jpg" />
     </item>
     
   </channel>

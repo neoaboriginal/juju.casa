@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ernæring on Casa de JuJu</title>
-    <link>http://localhost:1313/no/tags/ern%C3%A6ring/</link>
+    <link>http://localhost:46803/no/tags/ern%C3%A6ring/</link>
     <description>Recent content in Ernæring on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 04 Aug 2025 19:44:02 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/ern%C3%A6ring/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 19:44:02 +0200</lastBuildDate><atom:link href="http://localhost:46803/no/tags/ern%C3%A6ring/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fra morsmelk til fast føde</title>
-      <link>http://localhost:1313/no/bookmark/fra-morsmelk-til-fast-foede/</link>
+      <link>http://localhost:46803/no/bookmark/fra-morsmelk-til-fast-foede/</link>
       <pubDate>Mon, 04 Aug 2025 19:44:02 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/bookmark/fra-morsmelk-til-fast-foede/</guid>
+      <guid>http://localhost:46803/no/bookmark/fra-morsmelk-til-fast-foede/</guid>
       <description>Er lavkarbo/høyfett med fortrinnsvis animalsk fett optimalt?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/bookmark/fra-morsmelk-til-fast-foede/featured-barn.no.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/no/bookmark/fra-morsmelk-til-fast-foede/featured-barn.no.png" />
     </item>
     
     <item>
       <title>Mye mat i lang tid</title>
-      <link>http://localhost:1313/no/note/mye-mat-i-lang-tid.no/</link>
+      <link>http://localhost:46803/no/note/mye-mat-i-lang-tid.no/</link>
       <pubDate>Mon, 28 Oct 2024 17:03:01 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/note/mye-mat-i-lang-tid.no/</guid>
+      <guid>http://localhost:46803/no/note/mye-mat-i-lang-tid.no/</guid>
       <description>Viltkjøtt gir mye mat i lang tid, og bør være en førsteprioritet dersom du bor i Norge.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/note/mye-mat-i-lang-tid.no/featured.autumn.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/no/note/mye-mat-i-lang-tid.no/featured.autumn.no.jpg" />
     </item>
     
   </channel>

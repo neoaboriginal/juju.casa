@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ekteskap on Casa de JuJu</title>
-    <link>http://localhost:1313/no/tags/ekteskap/</link>
+    <link>http://localhost:46803/no/tags/ekteskap/</link>
     <description>Recent content in Ekteskap on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 03 Jun 2025 13:07:46 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/ekteskap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jun 2025 13:07:46 +0200</lastBuildDate><atom:link href="http://localhost:46803/no/tags/ekteskap/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kvinner i Vesten vil ikke gifte seg</title>
-      <link>http://localhost:1313/no/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/</link>
+      <link>http://localhost:46803/no/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/</link>
       <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/no/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/</guid>
+      <guid>http://localhost:46803/no/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/</guid>
       <description>Eksplosiv sosiologi 💥</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/featured-females.no.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/no/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/featured-females.no.jpg" />
     </item>
     
   </channel>

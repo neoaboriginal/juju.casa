@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theatre on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/theatre/</link>
+    <link>http://localhost:46803/tags/theatre/</link>
     <description>Recent content in Theatre on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 23:00:09 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/theatre/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 23:00:09 +0200</lastBuildDate><atom:link href="http://localhost:46803/tags/theatre/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Theatre for the slave class</title>
-      <link>http://localhost:1313/like/theatre-for-the-slave-class/</link>
+      <link>http://localhost:46803/like/theatre-for-the-slave-class/</link>
       <pubDate>Mon, 10 Feb 2025 23:00:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/theatre-for-the-slave-class/</guid>
+      <guid>http://localhost:46803/like/theatre-for-the-slave-class/</guid>
       <description>God morgen, god morgen – til hele bondegården 🚜🐄🐖🐔</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/theatre-for-the-slave-class/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/like/theatre-for-the-slave-class/featured.jpg" />
     </item>
     
   </channel>

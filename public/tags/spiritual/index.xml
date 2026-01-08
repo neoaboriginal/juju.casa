@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spiritual on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/spiritual/</link>
+    <link>http://localhost:46803/tags/spiritual/</link>
     <description>Recent content in Spiritual on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 17 Feb 2025 11:17:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/spiritual/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Feb 2025 11:17:17 +0200</lastBuildDate><atom:link href="http://localhost:46803/tags/spiritual/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Spirituality packs</title>
-      <link>http://localhost:1313/like/spirituality-packs/</link>
+      <link>http://localhost:46803/like/spirituality-packs/</link>
       <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/spirituality-packs/</guid>
+      <guid>http://localhost:46803/like/spirituality-packs/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/spirituality-packs/featured-shooting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/like/spirituality-packs/featured-shooting.jpg" />
     </item>
     
     <item>
       <title>Pluto in Aquarius</title>
-      <link>http://localhost:1313/bookmark/pluto-in-aquarius/</link>
+      <link>http://localhost:46803/bookmark/pluto-in-aquarius/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/bookmark/pluto-in-aquarius/</guid>
+      <guid>http://localhost:46803/bookmark/pluto-in-aquarius/</guid>
       <description>Big changes are ahead for humanity as Pluto has entered Aquarius for good over the next 20 years.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/pluto-in-aquarius/featured-plutoaquarius.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/bookmark/pluto-in-aquarius/featured-plutoaquarius.jpg" />
     </item>
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:46803/note/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:46803/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
   </channel>

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Government on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/government/</link>
+    <link>http://localhost:46803/tags/government/</link>
     <description>Recent content in Government on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 12:32:54 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/government/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 12:32:54 +0200</lastBuildDate><atom:link href="http://localhost:46803/tags/government/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The government&#39;s boot</title>
-      <link>http://localhost:1313/quote/the-governments-boot/</link>
+      <link>http://localhost:46803/quote/the-governments-boot/</link>
       <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/quote/the-governments-boot/</guid>
+      <guid>http://localhost:46803/quote/the-governments-boot/</guid>
       <description>~ Gary Lloyd</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-governments-boot/featured-boot.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/quote/the-governments-boot/featured-boot.jpeg" />
     </item>
     
     <item>
       <title>But you work all day for money</title>
-      <link>http://localhost:1313/like/but-you-work-all-day-for-money/</link>
+      <link>http://localhost:46803/like/but-you-work-all-day-for-money/</link>
       <pubDate>Fri, 21 Mar 2025 23:49:09 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/but-you-work-all-day-for-money/</guid>
+      <guid>http://localhost:46803/like/but-you-work-all-day-for-money/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/but-you-work-all-day-for-money/featured-brain.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/like/but-you-work-all-day-for-money/featured-brain.jpg" />
     </item>
     
     <item>
       <title>The prosecution of Roger Ver</title>
-      <link>http://localhost:1313/video/the-prosecution-of-roger-ver/</link>
+      <link>http://localhost:46803/video/the-prosecution-of-roger-ver/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/video/the-prosecution-of-roger-ver/</guid>
+      <guid>http://localhost:46803/video/the-prosecution-of-roger-ver/</guid>
       <description>*They call him “Bitcoin Jesus,” though he despises the nickname.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-prosecution-of-roger-ver/featured-roger.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/video/the-prosecution-of-roger-ver/featured-roger.jpg" />
     </item>
     
     <item>
       <title>She kept her income</title>
-      <link>http://localhost:1313/like/she-kept-her-income/</link>
+      <link>http://localhost:46803/like/she-kept-her-income/</link>
       <pubDate>Wed, 30 Oct 2024 16:31:26 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/like/she-kept-her-income/</guid>
+      <guid>http://localhost:46803/like/she-kept-her-income/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/she-kept-her-income/featured-income.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/like/she-kept-her-income/featured-income.jpeg" />
     </item>
     
   </channel>

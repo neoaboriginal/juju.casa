@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milk on Casa de JuJu</title>
-    <link>http://localhost:1313/tags/milk/</link>
+    <link>http://localhost:46803/tags/milk/</link>
     <description>Recent content in Milk on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 19 Nov 2024 17:42:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/milk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Nov 2024 17:42:15 +0200</lastBuildDate><atom:link href="http://localhost:46803/tags/milk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:46803/note/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:46803/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
     <item>
       <title>Are you a boobs or an ass guy?</title>
-      <link>http://localhost:1313/repost/are-you-a-boobs-or-an-ass-guy/</link>
+      <link>http://localhost:46803/repost/are-you-a-boobs-or-an-ass-guy/</link>
       <pubDate>Sun, 27 Oct 2024 18:16:59 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/repost/are-you-a-boobs-or-an-ass-guy/</guid>
+      <guid>http://localhost:46803/repost/are-you-a-boobs-or-an-ass-guy/</guid>
       <description>Rogan: “Alright, Mr.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/are-you-a-boobs-or-an-ass-guy/featured-joe-n-trump.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/repost/are-you-a-boobs-or-an-ass-guy/featured-joe-n-trump.jpg" />
     </item>
     
   </channel>
