@@ -8,8 +8,88 @@
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
-    <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 23 Dec 2025 10:01:41 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 JuJu Darío</copyright>
+    <lastBuildDate>Thu, 08 Jan 2026 19:03:35 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>http://localhost:1313/tags/bitcoin/</link>
+      <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/bitcoin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cash</title>
+      <link>http://localhost:1313/tags/cash/</link>
+      <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/cash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Digital</title>
+      <link>http://localhost:1313/tags/digital/</link>
+      <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/digital/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Freedom</title>
+      <link>http://localhost:1313/tags/freedom/</link>
+      <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/freedom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>P2P</title>
+      <link>http://localhost:1313/tags/p2p/</link>
+      <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/p2p/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Store of Value</title>
+      <link>http://localhost:1313/tags/store-of-value/</link>
+      <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/store-of-value/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Whitepaper</title>
+      <link>http://localhost:1313/tags/whitepaper/</link>
+      <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/tags/whitepaper/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Beach</title>
@@ -87,16 +167,6 @@
       <pubDate>Wed, 17 Dec 2025 19:51:19 +0700</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/tags/autonomy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Freedom</title>
-      <link>http://localhost:1313/tags/freedom/</link>
-      <pubDate>Wed, 17 Dec 2025 19:51:19 +0700</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/tags/freedom/</guid>
       <description></description>
       
     </item>
@@ -312,16 +382,6 @@
     </item>
     
     <item>
-      <title>Bitcoin</title>
-      <link>http://localhost:1313/tags/bitcoin/</link>
-      <pubDate>Thu, 21 Aug 2025 01:27:05 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/tags/bitcoin/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Failure</title>
       <link>http://localhost:1313/tags/failure/</link>
       <pubDate>Thu, 21 Aug 2025 01:27:05 +0200</pubDate>
@@ -417,16 +477,6 @@
       <pubDate>Mon, 04 Aug 2025 19:32:08 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/tags/fiat/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>http://localhost:1313/tags/finance/</link>
-      <pubDate>Mon, 04 Aug 2025 19:32:08 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/tags/finance/</guid>
       <description></description>
       
     </item>
@@ -1027,16 +1077,6 @@
       <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
       <guid>http://localhost:1313/tags/money/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>P2P</title>
-      <link>http://localhost:1313/tags/p2p/</link>
-      <pubDate>Mon, 26 May 2025 14:02:16 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/tags/p2p/</guid>
       <description></description>
       
     </item>
