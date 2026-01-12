@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Durian on Casa de JuJu</title>
-    <link>http://localhost:46803/tags/durian/</link>
+    <link>http://localhost:1313/tags/durian/</link>
     <description>Recent content in Durian on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 23 Dec 2025 10:01:41 +0700</lastBuildDate><atom:link href="http://localhost:46803/tags/durian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Dec 2025 10:01:41 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/durian/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Khmer coast 2025</title>
-      <link>http://localhost:46803/photo/khmer-coast/</link>
+      <link>http://localhost:1313/photo/khmer-coast/</link>
       <pubDate>Tue, 23 Dec 2025 10:01:41 +0700</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:46803/photo/khmer-coast/</guid>
+      <guid>http://localhost:1313/photo/khmer-coast/</guid>
       <description>That&amp;rsquo;s why I&amp;rsquo;m here; for proper sun exposure.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/photo/khmer-coast/featured-lagoon.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/khmer-coast/featured-lagoon.jpg" />
     </item>
     
   </channel>

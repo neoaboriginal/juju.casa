@@ -1,24 +1,29 @@
 [[main]]
   name = "Kategorier 🗃️"
-  pageRef = "#"
+  pageRef = "category"
   weight = 10
 
-[[main]]
-  name = "Notater 📝"
-  parent = "Kategorier 🗃️"
-  pageRef = "note"
-  weight = 10
-
-[[main]]
+ [[main]]
    name = "Tagger 🏷️"
    pageRef = "tags"
    weight = 20
 
-[[main]]
-  name = "Musikk 🎵"
-  parent = "Kategorier 🗃️"
-  pageRef = "music"
-  weight = 20
+#[[main]]
+#  name = "Notater 📝"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "note"
+#  weight = 10
+
+#[[main]]
+#   name = "Tagger 🏷️"
+#   pageRef = "tags"
+#   weight = 20
+
+#[[main]]
+#  name = "Musikk 🎵"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "music"
+#  weight = 20
 
 #[[main]]
 #  name = "Sitater 🗣️"
@@ -26,17 +31,17 @@
 #  pageRef = "quote"
 #  weight = 40
 
-[[main]]
-  name = "Bokmerker 🔖"
-  parent = "Kategorier 🗃️"
-  pageRef = "bookmark"
-  weight = 40
+#[[main]]
+#  name = "Bokmerker 🔖"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "bookmark"
+#  weight = 40
 
-[[main]]
-  name = "Videoer 📽️"
-  parent = "Kategorier 🗃️"
-  pageRef = "video"
-  weight = 50
+#[[main]]
+#  name = "Videoer 📽️"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "video"
+#  weight = 50
 
 #[[main]]
 #  name = "Liker ❤️"
@@ -44,17 +49,17 @@
 #  pageRef = "like"
 #  weight = 70
 
-[[main]]
-  name = "Republisert 🔁"
-  parent = "Kategorier 🗃️"
-  pageRef= "repost"
-  weight = 60
+#[[main]]
+#  name = "Republisert 🔁"
+#  parent = "Kategorier 🗃️"
+#  pageRef= "repost"
+#  weight = 60
 
-[[main]]
-  name = "Lest 📚"
-  parent = "Kategorier 🗃️"
-  pageRef = "read"
-  weight = 30
+#[[main]]
+#  name = "Lest 📚"
+#  parent = "Kategorier 🗃️"
+#  pageRef = "read"
+#  weight = 30
 
 #[[main]]
 #  name = "Podcaster 🎙️"

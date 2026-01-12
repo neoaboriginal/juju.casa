@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applause on Casa de JuJu</title>
-    <link>http://localhost:46803/tags/applause/</link>
+    <link>http://localhost:1313/tags/applause/</link>
     <description>Recent content in Applause on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Tue, 29 Jul 2025 17:36:29 +0200</lastBuildDate><atom:link href="http://localhost:46803/tags/applause/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jul 2025 17:36:29 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/applause/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The proper response</title>
-      <link>http://localhost:46803/quote/the-proper-response/</link>
+      <link>http://localhost:1313/quote/the-proper-response/</link>
       <pubDate>Tue, 29 Jul 2025 17:36:29 +0200</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:46803/quote/the-proper-response/</guid>
+      <guid>http://localhost:1313/quote/the-proper-response/</guid>
       <description>~ William Carlos Williams</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/quote/the-proper-response/featured-clap.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-proper-response/featured-clap.jpg" />
     </item>
     
   </channel>

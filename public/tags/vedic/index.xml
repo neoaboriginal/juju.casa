@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vedic on Casa de JuJu</title>
-    <link>http://localhost:46803/tags/vedic/</link>
+    <link>http://localhost:1313/tags/vedic/</link>
     <description>Recent content in Vedic on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Sun, 30 Nov 2025 08:41:50 +0100</lastBuildDate><atom:link href="http://localhost:46803/tags/vedic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Nov 2025 08:41:50 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/vedic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Siem Reap 2025</title>
-      <link>http://localhost:46803/photo/siem-reap-2025/</link>
+      <link>http://localhost:1313/photo/siem-reap-2025/</link>
       <pubDate>Sun, 30 Nov 2025 08:41:50 +0100</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:46803/photo/siem-reap-2025/</guid>
+      <guid>http://localhost:1313/photo/siem-reap-2025/</guid>
       <description>I&amp;rsquo;m finding happier people - and no pride flags, here in Cambodia.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46803/photo/siem-reap-2025/featured-temple.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/siem-reap-2025/featured-temple.jpg" />
     </item>
     
   </channel>
