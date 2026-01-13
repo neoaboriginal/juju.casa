@@ -1,0 +1,44 @@
+{{- define "main" -}}
+  <article class="container mx-auto px-6 pt-16 md:pt-24">
+    <header class="mb-16">
+      <h1 class="text-4xl font-bold text-center">
+        {{ if .IsHome }}
+          {{ .Site.Title }}
+        {{ else }}
+          {{ .Title }}
+        {{ end }}
+      </h1>
+    </header>
+
+    {{ if .Content }}
+      <div class="prose lg:prose-xl mx-auto">
+        {{ .Content }}
+      </div>
+    {{ end }}
+
+    {{ if eq .Section "category" }}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
+        {{ range $key, $value := .Site.Sections }}
+          {{ if not (eq $key "all") }}
+            {{ $count := len $value.RegularPages }}
+            {{ $translated := i18n $key . }}
+            <div class="card bg-base-100 shadow-xl">
+              <div class="card-body">
+                <h2 class="card-title">
+                  <a href="{{ $value.RelPermalink }}" class="link link-hover">
+                    {{ if ne $translated $key }}
+                      {{ $translated }}
+                    {{ else }}
+                      {{ $key | title }}
+                    {{ end }}
+                    <span class="badge badge-primary badge-lg ml-2">{{ $count }}</span>
+                  </a>
+                </h2>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+  </article>
+{{- end -}}

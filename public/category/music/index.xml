@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Casa de JuJu</title>
-    <link>http://localhost:1313/category/music/</link>
+    <link>http://localhost:43755/category/music/</link>
     <description>Recent content in Music on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
-    <copyright>© 2025 JuJu Darío</copyright>
-    <lastBuildDate>Mon, 22 Dec 2025 16:06:01 +0700</lastBuildDate><atom:link href="http://localhost:1313/category/music/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 JuJu Darío</copyright>
+    <lastBuildDate>Mon, 22 Dec 2025 16:06:01 +0700</lastBuildDate><atom:link href="http://localhost:43755/category/music/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Wild map test</title>
-      <link>http://localhost:1313/music/wild-map-test/</link>
+      <link>http://localhost:43755/music/wild-map-test/</link>
       <pubDate>Mon, 22 Dec 2025 16:06:01 +0700</pubDate>
       <author>mail@juju.casa (JuJu Darío)</author>
-      <guid>http://localhost:1313/music/wild-map-test/</guid>
-      <description></description>
+      <guid>http://localhost:43755/music/wild-map-test/</guid>
+      <description> </description>
       
     </item>
     

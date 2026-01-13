@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anonymous on Casa de JuJu</title>
+    <link>http://localhost:1313/tags/anonymous/</link>
+    <description>Recent content in Anonymous on Casa de JuJu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
+    <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
+    <copyright>© 2026 JuJu Darío</copyright>
+    <lastBuildDate>Wed, 14 Jan 2026 01:52:08 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/anonymous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hostility towards cash</title>
+      <link>http://localhost:1313/note/hostility-towards-cash/</link>
+      <pubDate>Wed, 14 Jan 2026 01:52:08 +0700</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/note/hostility-towards-cash/</guid>
+      <description>The hostility towards cash in Norway is astounding.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/hostility-towards-cash/featured-cash.jpg" />
+    </item>
+    
+  </channel>
+</rss>
