@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-14T01:52:08+07:00</lastmod>
+    <lastmod>2026-03-05T20:19:55+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,14 +19,14 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/note/hostility-towards-cash/</loc>
-    <lastmod>2026-01-14T01:52:08+07:00</lastmod>
+    <loc>http://localhost:1313/note/never-trust-busy-people/</loc>
+    <lastmod>2026-03-05T20:19:55+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/note/</loc>
-    <lastmod>2026-01-14T01:52:08+07:00</lastmod>
+    <lastmod>2026-03-05T20:19:55+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -39,6 +39,12 @@
       hreflang="en"
       href="http://localhost:1313/note/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/note/hostility-towards-cash/</loc>
+    <lastmod>2026-01-14T01:52:08+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/repost/bitcoins-purpose/</loc>
