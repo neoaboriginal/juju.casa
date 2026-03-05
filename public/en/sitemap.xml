@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-27T21:02:59+01:00</lastmod>
+    <lastmod>2026-02-07T21:44:07+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,18 @@
       hreflang="en"
       href="http://localhost:1313/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/like/dating-advice/</loc>
+    <lastmod>2026-02-07T21:44:07+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/like/</loc>
+    <lastmod>2026-02-07T21:44:07+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/quote/</loc>
@@ -208,12 +220,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/like/ancestors-are-close/</loc>
-    <lastmod>2025-07-14T13:02:02+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/like/</loc>
     <lastmod>2025-07-14T13:02:02+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
