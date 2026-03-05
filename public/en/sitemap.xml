@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-05T20:19:55+01:00</lastmod>
+    <lastmod>2026-01-27T21:02:59+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,14 +19,26 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/quote/</loc>
+    <lastmod>2026-01-27T21:02:59+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quote/uneducated-men/</loc>
+    <lastmod>2026-01-27T21:02:59+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/note/never-trust-busy-people/</loc>
-    <lastmod>2026-03-05T20:19:55+01:00</lastmod>
+    <lastmod>2026-01-18T20:19:55+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/note/</loc>
-    <lastmod>2026-03-05T20:19:55+01:00</lastmod>
+    <lastmod>2026-01-18T20:19:55+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -95,12 +107,6 @@
       hreflang="en"
       href="http://localhost:1313/music/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/quote/</loc>
-    <lastmod>2025-12-17T19:51:19+07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/quote/risks-of-autonomy/</loc>

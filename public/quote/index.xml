@@ -9,7 +9,17 @@
     <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
     <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
     <copyright>© 2026 JuJu Darío</copyright>
-    <lastBuildDate>Wed, 17 Dec 2025 19:51:19 +0700</lastBuildDate><atom:link href="http://localhost:1313/quote/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jan 2026 21:02:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/quote/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Uneducated men</title>
+      <link>http://localhost:1313/quote/uneducated-men/</link>
+      <pubDate>Tue, 27 Jan 2026 21:02:59 +0100</pubDate>
+      <author>mail@juju.casa (JuJu Darío)</author>
+      <guid>http://localhost:1313/quote/uneducated-men/</guid>
+      <description>~ Thomas Hodgskin</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/uneducated-men/featured-uneducation.jpg" />
+    </item>
     
     <item>
       <title>Risks of autonomy</title>
