@@ -6,16 +6,16 @@
     <description>Recent content in Økonomi on Casa de JuJu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
-    <managingEditor>mail@juju.casa (JuJu Darío)</managingEditor>
-    <webMaster>mail@juju.casa (JuJu Darío)</webMaster>
-    <copyright>© 2026 JuJu Darío</copyright>
+    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
+    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
+    <copyright>© 2026 Julian Darío Gutierrez</copyright>
     <lastBuildDate>Sun, 13 Jul 2025 23:23:58 +0200</lastBuildDate><atom:link href="http://localhost:1313/no/tags/%C3%B8konomi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fiat-pengenes forførende usannheter</title>
       <link>http://localhost:1313/no/bookmark/fiat-pengenes-forfoerende-usannheter/</link>
       <pubDate>Sun, 13 Jul 2025 23:23:58 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
+      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
       <guid>http://localhost:1313/no/bookmark/fiat-pengenes-forfoerende-usannheter/</guid>
       <description>Hvordan moderne penger ble en illusjon vi betaler dyrt for å tro på.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/bookmark/fiat-pengenes-forfoerende-usannheter/featured.no.jpg" />
@@ -25,7 +25,7 @@
       <title>Vestens undergang</title>
       <link>http://localhost:1313/no/video/vestens-undergang/</link>
       <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
+      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
       <guid>http://localhost:1313/no/video/vestens-undergang/</guid>
       <description> </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/video/vestens-undergang/featured-toje.no.jpg" />
@@ -35,9 +35,10 @@
       <title>Pengene du har i banken</title>
       <link>http://localhost:1313/no/note/pengene-du-har-i-banken/</link>
       <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
-      <author>mail@juju.casa (JuJu Darío)</author>
+      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
       <guid>http://localhost:1313/no/note/pengene-du-har-i-banken/</guid>
-      <description>Pengene du har i banken.</description>
+      <description>Pengene du har i banken..
+Er ikke dine Er ikke penger Er ikke i banken </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/no/note/pengene-du-har-i-banken/featured-bank.no.png" />
     </item>
     

@@ -15,15 +15,15 @@ title = "Casa de JuJu"
   # copyright = "Another JuJu Production"
 
 [params.author]
-   name = "JuJu Darío"
+   name = "Julian Darío Gutierrez"
    email = "mail@juju.casa"
-   image = "img/Ghiblied.jpg"
-   imageQuality = 96
-   headline = ""
-   bio = "NeoAboriginal 🦊 <br> Kambo practitioner 🐸 <br> Amplifier of truth 💎 <br> Agorism and decentralization 🌐"
+   image = "img/juju3.jpg"
+   imageQuality = 100
+   headline = "<br>From 🇨🇴 ~ Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
+   bio = "From 🇨🇴 ~ Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
    links = [
-     { rss = "https://juju.casa/index.xml" },
      { email = "mailto:mail@juju.casa" },
      { spotify = "https://open.spotify.com/user/jujudario" },
      { instagram = "https://instagram.com/neoaboriginal" },
+     { rss = "https://juju.casa/index.xml" },
  ]

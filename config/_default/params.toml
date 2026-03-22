@@ -6,9 +6,9 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "fire"
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
-enableSearch = true
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = true
+enableSearch = false
 enableCodeCopy = false
 
 replyByEmail = false
@@ -16,11 +16,12 @@ replyByEmail = false
 mainSections = ["bookmark", "note", "like", "listen", "music", "photo", "quote", "read", "repost", "video"]
 robots = "all"
 
+disableImageZoom = false
 disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-#defaultBackgroundImage = "SoftRasta.png" # used as default for background images 
+defaultBackgroundImage = "img/interlaced.png" # used as default for background images 
 defaultFeaturedImage = "rev.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -31,22 +32,22 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
-  showMenu = true
+  showMenu = false
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/interlaced.png" # used in: hero, and card
-  showRecent = true
-  showRecentItems = 101
-  showMoreLink = false
-  #showMoreLinkDest = "/all/"
+  showRecent = false
+  showRecentItems = 11
+  showMoreLink = true
+  showMoreLinkDest = "/all"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
@@ -75,8 +76,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   invertPagination = false
   showReadingTime = false
   showTableOfContents = false
-  showRelatedContent = false
-  # relatedContentLimit = 3
+  showRelatedContent = true
+  relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = false
@@ -85,7 +86,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [list]
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   #layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   #layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -96,7 +97,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showCards = true
   orderByWeight = false
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -168,3 +169,4 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [params]
   dateFormat = "2. January 2006"
+  showLanguageSwitcher = false

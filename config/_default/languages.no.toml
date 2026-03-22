@@ -15,10 +15,10 @@ title = "Casa de JuJu"
   # copyright = "Another JuJu Production"
 
 [params.author]
-   name = "JuJu Darío"
+   name = "Julian Darío Gutierrez"
    email = "mail@juju.casa"
-   image = "img/Ghiblied.jpg"
-   imageQuality = 96
+   image = "img/juju3.jpg"
+   imageQuality = 100
    headline = ""
    bio = "Blod, kärlek, jord, dag för dag, ord för ord<br>Inuti, utanför, runtomkring och in igenom<br>Allomfattande"
    links = [

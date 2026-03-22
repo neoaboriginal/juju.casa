@@ -1,12 +1,12 @@
-[[main]]
-  name = "Kategorier 🗃️"
-  pageRef = "category"
-  weight = 10
+#[[main]]
+#  name = "Kategorier 🗃️"
+#  pageRef = "category"
+#  weight = 10
 
- [[main]]
-   name = "Tagger 🏷️"
-   pageRef = "tags"
-   weight = 20
+ #[[main]]
+ #  name = "Tagger 🏷️"
+ #  pageRef = "tags"
+ #  weight = 20
 
 #[[main]]
 #  name = "Notater 📝"
