@@ -8,7 +8,7 @@
 colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 
 replyByEmail = false
@@ -21,7 +21,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/interlaced.png" # used as default for background images 
+defaultBackgroundImage = "img/SoftRasta.png" # used as default for background images 
 defaultFeaturedImage = "rev.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -32,19 +32,19 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
-  showMenu = false
+  showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/interlaced.png" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 11
   showMoreLink = true
   showMoreLinkDest = "/all"
@@ -169,4 +169,22 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [params]
   dateFormat = "2. January 2006"
-  showLanguageSwitcher = false
+  displayName = "English 🇬🇧"
+  isoCode = "en"
+  rtl = false
+  logo = "img/rev.png"
+  description = "Another JuJu Production"
+
+[author]
+  name = "Casa de JuJu"
+  email = "mail@juju.casa"
+  image = "img/rev.png"
+  imageQuality = 100
+  headline = "Julian Darío Gutierrez<br>@neoaboriginal"
+  bio = "From 🇨🇴 ~ Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
+  links = [
+    { email = "mailto:mail@juju.casa" },
+    { spotify = "https://open.spotify.com/user/jujudario" },
+    { instagram = "https://instagram.com/neoaboriginal" },
+    { rss = "https://juju.casa/index.xml" },
+  ]

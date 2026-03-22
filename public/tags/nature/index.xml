@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nature on Casa de JuJu</title>
+    <title>Nature on </title>
     <link>http://localhost:1313/tags/nature/</link>
-    <description>Recent content in Nature on Casa de JuJu</description>
+    <description>Recent content in Nature on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/nature/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dating advice</title>
       <link>http://localhost:1313/like/dating-advice/</link>
       <pubDate>Sat, 07 Feb 2026 21:44:07 +0100</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/like/dating-advice/</guid>
       <description>Did you know women are remarkably good at settings standards for what kind of guy they would like to date? Men - not so good at this. Time to level up the game, boys. Signs to look after for finding yourself a quality woman:</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/dating-advice/featured-dating.jpeg" />

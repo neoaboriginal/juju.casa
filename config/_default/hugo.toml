@@ -23,7 +23,7 @@ summaryLength = 0
   path = "github.com/nunocoracao/blowfish/v2"
   disable = false
 
-pluralizeListTitles = "false" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+pluralizeListTitles = false # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 buildDrafts = false
 buildFuture = false
 ShowLanguageSwitcher = false

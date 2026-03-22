@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mind on Casa de JuJu</title>
+    <title>Mind on </title>
     <link>http://localhost:1313/tags/mind/</link>
-    <description>Recent content in Mind on Casa de JuJu</description>
+    <description>Recent content in Mind on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Sun, 12 Jan 2025 16:47:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/mind/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Go to the library</title>
       <link>http://localhost:1313/quote/go-to-the-library/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/go-to-the-library/</guid>
       <description>~ Frank Zappa</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/go-to-the-library/featured-zappa.jpg" />

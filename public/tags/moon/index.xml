@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moon on Casa de JuJu</title>
+    <title>Moon on </title>
     <link>http://localhost:1313/tags/moon/</link>
-    <description>Recent content in Moon on Casa de JuJu</description>
+    <description>Recent content in Moon on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Fri, 13 Jun 2025 19:39:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/moon/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Men are solar, Women are lunar</title>
       <link>http://localhost:1313/repost/men-are-solar-women-are-lunar/</link>
       <pubDate>Fri, 13 Jun 2025 19:39:44 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/repost/men-are-solar-women-are-lunar/</guid>
       <description>Could be an idea to respect your natural cycles.
 Original post available here Men are solar, women are lunar.
@@ -29,7 +29,7 @@ Men are meant to work hard in the morning and around lunch time and relax later 
       <title>Spirituality packs</title>
       <link>http://localhost:1313/like/spirituality-packs/</link>
       <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/like/spirituality-packs/</guid>
       <description> </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/spirituality-packs/featured-shooting.jpg" />
@@ -39,7 +39,7 @@ Men are meant to work hard in the morning and around lunch time and relax later 
       <title>Sol y Luna (Vinyl)</title>
       <link>http://localhost:1313/photo/sol-luna-clothes/</link>
       <pubDate>Sun, 19 Jan 2025 18:48:15 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/photo/sol-luna-clothes/</guid>
       <description>Sol ☀️ y Luna 🌙</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/sol-luna-clothes/featured-sweater.jpg" />

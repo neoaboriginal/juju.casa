@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Posts on Casa de JuJu</title>
+    <title>All Posts on </title>
     <link>http://localhost:1313/all/</link>
-    <description>Recent content in All Posts on Casa de JuJu</description>
+    <description>Recent content in All Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/all/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>

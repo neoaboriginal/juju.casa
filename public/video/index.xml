@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videoes on Casa de JuJu</title>
+    <title>Videoes on </title>
     <link>http://localhost:1313/video/</link>
-    <description>Recent content in Videoes on Casa de JuJu</description>
+    <description>Recent content in Videoes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Thu, 18 Sep 2025 17:45:53 +0200</lastBuildDate><atom:link href="http://localhost:1313/video/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What every woman should know</title>
       <link>http://localhost:1313/video/what-every-woman-should-know/</link>
       <pubDate>Thu, 18 Sep 2025 17:45:53 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/what-every-woman-should-know/</guid>
       <description>To all women, with love.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/what-every-woman-should-know/featured-knowing.jpg" />
@@ -25,7 +25,7 @@
       <title>Why finding love feels harder than ever</title>
       <link>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</guid>
       <description>Negative take: If you hate being single just try dating today. You&amp;rsquo;ll enjoy being single much more.
 Positive take: Would you rather be alone or with a woman who tests you constantly? She tests you to feel your power, not your weakness.
@@ -38,7 +38,7 @@ Spotify:</description>
       <title>The anxious/avoidant deathtrap</title>
       <link>http://localhost:1313/video/the-anxious-avoidant-deathtrap/</link>
       <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/the-anxious-avoidant-deathtrap/</guid>
       <description>These threat-models are recognizable and relatable. You need to identify your patterns, and that might take some time.. Either way, the most important takeaway is, as always: Emotional resilience.
 Spotify:</description>
@@ -49,7 +49,7 @@ Spotify:</description>
       <title>Don&#39;t do what you don&#39;t want to do</title>
       <link>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</link>
       <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</guid>
       <description>You do not need a f*cking charger 📴</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
@@ -59,7 +59,7 @@ Spotify:</description>
       <title>The dude in the red dress</title>
       <link>http://localhost:1313/video/the-dude-in-the-red-dress/</link>
       <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/the-dude-in-the-red-dress/</guid>
       <description>&amp;ldquo;IT&amp;rsquo;S MA&amp;rsquo;AM !!!&amp;rdquo;
 {{ template &amp;ldquo;_internal/disqus.html&amp;rdquo; . }}</description>
@@ -67,10 +67,20 @@ Spotify:</description>
     </item>
     
     <item>
+      <title>Vestens undergang</title>
+      <link>http://localhost:1313/video/vestens-undergang/index.no/</link>
+      <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/video/vestens-undergang/index.no/</guid>
+      <description> </description>
+      
+    </item>
+    
+    <item>
       <title>Enslaved by the UFC</title>
       <link>http://localhost:1313/video/enslaved-by-the-ufc/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/enslaved-by-the-ufc/</guid>
       <description>Goatis (sv3rige) has solid nutritional and health advice, although his style is not for the soft-hearted snowflakes. Either way, his British accent imitations are the funniest 😂</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/enslaved-by-the-ufc/featured.jpg" />
@@ -80,7 +90,7 @@ Spotify:</description>
       <title>The real reason you can&#39;t change</title>
       <link>http://localhost:1313/video/the-real-reason-you-cant-change/</link>
       <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/the-real-reason-you-cant-change/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-real-reason-you-cant-change/featured-k.jpg" />
@@ -90,7 +100,7 @@ Spotify:</description>
       <title>The prosecution of Roger Ver</title>
       <link>http://localhost:1313/video/the-prosecution-of-roger-ver/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/the-prosecution-of-roger-ver/</guid>
       <description>*They call him “Bitcoin Jesus,” though he despises the nickname. His real name is Roger Ver. At any moment, Roger could be arrested for alleged tax evasion and mail fraud. But anyone familiar with his case knows the truth: Roger’s only “crime” was being the very first investor and passionate advocate for Bitcoin. For that, he faces 109 years in federal prison.
 As devastating as this is for Roger, this case is less about him and more about you.</description>
@@ -101,7 +111,7 @@ As devastating as this is for Roger, this case is less about him and more about 
       <title>Be like water</title>
       <link>http://localhost:1313/video/be-like-water/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/be-like-water/</guid>
       <description>A short guide on how to navigate the waves of life 🌊</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/be-like-water/featured-water.jpg" />
@@ -111,7 +121,7 @@ As devastating as this is for Roger, this case is less about him and more about 
       <title>Bitcoin is an embarrassment</title>
       <link>http://localhost:1313/video/bitcoin-is-an-embarrassment/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/bitcoin-is-an-embarrassment/</guid>
       <description>I’d also feel embarrassed to promote Bitcoin nowadays. What we’re seeing is just the NGUC (Number Go Up Crowd) pumping their bags, while real P2P freedom money like Monero and Zano actually deliver on the original promise.
 At what price will Bitcoin change the world? The endgame was supposed to be creating a new economy, not just trading back into fiat. This is what selling your crypto-anarchist soul looks like.</description>

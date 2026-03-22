@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Note on Casa de JuJu</title>
+    <title>Note on </title>
     <link>http://localhost:1313/category/note/</link>
-    <description>Recent content in Note on Casa de JuJu</description>
+    <description>Recent content in Note on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Sun, 18 Jan 2026 20:19:55 +0100</lastBuildDate><atom:link href="http://localhost:1313/category/note/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Never trust busy people</title>
       <link>http://localhost:1313/note/never-trust-busy-people/</link>
       <pubDate>Sun, 18 Jan 2026 20:19:55 +0100</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/never-trust-busy-people/</guid>
       <description>Busyness is a sign you&amp;rsquo;re failing at life. Never trust busy people.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/never-trust-busy-people/featured-busy.jpg" />
@@ -25,7 +25,7 @@
       <title>Hostility towards cash</title>
       <link>http://localhost:1313/note/hostility-towards-cash/</link>
       <pubDate>Wed, 14 Jan 2026 01:52:08 +0700</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/hostility-towards-cash/</guid>
       <description>The hostility towards cash in Norway is astounding. Just today I tried to pay twice with cash, but was forced to pay with plastic. To accept cash for most payments in Norway is mandatory , but there is no real enforcement. Most Norwegians pay with cards or Vipps without any second thought, creating data sets for banks and financial corporations that have huge privacy implications. But when I ask to pay with crypto or goldbacks at the coffee shop, people look at me like I&amp;rsquo;m an alien.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/hostility-towards-cash/featured-cash.jpg" />
@@ -35,7 +35,7 @@
       <title>Having a heart outside of your body</title>
       <link>http://localhost:1313/note/having-a-heart-outside-of-your-body/</link>
       <pubDate>Sun, 21 Sep 2025 20:47:23 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/having-a-heart-outside-of-your-body/</guid>
       <description>Having a child is like&amp;hellip; having a heart that is outside of your body.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/having-a-heart-outside-of-your-body/featured-hearts.png" />
@@ -45,7 +45,7 @@
       <title>3 things I have learned today</title>
       <link>http://localhost:1313/note/3-things-i-have-learned-today/</link>
       <pubDate>Thu, 31 Jul 2025 20:45:52 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/3-things-i-have-learned-today/</guid>
       <description> You don&amp;rsquo;t need a thermometer. Just look at your coconut oil, it has all the answers. The face you make during a workout should tell you if what you are doing is healthy/beneficial - or not. I will never find the person that says they regret NOT taking the covid vaccine. </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/3-things-i-have-learned-today/featured-cocooil.png" />
@@ -55,27 +55,48 @@
       <title>I am</title>
       <link>http://localhost:1313/note/i-am/</link>
       <pubDate>Sat, 28 Jun 2025 01:38:38 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/i-am/</guid>
       <description>I am Unity. I am God. I am Sovereign. I am Free.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/i-am/featured-I.jpg" />
     </item>
     
     <item>
+      <title>Viktig å vaske henda</title>
+      <link>http://localhost:1313/note/viktig-%C3%A5-vaske-henda/index.no/</link>
+      <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/note/viktig-%C3%A5-vaske-henda/index.no/</guid>
+      <description>I dagens &amp;rsquo;toxic environments&amp;rsquo; så er det en ting som er viktigere enn å vaske henda etter at du har vært på do: Å vaske henda før du går på do.</description>
+      
+    </item>
+    
+    <item>
       <title>Stand out in all your weirdness</title>
       <link>http://localhost:1313/note/stand-out-in-all-your-weirdness/</link>
       <pubDate>Tue, 01 Apr 2025 00:04:40 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/stand-out-in-all-your-weirdness/</guid>
       <description>Your job in life is to stand out in all your weirdness, not to fit in.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/stand-out-in-all-your-weirdness/featured.jpg" />
     </item>
     
     <item>
+      <title>Pengene du har i banken</title>
+      <link>http://localhost:1313/note/pengene-du-har-i-banken/index.no/</link>
+      <pubDate>Mon, 24 Mar 2025 00:35:02 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/note/pengene-du-har-i-banken/index.no/</guid>
+      <description>Pengene du har i banken..
+Er ikke dine Er ikke penger Er ikke i banken </description>
+      
+    </item>
+    
+    <item>
       <title>Don&#39;t be realistic</title>
       <link>http://localhost:1313/note/dont-be-realistic/</link>
       <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/dont-be-realistic/</guid>
       <description>Stay far away from anyone who tells you to ‘be realistic’.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/dont-be-realistic/featured-realistic.png" />
@@ -85,7 +106,7 @@
       <title>Xochipilli in temicxoch</title>
       <link>http://localhost:1313/note/xochipilli-in-temicxoch/</link>
       <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/xochipilli-in-temicxoch/</guid>
       <description>Xochipilli , the Aztec god of beauty, youth, love, passion, sex, sexuality, fertility, arts, song, music, dance, painting, writing, games, playfulness, nature, vegetation, and flowers, is here depicted in a state referred to as temicxoch, or “dream flowers,” which symbolizes an entheogenic experience. This state is associated with the ingestion of psychoactive plants and fungi, such as mushrooms, tobacco, and ololiuhqui seeds. Its head is tilted up, eyes open, jaw tensed, and mouth half open, a typical expression of ecstasy.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/xochipilli-in-temicxoch/featured-statue.jpg" />
@@ -95,7 +116,7 @@
       <title>The most powerful men</title>
       <link>http://localhost:1313/note/the-most-powerful-men/</link>
       <pubDate>Tue, 14 Jan 2025 21:09:56 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/the-most-powerful-men/</guid>
       <description>The most powerful men are also the most un-reactive men.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/the-most-powerful-men/featured-men.png" />
@@ -105,7 +126,7 @@
       <title>Junk Culture</title>
       <link>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science
 News is junk information
@@ -124,6 +145,16 @@ Modernist buildings are junk architecture
 Dating apps are junk connections
 Casual hookup is junk sex</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+    </item>
+    
+    <item>
+      <title>Mye mat i lang tid</title>
+      <link>http://localhost:1313/note/mye-mat-i-lang-tid.no/index.no/</link>
+      <pubDate>Mon, 28 Oct 2024 17:03:01 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/note/mye-mat-i-lang-tid.no/index.no/</guid>
+      <description>Viltkjøtt gir mye mat i lang tid, og bør være en førsteprioritet dersom du bor i Norge. Beitende dyr er et mirakel. Større tetthet av kalorier betyr også at vi ikke trenger å spise hele tiden, slik man gjør hvis man spiser plantebasert. Valget er latterlig enkelt hvis du bor i Norge: Alt av animalsk og lokal mat er bedre enn å importere avokadoer og bananer fra fjerne himmelstrøk.</description>
+      
     </item>
     
   </channel>

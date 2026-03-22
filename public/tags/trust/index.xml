@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trust on Casa de JuJu</title>
+    <title>Trust on </title>
     <link>http://localhost:1313/tags/trust/</link>
-    <description>Recent content in Trust on Casa de JuJu</description>
+    <description>Recent content in Trust on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Sun, 18 Jan 2026 20:19:55 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/trust/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Never trust busy people</title>
       <link>http://localhost:1313/note/never-trust-busy-people/</link>
       <pubDate>Sun, 18 Jan 2026 20:19:55 +0100</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/never-trust-busy-people/</guid>
       <description>Busyness is a sign you&amp;rsquo;re failing at life. Never trust busy people.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/never-trust-busy-people/featured-busy.jpg" />

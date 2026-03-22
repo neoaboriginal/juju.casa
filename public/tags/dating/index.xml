@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dating on Casa de JuJu</title>
+    <title>Dating on </title>
     <link>http://localhost:1313/tags/dating/</link>
-    <description>Recent content in Dating on Casa de JuJu</description>
+    <description>Recent content in Dating on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/dating/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dating advice</title>
       <link>http://localhost:1313/like/dating-advice/</link>
       <pubDate>Sat, 07 Feb 2026 21:44:07 +0100</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/like/dating-advice/</guid>
       <description>Did you know women are remarkably good at settings standards for what kind of guy they would like to date? Men - not so good at this. Time to level up the game, boys. Signs to look after for finding yourself a quality woman:</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/dating-advice/featured-dating.jpeg" />
@@ -25,7 +25,7 @@
       <title>Why finding love feels harder than ever</title>
       <link>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</guid>
       <description>Negative take: If you hate being single just try dating today. You&amp;rsquo;ll enjoy being single much more.
 Positive take: Would you rather be alone or with a woman who tests you constantly? She tests you to feel your power, not your weakness.
@@ -35,10 +35,21 @@ Spotify:</description>
     </item>
     
     <item>
+      <title>Kvinner i Vesten vil ikke gifte seg</title>
+      <link>http://localhost:1313/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/index.no/</link>
+      <pubDate>Tue, 03 Jun 2025 13:07:46 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/bookmark/kvinner-i-vesten-vil-ikke-gifte-seg/index.no/</guid>
+      <description>Eksplosiv sosiologi 💥
+Check out the link below. Kvinner i Vesten vil ikke gifte seg Det blir stadig inngått færre ekteskap i vestlige land. I USA snakkes det om ekteskapskrise. Bare en av tre enslige kvinner ønsker å gifte seg eller gå inn i et kjæresteforhold, mens over halvparten av enslige menn ønsker seg ekteskap eller kjæreste, går det fram av en undersøkelse gjengitt i Wall Street Journal i mars.</description>
+      
+    </item>
+    
+    <item>
       <title>Junk Culture</title>
       <link>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science
 News is junk information

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quote on Casa de JuJu</title>
+    <title>Quote on </title>
     <link>http://localhost:1313/category/quote/</link>
-    <description>Recent content in Quote on Casa de JuJu</description>
+    <description>Recent content in Quote on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Tue, 27 Jan 2026 21:02:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/category/quote/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Uneducated men</title>
       <link>http://localhost:1313/quote/uneducated-men/</link>
       <pubDate>Tue, 27 Jan 2026 21:02:59 +0100</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/uneducated-men/</guid>
       <description>~ Thomas Hodgskin</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/uneducated-men/featured-uneducation.jpg" />
@@ -25,7 +25,7 @@
       <title>Risks of autonomy</title>
       <link>http://localhost:1313/quote/risks-of-autonomy/</link>
       <pubDate>Wed, 17 Dec 2025 19:51:19 +0700</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/risks-of-autonomy/</guid>
       <description>~ Antonio Escohotado</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/risks-of-autonomy/featured-escohotado.jpeg" />
@@ -35,7 +35,7 @@
       <title>The proper response</title>
       <link>http://localhost:1313/quote/the-proper-response/</link>
       <pubDate>Tue, 29 Jul 2025 17:36:29 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/the-proper-response/</guid>
       <description>~ William Carlos Williams</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-proper-response/featured-clap.jpg" />
@@ -45,7 +45,7 @@
       <title>The government&#39;s boot</title>
       <link>http://localhost:1313/quote/the-governments-boot/</link>
       <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/the-governments-boot/</guid>
       <description>~ Gary Lloyd</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-governments-boot/featured-boot.jpeg" />
@@ -55,7 +55,7 @@
       <title>At the expense of morality</title>
       <link>http://localhost:1313/quote/at-the-expense-of-morality/</link>
       <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/at-the-expense-of-morality/</guid>
       <description>~ Aaron Day</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/at-the-expense-of-morality/featured-btcmorality.jpeg" />
@@ -65,7 +65,7 @@
       <title>Fall in love</title>
       <link>http://localhost:1313/quote/fall-in-love/</link>
       <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/fall-in-love/</guid>
       <description>Follow the correct order before attempting shortcuts.
 ~ Frida Kahlo</description>
@@ -76,7 +76,7 @@
       <title>Preserve the privacy of financial transactions</title>
       <link>http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/</link>
       <pubDate>Tue, 11 Mar 2025 12:51:45 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/</guid>
       <description> </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/preserve-the-privacy-of-financial-transactions/featured-finney.jpeg" />
@@ -86,7 +86,7 @@
       <title>Go to the library</title>
       <link>http://localhost:1313/quote/go-to-the-library/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/go-to-the-library/</guid>
       <description>~ Frank Zappa</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/go-to-the-library/featured-zappa.jpg" />
@@ -96,7 +96,7 @@
       <title>Vastly preferable to those that follow authority</title>
       <link>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</link>
       <pubDate>Sun, 24 Nov 2024 12:24:56 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/</guid>
       <description> ~ Benjamin Tucker </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/vastly-preferable-to-those-that-follow-authority/featured-tucker.jpg" />
@@ -106,7 +106,7 @@
       <title>Bankers are looting the world</title>
       <link>http://localhost:1313/quote/bankers-are-looting-the-world/</link>
       <pubDate>Sun, 10 Nov 2024 01:43:44 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/bankers-are-looting-the-world/</guid>
       <description>~ Frankie Boyle</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/bankers-are-looting-the-world/featured-looting.jpg" />

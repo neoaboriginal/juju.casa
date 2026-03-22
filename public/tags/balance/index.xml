@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Balance on Casa de JuJu</title>
+    <title>Balance on </title>
     <link>http://localhost:1313/tags/balance/</link>
-    <description>Recent content in Balance on Casa de JuJu</description>
+    <description>Recent content in Balance on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Thu, 22 May 2025 23:37:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/balance/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Don&#39;t do what you don&#39;t want to do</title>
       <link>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</link>
       <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/video/dont-do-what-you-dont-want-to-do/</guid>
       <description>You do not need a f*cking charger 📴</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />

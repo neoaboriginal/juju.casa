@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on Casa de JuJu</title>
+    <title>Education on </title>
     <link>http://localhost:1313/tags/education/</link>
-    <description>Recent content in Education on Casa de JuJu</description>
+    <description>Recent content in Education on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mail@juju.casa (Julian Darío Gutierrez)</managingEditor>
-    <webMaster>mail@juju.casa (Julian Darío Gutierrez)</webMaster>
-    <copyright>© 2026 Julian Darío Gutierrez</copyright>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
     <lastBuildDate>Tue, 27 Jan 2026 21:02:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Uneducated men</title>
       <link>http://localhost:1313/quote/uneducated-men/</link>
       <pubDate>Tue, 27 Jan 2026 21:02:59 +0100</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/uneducated-men/</guid>
       <description>~ Thomas Hodgskin</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/uneducated-men/featured-uneducation.jpg" />
@@ -25,7 +25,7 @@
       <title>Go to the library</title>
       <link>http://localhost:1313/quote/go-to-the-library/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/quote/go-to-the-library/</guid>
       <description>~ Frank Zappa</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/go-to-the-library/featured-zappa.jpg" />
@@ -35,7 +35,7 @@
       <title>Junk Culture</title>
       <link>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
-      <author>mail@juju.casa (Julian Darío Gutierrez)</author>
+      <author>mail@juju.casa (Casa de JuJu)</author>
       <guid>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science
 News is junk information
