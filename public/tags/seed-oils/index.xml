@@ -13,12 +13,12 @@
     
     <item>
       <title>They don&#39;t know</title>
-      <link>http://localhost:1313/like/they-dont-know/</link>
+      <link>http://localhost:1313/they-dont-know/</link>
       <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/like/they-dont-know/</guid>
+      <guid>http://localhost:1313/they-dont-know/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/they-dont-know/featured-weirdguy.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/they-dont-know/featured-weirdguy.jpg" />
     </item>
     
   </channel>

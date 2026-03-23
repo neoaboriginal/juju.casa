@@ -13,22 +13,22 @@
     
     <item>
       <title>I am</title>
-      <link>http://localhost:1313/note/i-am/</link>
+      <link>http://localhost:1313/i-am/</link>
       <pubDate>Sat, 28 Jun 2025 01:38:38 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/note/i-am/</guid>
+      <guid>http://localhost:1313/i-am/</guid>
       <description>I am Unity. I am God. I am Sovereign. I am Free.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/i-am/featured-I.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/i-am/featured-I.jpg" />
     </item>
     
     <item>
       <title>Reject statism</title>
-      <link>http://localhost:1313/bookmark/reject-statism/</link>
+      <link>http://localhost:1313/reject-statism/</link>
       <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/bookmark/reject-statism/</guid>
+      <guid>http://localhost:1313/reject-statism/</guid>
       <description>The world has long been governed by systems of statism—systems built on force, coercion, and the suppression of individual sovereignty. These systems present themselves as protectors of order and providers of security, yet at their core, they perpetuate violence, extortion, and control.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/reject-statism/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/reject-statism/featured.jpg" />
     </item>
     
   </channel>

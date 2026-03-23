@@ -13,61 +13,61 @@
     
     <item>
       <title>Dating advice</title>
-      <link>http://localhost:1313/like/dating-advice/</link>
+      <link>http://localhost:1313/dating-advice/</link>
       <pubDate>Sat, 07 Feb 2026 21:44:07 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/like/dating-advice/</guid>
+      <guid>http://localhost:1313/dating-advice/</guid>
       <description>Did you know women are remarkably good at settings standards for what kind of guy they would like to date? Men - not so good at this. Time to level up the game, boys. Signs to look after for finding yourself a quality woman:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/dating-advice/featured-dating.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/dating-advice/featured-dating.jpeg" />
     </item>
     
     <item>
       <title>Nothing going on</title>
-      <link>http://localhost:1313/repost/nothing-going-on/</link>
+      <link>http://localhost:1313/nothing-going-on/</link>
       <pubDate>Mon, 20 Oct 2025 18:02:36 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/repost/nothing-going-on/</guid>
+      <guid>http://localhost:1313/nothing-going-on/</guid>
       <description>It&amp;rsquo;s all so simple.
 Original post available here It&amp;rsquo;s attractive when a woman has nothing going on in her life and a man is her priority.
 It&amp;rsquo;s not attractive when a man has nothing going on in his life and a woman is his priority.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/nothing-going-on/featured-activity.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nothing-going-on/featured-activity.png" />
     </item>
     
     <item>
       <title>What every woman should know</title>
-      <link>http://localhost:1313/video/what-every-woman-should-know/</link>
+      <link>http://localhost:1313/what-every-woman-should-know/</link>
       <pubDate>Thu, 18 Sep 2025 17:45:53 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/video/what-every-woman-should-know/</guid>
+      <guid>http://localhost:1313/what-every-woman-should-know/</guid>
       <description>To all women, with love.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/what-every-woman-should-know/featured-knowing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/what-every-woman-should-know/featured-knowing.jpg" />
     </item>
     
     <item>
       <title>Men are solar, Women are lunar</title>
-      <link>http://localhost:1313/repost/men-are-solar-women-are-lunar/</link>
+      <link>http://localhost:1313/men-are-solar-women-are-lunar/</link>
       <pubDate>Fri, 13 Jun 2025 19:39:44 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/repost/men-are-solar-women-are-lunar/</guid>
+      <guid>http://localhost:1313/men-are-solar-women-are-lunar/</guid>
       <description>Could be an idea to respect your natural cycles.
 Original post available here Men are solar, women are lunar.
 Men have a 24 hour testosterone testosterone cycle which peaks in the morning and declines through the day.
 Women have a 28 day hormonal cycle that changes with the 28 day cycle of the moon.
 Men are meant to work hard in the morning and around lunch time and relax later in the day.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
     </item>
     
     <item>
       <title>Why finding love feels harder than ever</title>
-      <link>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</link>
+      <link>http://localhost:1313/why-finding-love-feels-harder-than-ever/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/video/why-finding-love-feels-harder-than-ever/</guid>
+      <guid>http://localhost:1313/why-finding-love-feels-harder-than-ever/</guid>
       <description>Negative take: If you hate being single just try dating today. You&amp;rsquo;ll enjoy being single much more.
 Positive take: Would you rather be alone or with a woman who tests you constantly? She tests you to feel your power, not your weakness.
 Conclusion: Date a woman that represents what you would want your daughter to be like.
 Spotify:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
     </item>
     
   </channel>

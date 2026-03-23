@@ -13,26 +13,26 @@
     
     <item>
       <title>Spirituality packs</title>
-      <link>http://localhost:1313/like/spirituality-packs/</link>
+      <link>http://localhost:1313/spirituality-packs/</link>
       <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/like/spirituality-packs/</guid>
+      <guid>http://localhost:1313/spirituality-packs/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/spirituality-packs/featured-shooting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/spirituality-packs/featured-shooting.jpg" />
     </item>
     
     <item>
       <title>If you want..</title>
-      <link>http://localhost:1313/repost/if-you-want/</link>
+      <link>http://localhost:1313/if-you-want/</link>
       <pubDate>Sun, 15 Dec 2024 19:07:05 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/repost/if-you-want/</guid>
+      <guid>http://localhost:1313/if-you-want/</guid>
       <description> Original post available here If you want strength, train.
 If you want peace, meditate.
 If you want growth, challenge yourself.
 If you want fulfillment, pursue your passion.
-See also: If you seek.. March 10, 2025 Repost Discipline Pleasure Strenght Success </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/if-you-want/featured-wants.jpg" />
+See also: </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/if-you-want/featured-wants.jpg" />
     </item>
     
   </channel>

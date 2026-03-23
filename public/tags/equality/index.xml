@@ -13,12 +13,12 @@
     
     <item>
       <title>What every woman should know</title>
-      <link>http://localhost:1313/video/what-every-woman-should-know/</link>
+      <link>http://localhost:1313/what-every-woman-should-know/</link>
       <pubDate>Thu, 18 Sep 2025 17:45:53 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/video/what-every-woman-should-know/</guid>
+      <guid>http://localhost:1313/what-every-woman-should-know/</guid>
       <description>To all women, with love.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/what-every-woman-should-know/featured-knowing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/what-every-woman-should-know/featured-knowing.jpg" />
     </item>
     
   </channel>

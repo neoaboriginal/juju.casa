@@ -10,10 +10,11 @@ defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
+logo = "/img/rev.png"
 
 replyByEmail = false
 
-mainSections = ["bookmark", "note", "like", "listen", "music", "photo", "quote", "read", "repost", "video"]
+mainSections = ["posts"]
 robots = "all"
 
 disableImageZoom = false
@@ -21,7 +22,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/SoftRasta.png" # used as default for background images 
+defaultBackgroundImage = "img/interlaced.png" # used as default for background images 
 defaultFeaturedImage = "rev.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -32,7 +33,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -47,10 +48,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showRecent = true
   showRecentItems = 11
   showMoreLink = true
-  showMoreLinkDest = "/all"
+  showMoreLinkDest = "/posts/"
   cardView = true
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
@@ -86,20 +87,20 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [list]
   showHero = true
-  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
-  #layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  #layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
+  showBreadcrumbs = true
   showSummary = false
   showViews = false
   showLikes = false
-  showTableOfContents = false
+  showTableOfContents = true
   showCards = true
   orderByWeight = false
   groupByYear = true
   cardView = true
   cardViewScreenWidth = false
-  constrainItemsWidth = false
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
@@ -107,12 +108,12 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [taxonomy]
   showTermCount = true
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = false
+  cardView = true
 
 [term]
   showHero = true
@@ -183,8 +184,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   headline = "Julian Darío Gutierrez<br>@neoaboriginal"
   bio = "From 🇨🇴 ~ Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
   links = [
+    { rss = "https://juju.casa/index.xml" },
     { email = "mailto:mail@juju.casa" },
     { spotify = "https://open.spotify.com/user/jujudario" },
     { instagram = "https://instagram.com/neoaboriginal" },
-    { rss = "https://juju.casa/index.xml" },
+    
   ]

@@ -13,15 +13,15 @@
     
     <item>
       <title>Gaslightning</title>
-      <link>http://localhost:1313/repost/gaslightning/</link>
+      <link>http://localhost:1313/gaslightning/</link>
       <pubDate>Thu, 21 Aug 2025 01:27:05 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/repost/gaslightning/</guid>
+      <guid>http://localhost:1313/gaslightning/</guid>
       <description>It must be in your head, riiite?
 &amp;quot;Gaslightning&amp;quot; ⛽️⚡️
 When people tell you that the Bitcoin Lightning Network actually works great, and all of its numerous user experience issues are all in your head.
 &amp;mdash; Joel Valenzuela (@TheDesertLynx) October 27, 2024 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/gaslightning/featured-lightning.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gaslightning/featured-lightning.png" />
     </item>
     
   </channel>

@@ -13,32 +13,32 @@
     
     <item>
       <title>Spirituality packs</title>
-      <link>http://localhost:1313/like/spirituality-packs/</link>
+      <link>http://localhost:1313/spirituality-packs/</link>
       <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/like/spirituality-packs/</guid>
+      <guid>http://localhost:1313/spirituality-packs/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/spirituality-packs/featured-shooting.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/spirituality-packs/featured-shooting.jpg" />
     </item>
     
     <item>
       <title>Pluto in Aquarius</title>
-      <link>http://localhost:1313/bookmark/pluto-in-aquarius/</link>
+      <link>http://localhost:1313/pluto-in-aquarius/</link>
       <pubDate>Mon, 02 Dec 2024 22:12:06 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/bookmark/pluto-in-aquarius/</guid>
+      <guid>http://localhost:1313/pluto-in-aquarius/</guid>
       <description>Big changes are ahead for humanity as Pluto has entered Aquarius for good over the next 20 years.
 An astrological guide to what we are all feeling right now.
 Check out the link below. Pluto In Aquarius, US Pluto Return, And The Times Ahead In this episode, Laura and Bernhard discuss the Pluto Return of the US in light of recent and current events and the outlook on the bigger picture and the times ahead.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bookmark/pluto-in-aquarius/featured-plutoaquarius.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/pluto-in-aquarius/featured-plutoaquarius.jpg" />
     </item>
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science
 News is junk information
 Public school is junk education
@@ -55,7 +55,7 @@ Fluorescent lights are junk sunlight
 Modernist buildings are junk architecture
 Dating apps are junk connections
 Casual hookup is junk sex</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
   </channel>

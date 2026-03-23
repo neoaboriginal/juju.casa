@@ -13,14 +13,14 @@
     
     <item>
       <title>Nothing going on</title>
-      <link>http://localhost:1313/repost/nothing-going-on/</link>
+      <link>http://localhost:1313/nothing-going-on/</link>
       <pubDate>Mon, 20 Oct 2025 18:02:36 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/repost/nothing-going-on/</guid>
+      <guid>http://localhost:1313/nothing-going-on/</guid>
       <description>It&amp;rsquo;s all so simple.
 Original post available here It&amp;rsquo;s attractive when a woman has nothing going on in her life and a man is her priority.
 It&amp;rsquo;s not attractive when a man has nothing going on in his life and a woman is his priority.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/nothing-going-on/featured-activity.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nothing-going-on/featured-activity.png" />
     </item>
     
   </channel>

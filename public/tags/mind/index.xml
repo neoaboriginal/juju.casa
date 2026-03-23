@@ -13,12 +13,12 @@
     
     <item>
       <title>Go to the library</title>
-      <link>http://localhost:1313/quote/go-to-the-library/</link>
+      <link>http://localhost:1313/go-to-the-library/</link>
       <pubDate>Sun, 12 Jan 2025 16:47:44 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/quote/go-to-the-library/</guid>
+      <guid>http://localhost:1313/go-to-the-library/</guid>
       <description>~ Frank Zappa</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/go-to-the-library/featured-zappa.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/go-to-the-library/featured-zappa.jpg" />
     </item>
     
   </channel>

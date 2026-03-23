@@ -13,12 +13,12 @@
     
     <item>
       <title>Ancestors are close</title>
-      <link>http://localhost:1313/like/ancestors-are-close/</link>
+      <link>http://localhost:1313/ancestors-are-close/</link>
       <pubDate>Mon, 14 Jul 2025 13:02:02 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/like/ancestors-are-close/</guid>
+      <guid>http://localhost:1313/ancestors-are-close/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/ancestors-are-close/featured-mirror.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ancestors-are-close/featured-mirror.png" />
     </item>
     
   </channel>

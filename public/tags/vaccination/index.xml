@@ -13,12 +13,12 @@
     
     <item>
       <title>Mugshots of anti-vaxxers</title>
-      <link>http://localhost:1313/like/anti-vaxx-gallery/</link>
+      <link>http://localhost:1313/anti-vaxx-gallery/</link>
       <pubDate>Sat, 05 Jul 2025 21:27:05 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/like/anti-vaxx-gallery/</guid>
+      <guid>http://localhost:1313/anti-vaxx-gallery/</guid>
       <description>Images of those craaaazy anti-vaxxers, i.e. people like you and me.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/anti-vaxx-gallery/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/anti-vaxx-gallery/featured.jpg" />
     </item>
     
   </channel>

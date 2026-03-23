@@ -13,22 +13,22 @@
     
     <item>
       <title>I am</title>
-      <link>http://localhost:1313/note/i-am/</link>
+      <link>http://localhost:1313/i-am/</link>
       <pubDate>Sat, 28 Jun 2025 01:38:38 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/note/i-am/</guid>
+      <guid>http://localhost:1313/i-am/</guid>
       <description>I am Unity. I am God. I am Sovereign. I am Free.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/i-am/featured-I.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/i-am/featured-I.jpg" />
     </item>
     
     <item>
       <title>Xochipilli in temicxoch</title>
-      <link>http://localhost:1313/note/xochipilli-in-temicxoch/</link>
+      <link>http://localhost:1313/xochipilli-in-temicxoch/</link>
       <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/note/xochipilli-in-temicxoch/</guid>
+      <guid>http://localhost:1313/xochipilli-in-temicxoch/</guid>
       <description>Xochipilli , the Aztec god of beauty, youth, love, passion, sex, sexuality, fertility, arts, song, music, dance, painting, writing, games, playfulness, nature, vegetation, and flowers, is here depicted in a state referred to as temicxoch, or “dream flowers,” which symbolizes an entheogenic experience. This state is associated with the ingestion of psychoactive plants and fungi, such as mushrooms, tobacco, and ololiuhqui seeds. Its head is tilted up, eyes open, jaw tensed, and mouth half open, a typical expression of ecstasy.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/xochipilli-in-temicxoch/featured-statue.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xochipilli-in-temicxoch/featured-statue.jpg" />
     </item>
     
   </channel>

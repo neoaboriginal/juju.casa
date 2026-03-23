@@ -13,12 +13,12 @@
     
     <item>
       <title>Never trust busy people</title>
-      <link>http://localhost:1313/note/never-trust-busy-people/</link>
+      <link>http://localhost:1313/never-trust-busy-people/</link>
       <pubDate>Sun, 18 Jan 2026 20:19:55 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/note/never-trust-busy-people/</guid>
+      <guid>http://localhost:1313/never-trust-busy-people/</guid>
       <description>Busyness is a sign you&amp;rsquo;re failing at life. Never trust busy people.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/never-trust-busy-people/featured-busy.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/never-trust-busy-people/featured-busy.jpg" />
     </item>
     
   </channel>

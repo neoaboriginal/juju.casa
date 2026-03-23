@@ -13,12 +13,12 @@
     
     <item>
       <title>I am</title>
-      <link>http://localhost:1313/note/i-am/</link>
+      <link>http://localhost:1313/i-am/</link>
       <pubDate>Sat, 28 Jun 2025 01:38:38 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/note/i-am/</guid>
+      <guid>http://localhost:1313/i-am/</guid>
       <description>I am Unity. I am God. I am Sovereign. I am Free.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/i-am/featured-I.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/i-am/featured-I.jpg" />
     </item>
     
   </channel>

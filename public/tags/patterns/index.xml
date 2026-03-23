@@ -13,23 +13,23 @@
     
     <item>
       <title>The anxious/avoidant deathtrap</title>
-      <link>http://localhost:1313/video/the-anxious-avoidant-deathtrap/</link>
+      <link>http://localhost:1313/the-anxious-avoidant-deathtrap/</link>
       <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/video/the-anxious-avoidant-deathtrap/</guid>
+      <guid>http://localhost:1313/the-anxious-avoidant-deathtrap/</guid>
       <description>These threat-models are recognizable and relatable. You need to identify your patterns, and that might take some time.. Either way, the most important takeaway is, as always: Emotional resilience.
 Spotify:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
     </item>
     
     <item>
       <title>Salinas de Gozo 🇲🇹</title>
-      <link>http://localhost:1313/photo/salinas-de-gozo/</link>
+      <link>http://localhost:1313/salinas-de-gozo/</link>
       <pubDate>Wed, 01 Jan 2025 13:55:37 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/photo/salinas-de-gozo/</guid>
+      <guid>http://localhost:1313/salinas-de-gozo/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/salinas-de-gozo/featured-salinas.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/salinas-de-gozo/featured-salinas.jpg" />
     </item>
     
   </channel>

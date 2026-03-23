@@ -13,22 +13,22 @@
     
     <item>
       <title>Khmer coast 2025</title>
-      <link>http://localhost:1313/photo/khmer-coast/</link>
+      <link>http://localhost:1313/khmer-coast/</link>
       <pubDate>Tue, 23 Dec 2025 10:01:41 +0700</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/photo/khmer-coast/</guid>
+      <guid>http://localhost:1313/khmer-coast/</guid>
       <description>That&amp;rsquo;s why I&amp;rsquo;m here; for proper sun exposure. But getting genital sun exposure was difficult (as expected). Still happy with Nesat, Koh Rong, Koh Rong Samloem &amp;amp; Kampot. And you know you&amp;rsquo;re at the right place when they have a huge durian statue on public display. That fruit is&amp;hellip; a gift from the Gods.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/khmer-coast/featured-lagoon.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/khmer-coast/featured-lagoon.jpg" />
     </item>
     
     <item>
       <title>Siem Reap 2025</title>
-      <link>http://localhost:1313/photo/siem-reap-2025/</link>
+      <link>http://localhost:1313/siem-reap-2025/</link>
       <pubDate>Sun, 30 Nov 2025 08:41:50 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/photo/siem-reap-2025/</guid>
+      <guid>http://localhost:1313/siem-reap-2025/</guid>
       <description>I&amp;rsquo;m finding happier people - and no pride flags, here in Cambodia.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/siem-reap-2025/featured-temple.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/siem-reap-2025/featured-temple.jpg" />
     </item>
     
   </channel>

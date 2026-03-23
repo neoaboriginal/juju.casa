@@ -13,12 +13,12 @@
     
     <item>
       <title>At the expense of morality</title>
-      <link>http://localhost:1313/quote/at-the-expense-of-morality/</link>
+      <link>http://localhost:1313/at-the-expense-of-morality/</link>
       <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/quote/at-the-expense-of-morality/</guid>
+      <guid>http://localhost:1313/at-the-expense-of-morality/</guid>
       <description>~ Aaron Day</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/at-the-expense-of-morality/featured-btcmorality.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/at-the-expense-of-morality/featured-btcmorality.jpeg" />
     </item>
     
   </channel>

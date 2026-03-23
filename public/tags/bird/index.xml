@@ -13,12 +13,12 @@
     
     <item>
       <title>Eating babies</title>
-      <link>http://localhost:1313/like/eating-babies/</link>
+      <link>http://localhost:1313/eating-babies/</link>
       <pubDate>Wed, 25 Dec 2024 17:40:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/like/eating-babies/</guid>
+      <guid>http://localhost:1313/eating-babies/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/like/eating-babies/featured-birds.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eating-babies/featured-birds.jpg" />
     </item>
     
   </channel>

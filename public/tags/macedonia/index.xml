@@ -13,12 +13,12 @@
     
     <item>
       <title>Sveti Jovan Kaneo</title>
-      <link>http://localhost:1313/photo/sveti-jovan-kaneo/</link>
+      <link>http://localhost:1313/sveti-jovan-kaneo/</link>
       <pubDate>Tue, 04 Mar 2025 12:50:23 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/photo/sveti-jovan-kaneo/</guid>
+      <guid>http://localhost:1313/sveti-jovan-kaneo/</guid>
       <description>Ohrid vibes 🇲🇰</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/sveti-jovan-kaneo/featured-church.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sveti-jovan-kaneo/featured-church.jpg" />
     </item>
     
   </channel>

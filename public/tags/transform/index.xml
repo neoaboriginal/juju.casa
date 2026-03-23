@@ -13,13 +13,13 @@
     
     <item>
       <title>The dude in the red dress</title>
-      <link>http://localhost:1313/video/the-dude-in-the-red-dress/</link>
+      <link>http://localhost:1313/the-dude-in-the-red-dress/</link>
       <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/video/the-dude-in-the-red-dress/</guid>
+      <guid>http://localhost:1313/the-dude-in-the-red-dress/</guid>
       <description>&amp;ldquo;IT&amp;rsquo;S MA&amp;rsquo;AM !!!&amp;rdquo;
 {{ template &amp;ldquo;_internal/disqus.html&amp;rdquo; . }}</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/the-dude-in-the-red-dress/featured-woke.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-dude-in-the-red-dress/featured-woke.jpg" />
     </item>
     
   </channel>

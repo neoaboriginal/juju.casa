@@ -13,20 +13,20 @@
     
     <item>
       <title>What every woman should know</title>
-      <link>http://localhost:1313/video/what-every-woman-should-know/</link>
+      <link>http://localhost:1313/what-every-woman-should-know/</link>
       <pubDate>Thu, 18 Sep 2025 17:45:53 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/video/what-every-woman-should-know/</guid>
+      <guid>http://localhost:1313/what-every-woman-should-know/</guid>
       <description>To all women, with love.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/what-every-woman-should-know/featured-knowing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/what-every-woman-should-know/featured-knowing.jpg" />
     </item>
     
     <item>
       <title>The modern world is a massive scam</title>
-      <link>http://localhost:1313/repost/the-modern-world-is-a-massive-scam/</link>
+      <link>http://localhost:1313/the-modern-world-is-a-massive-scam/</link>
       <pubDate>Wed, 09 Jul 2025 02:42:58 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/repost/the-modern-world-is-a-massive-scam/</guid>
+      <guid>http://localhost:1313/the-modern-world-is-a-massive-scam/</guid>
       <description>sunscreen destroys your skin
 casual sex destroys sexuality
 banks destroys wealth
@@ -37,7 +37,7 @@ veganism destroys the planet
 feminism destroys femininity
 the modern world is a massive scam
 &amp;mdash; Carnivore Aurelius ©🥩 ☀️🦙 (@AlpacaAurelius) March 10, 2025 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/repost/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
     </item>
     
   </channel>

@@ -13,12 +13,12 @@
     
     <item>
       <title>The proper response</title>
-      <link>http://localhost:1313/quote/the-proper-response/</link>
+      <link>http://localhost:1313/the-proper-response/</link>
       <pubDate>Tue, 29 Jul 2025 17:36:29 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/quote/the-proper-response/</guid>
+      <guid>http://localhost:1313/the-proper-response/</guid>
       <description>~ William Carlos Williams</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quote/the-proper-response/featured-clap.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-proper-response/featured-clap.jpg" />
     </item>
     
   </channel>

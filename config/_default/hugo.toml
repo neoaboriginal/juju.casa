@@ -5,6 +5,10 @@
 baseURL = "https://juju.casa/"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
+uglyURLs = false
+
+[permalinks]
+  posts = "/:filename/" # Or use "/:sections/:filename/" depending on how nested they are
 
 [pagination]
 pagerSize = 11

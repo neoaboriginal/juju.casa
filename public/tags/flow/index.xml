@@ -13,12 +13,12 @@
     
     <item>
       <title>Be like water</title>
-      <link>http://localhost:1313/video/be-like-water/</link>
+      <link>http://localhost:1313/be-like-water/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/video/be-like-water/</guid>
+      <guid>http://localhost:1313/be-like-water/</guid>
       <description>A short guide on how to navigate the waves of life 🌊</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/video/be-like-water/featured-water.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/be-like-water/featured-water.jpg" />
     </item>
     
   </channel>

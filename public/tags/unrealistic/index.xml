@@ -13,12 +13,12 @@
     
     <item>
       <title>Don&#39;t be realistic</title>
-      <link>http://localhost:1313/note/dont-be-realistic/</link>
+      <link>http://localhost:1313/dont-be-realistic/</link>
       <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/note/dont-be-realistic/</guid>
+      <guid>http://localhost:1313/dont-be-realistic/</guid>
       <description>Stay far away from anyone who tells you to ‘be realistic’.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/note/dont-be-realistic/featured-realistic.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/dont-be-realistic/featured-realistic.png" />
     </item>
     
   </channel>

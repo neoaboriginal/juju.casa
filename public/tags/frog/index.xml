@@ -13,12 +13,12 @@
     
     <item>
       <title>Luz verde</title>
-      <link>http://localhost:1313/photo/luz-verde/</link>
+      <link>http://localhost:1313/luz-verde/</link>
       <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/photo/luz-verde/</guid>
+      <guid>http://localhost:1313/luz-verde/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photo/luz-verde/featured-kit.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/luz-verde/featured-kit.jpg" />
     </item>
     
   </channel>
