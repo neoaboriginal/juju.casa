@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sunset on </title>
+    <link>http://localhost:1313/tags/sunset/</link>
+    <description>Recent content in Sunset on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
+    <lastBuildDate>Sun, 15 Feb 2026 21:21:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/sunset/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Laos 2026</title>
+      <link>http://localhost:1313/laos-2026/</link>
+      <pubDate>Sun, 15 Feb 2026 21:21:18 +0100</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/laos-2026/</guid>
+      <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/laos-2026/featured-flag.jpg" />
+    </item>
+    
+  </channel>
+</rss>
