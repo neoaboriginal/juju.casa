@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Helse on </title>
-    <link>http://localhost:1313/tags/helse/</link>
+    <link>http://localhost:37513/tags/helse/</link>
     <description>Recent content in Helse on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 04 Aug 2025 19:44:02 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/helse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 19:44:02 +0200</lastBuildDate><atom:link href="http://localhost:37513/tags/helse/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fra morsmelk til fast føde</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Mon, 04 Aug 2025 19:44:02 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Er lavkarbo/høyfett med fortrinnsvis animalsk fett optimalt?</description>
       
     </item>

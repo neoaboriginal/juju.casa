@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consciousness on </title>
-    <link>http://localhost:1313/tags/consciousness/</link>
+    <link>http://localhost:37513/tags/consciousness/</link>
     <description>Recent content in Consciousness on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/consciousness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:37513/tags/consciousness/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Dating advice</title>
-      <link>http://localhost:1313/dating-advice/</link>
+      <title>Dating standards</title>
+      <link>http://localhost:37513/dating-standards/</link>
       <pubDate>Sat, 07 Feb 2026 21:44:07 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/dating-advice/</guid>
+      <guid>http://localhost:37513/dating-standards/</guid>
       <description>Did you know women are remarkably good at settings standards for what kind of guy they would like to date? Men - not so good at this. Time to level up the game, boys. Signs to look after for finding yourself a quality woman:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/dating-advice/featured-dating.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/dating-standards/featured-dating.jpeg" />
     </item>
     
     <item>
       <title>The real reason you can&#39;t change</title>
-      <link>http://localhost:1313/the-real-reason-you-cant-change/</link>
+      <link>http://localhost:37513/the-real-reason-you-cant-change/</link>
       <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/the-real-reason-you-cant-change/</guid>
+      <guid>http://localhost:37513/the-real-reason-you-cant-change/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-real-reason-you-cant-change/featured-k.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/the-real-reason-you-cant-change/featured-k.jpg" />
     </item>
     
   </channel>

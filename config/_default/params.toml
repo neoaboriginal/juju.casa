@@ -46,7 +46,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/interlaced.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 11
+  showRecentItems = 8
   showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = true
@@ -87,9 +87,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [list]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
+  heroStyle = "thumbAndBackground"
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = true
   showSummary = false
   showViews = false
@@ -98,9 +98,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showCards = true
   orderByWeight = false
   groupByYear = true
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
-  constrainItemsWidth = true
+  constrainItemsWidth = false
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
@@ -113,11 +113,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = true
+  cardView = false
 
 [term]
   showHero = true
-  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -182,7 +182,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   image = "img/rev.png"
   imageQuality = 100
   headline = "Julian Darío Gutierrez<br>@neoaboriginal"
-  bio = "From 🇨🇴 ~ Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
+  bio = "From 🇨🇴<br>Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
   links = [
     { rss = "https://juju.casa/index.xml" },
     { email = "mailto:mail@juju.casa" },

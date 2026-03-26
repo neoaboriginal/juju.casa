@@ -1,0 +1,29 @@
+@font-face {
+    font-family: ubuntu;
+    src: url('/fonts/ubuntu.ttf');
+}
+
+html {
+    font-family: ubuntu;
+}
+
+/* Increase the default font size */
+html {
+    font-size: 12.5pt;
+}
+
+/* --- NUCLEAR OPTION FOR CARDS --- */
+/* The red border is just to prove this code is loading. We will remove it later. */
+article.card {
+    border: 5px solid red !important;
+}
+
+@media (min-width: 768px) {
+  article.card > div:first-child {
+    flex-shrink: 0 !important;
+  }
+
+  article.card > div:nth-child(2) {
+    flex-wrap: nowrap !important;
+  }
+}

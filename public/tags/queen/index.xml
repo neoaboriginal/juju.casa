@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Queen on </title>
-    <link>http://localhost:1313/tags/queen/</link>
+    <link>http://localhost:37513/tags/queen/</link>
     <description>Recent content in Queen on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/queen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:37513/tags/queen/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Dating advice</title>
-      <link>http://localhost:1313/dating-advice/</link>
+      <title>Dating standards</title>
+      <link>http://localhost:37513/dating-standards/</link>
       <pubDate>Sat, 07 Feb 2026 21:44:07 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/dating-advice/</guid>
+      <guid>http://localhost:37513/dating-standards/</guid>
       <description>Did you know women are remarkably good at settings standards for what kind of guy they would like to date? Men - not so good at this. Time to level up the game, boys. Signs to look after for finding yourself a quality woman:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/dating-advice/featured-dating.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/dating-standards/featured-dating.jpeg" />
     </item>
     
   </channel>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on </title>
-    <link>http://localhost:1313/category/music/</link>
+    <link>http://localhost:37513/category/music/</link>
     <description>Recent content in Music on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 16 Oct 2025 19:24:23 +0200</lastBuildDate><atom:link href="http://localhost:1313/category/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 19:24:23 +0200</lastBuildDate><atom:link href="http://localhost:37513/category/music/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Ferske spor ~ Oktober 2025</title>
-      <link>http://localhost:1313/index.no/</link>
+      <title>Ferske spor: October 2025</title>
+      <link>http://localhost:37513/ferske-spor-october2025/</link>
       <pubDate>Thu, 16 Oct 2025 19:24:23 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
-      <description>Link til Deichmans musikkblogg her .
+      <guid>http://localhost:37513/ferske-spor-october2025/</guid>
+      <description>Link to Deichmans musikkblogg in Norwegian 🇳🇴 here .
 Aloha!
-En ny runde med gripende ferske spor med et jujuesque filter daler ned som løv, rett inn i headsettet ditt.
-Dersom du ikke har fått med deg mine anbefalinger her i 2025, så kan du plukke opp tråden via Spotify her .
-Så til sensommerens repeat-vennlige spor;
+A new round of gripping fresh tracks with a juju-esque filter is falling like leaves, straight into your headphones.
+If you haven&amp;rsquo;t caught my recommendations here in 2025, you can pick up the thread via Spotify here .
+And now, for the late summer&amp;rsquo;s repeat-friendly tracks;
 Farhot - MARS (2025)
-En fengende hyllest til ØstAfrikansk musikk med sine intrikate samples. Låta er bygget rundt sangen Tilman Baa Lagu Socdaa fra 1987 av den somalske supergruppa 4Mars .</description>
-      
+A catchy homage to East African music with its intricate samples.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/ferske-spor-october2025/featured-spor.jpg" />
     </item>
     
     <item>
       <title>Ferske spor / August 2025</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Link til Deichmans musikkblogg her .
 Lyra Sage – «Human» (2024)
 Ut av det blå, kom årets sommerhit 2025. En relativt ukjent artist på Spotify har fylt mine droplets i tide og utide denne sommeren. En tydelig og groovy beat, med plass til lekenhet. Ta øregangene dine til nye musikalske høyder.
@@ -43,10 +43,10 @@ Så til litt mørkere saker. Denne bassen resonnerer vidunderlig med en skyggefu
     
     <item>
       <title>Ferske spor / Juli 2025</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Fri, 04 Jul 2025 14:00:12 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Link til Deichmans musikkblogg her .
 40 Winks – Outside the box (It’s the trip, 2011)
 Sommerens revival (som egentlig betyr å bruke masse tid på å organisere spillelister), ga meg et hyggelig gjensyn med 40 winks, og det var vanskelig å ikke ha med dette trommefyrverkeriet av en sang med.
@@ -56,25 +56,25 @@ Ordet på gata er at den siste produksjonen til High Contrast er, som de sier p�
     </item>
     
     <item>
-      <title>Ferske spor / Juni 2025</title>
-      <link>http://localhost:1313/index.no/</link>
+      <title>Ferske spor: Juni 2025</title>
+      <link>http://localhost:37513/ferske-spor-juni2025/</link>
       <pubDate>Mon, 16 Jun 2025 22:25:06 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
-      <description>Link til Deichmans musikblogg her .
+      <guid>http://localhost:37513/ferske-spor-juni2025/</guid>
+      <description>Link to Deichmans musikblogg in Norwegian 🇳🇴 here .
 Kiasmos - Sisteron (Sisteron, 2025)
 Minimal, atmosferisk elektronica. Har et eterisk og kontemplerende lydbilde som bidrar til at denne sangen blir både intim og storslått. Kiasmos klarer her å levere en sang som er smått hypnotisk, med med nok påfyll av organisk varme.
 Cercle · Kiasmos - Sisteron Nym - Ten thousand smokes (False noon, 2023)
-En reise gjennom et kaleidoskop av lyd. Romslig og drømmeaktig låt fra Nym, som leverer en ren og sanselig opplevelse.</description>
-      
+En reise gjennom et kaleidoskop av lyd.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/ferske-spor-juni2025/featured-cover.jpg" />
     </item>
     
     <item>
       <title>Ferske spor / April 2025</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Link til Deichmans musikkblogg her .
 Nesrine – «Ya Lil» En stemme som oser suggesjon i et rytmisk fransk-algirsk bakteppe av celloer. Varme og sensibilitet, men allikevel dynamisk nok til at trådene flettes sømløst til du sitter igjen med et ganske behagelig plagg du vil ta på igjen – og igjen.
 13th Ward Social Club, santadolora &amp;amp; Agent-X – «Chan Chan» Å lage en remix av en så ikonisk sang er ikke en oppgave som bør tas lett på.</description>
@@ -83,10 +83,10 @@ Nesrine – «Ya Lil» En stemme som oser suggesjon i et rytmisk fransk-algirsk 
     
     <item>
       <title>Ferske spor / Mars 2025</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Link til Deichmans musikkblogg her .
 Flock – «Turned skyward» Atmosfærisk låt fra albumet Flock II, et samarbeid med flere innovative musikere fra Londons eksperimentelle musikkscene. En balansert, men samtidig hypnotisk reise. Art of Tones – «A comfort zone» Groovy og oppblåsbar flytende sang fra den franske produsentet Ludovic Llorca fra albumet Unbalanced (2018). Regn med dyyyp house, jazz-funk og litt disco-påvirkning. En lugn og varm låt som setter hodet ditt i en sensorisk deprivasjonstank.</description>
       
@@ -94,10 +94,10 @@ Flock – «Turned skyward» Atmosfærisk låt fra albumet Flock II, et samarbe
     
     <item>
       <title>Klissete lovesongs for Deichman</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Fri, 14 Feb 2025 14:15:26 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Klissete lovesongs for Deichman Musikkblogg :
 Moreno Veloso - Deusa de Amor
 Music Typewriter by Moreno Veloso The Gaylads - Joy in the morning
@@ -108,10 +108,10 @@ Smoke City - Underwater love</description>
     
     <item>
       <title>Ferske spor / Januar 2025</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Mon, 03 Feb 2025 19:24:36 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Link til Deichmans musikblogg her .
 SpellSpellSpell – «I wanna»
 Ikke den enkleste sangen å finne online, men hvis du har savnet å høre fra Spice Girls så kan du jo spinne denne remixen for en lo-fi-versjon med mer chill enn 90-talls-popgnål.
@@ -122,10 +122,10 @@ Hender ned for denne sangen som jeg har spilt mest siden vintersolverv. Utforske
     
     <item>
       <title>Deichman: Årets album 2024</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Link til Deichmans musikkblogg finner du her .
 Hvor vil du idag? Kanskje din hjerne trenger en transcendental hodemassasje, eller er du i det nostalgiske hjørnet? Tør du å høre på et album som kompulsivt og somatisk beveger deg? Om ikke det skulle falle i smak, så kan du alltids gi sjelen din et funky spa-gavekort? Alt dette og din årlige dose med mikronæringstoffer er her!
 La oss sparke det i gang med noen album som har satt spor det siste året:</description>

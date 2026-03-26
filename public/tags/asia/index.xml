@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asia on </title>
-    <link>http://localhost:1313/tags/asia/</link>
+    <link>http://localhost:37513/tags/asia/</link>
     <description>Recent content in Asia on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 21:21:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/asia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Feb 2026 21:21:18 +0100</lastBuildDate><atom:link href="http://localhost:37513/tags/asia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Laos 2026</title>
-      <link>http://localhost:1313/laos-2026/</link>
+      <link>http://localhost:37513/laos-2026/</link>
       <pubDate>Sun, 15 Feb 2026 21:21:18 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/laos-2026/</guid>
-      <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/laos-2026/featured-flag.jpg" />
+      <guid>http://localhost:37513/laos-2026/</guid>
+      <description>Explored Laos the last week, a country with vast caves, top-notch waterfalls and even jumped on an airy hot ait ballon ride. Don Det takes it away with the best vibe.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/laos-2026/featured-flag.jpg" />
     </item>
     
   </channel>

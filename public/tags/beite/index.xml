@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beite on </title>
-    <link>http://localhost:1313/tags/beite/</link>
+    <link>http://localhost:37513/tags/beite/</link>
     <description>Recent content in Beite on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 28 Oct 2024 17:03:01 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/beite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 17:03:01 +0200</lastBuildDate><atom:link href="http://localhost:37513/tags/beite/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mye mat i lang tid</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:37513/index.no/</link>
       <pubDate>Mon, 28 Oct 2024 17:03:01 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:37513/index.no/</guid>
       <description>Viltkjøtt gir mye mat i lang tid, og bør være en førsteprioritet dersom du bor i Norge. Beitende dyr er et mirakel. Større tetthet av kalorier betyr også at vi ikke trenger å spise hele tiden, slik man gjør hvis man spiser plantebasert. Valget er latterlig enkelt hvis du bor i Norge: Alt av animalsk og lokal mat er bedre enn å importere avokadoer og bananer fra fjerne himmelstrøk.</description>
       
     </item>

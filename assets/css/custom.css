@@ -5,10 +5,30 @@
 
 html {
     font-family: ubuntu;
+    font-size: 12.5pt;
 }
 
-/* Increase the default font size */
-html {
-    font-size: 12.5pt;
-  }
-  
+/* 
+  ROOT CAUSE FIX:
+  Blowfish's md:flex-nowrap is not rendering correctly.
+  We force the article to never wrap its children (image + text)
+  by directly targeting the exact class combination from the real HTML.
+*/
+a.article.flex {
+    flex-wrap: nowrap !important;
+}
+
+/* 
+  Fix the image div which has w-full making it take 100% width.
+  We override it to a fixed width so it never pushes tags below.
+*/
+a.article.flex > div.thumbnail {
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+    height: 150px !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    flex-shrink: 0 !important;
+}
