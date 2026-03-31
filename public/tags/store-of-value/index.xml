@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Store of Value on </title>
-    <link>http://localhost:45845/tags/store-of-value/</link>
+    <link>http://localhost:45447/tags/store-of-value/</link>
     <description>Recent content in Store of Value on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 08 Jan 2026 19:03:35 +0700</lastBuildDate><atom:link href="http://localhost:45845/tags/store-of-value/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jan 2026 19:03:35 +0700</lastBuildDate><atom:link href="http://localhost:45447/tags/store-of-value/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bitcoin&#39;s purpose</title>
-      <link>http://localhost:45845/bitcoins-purpose/</link>
+      <link>http://localhost:45447/bitcoins-purpose/</link>
       <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/bitcoins-purpose/</guid>
+      <guid>http://localhost:45447/bitcoins-purpose/</guid>
       <description>Bitcoin as digital gold is a blasphemic statement.
 Original post available here Bitcoin’s purpose is crystal clear. Satoshi Nakamoto&amp;rsquo;s whitepaper, &amp;ldquo;Bitcoin: A Peer-to-Peer Electronic Cash System,&amp;rdquo; explicitly outlines Bitcoin as digital cash. The whitepaper discusses creating a decentralized currency for everyday transactions, not a store of value like digital gold. Read the whitepaper and see for yourself.
 1/ The title of the whitepaper itself - &amp;ldquo;Bitcoin: A Peer-to-Peer Electronic Cash System&amp;rdquo; - states the purpose directly: Bitcoin was meant to be used as cash.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/bitcoins-purpose/featured-whitepaper.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/bitcoins-purpose/featured-whitepaper.jpeg" />
     </item>
     
   </channel>

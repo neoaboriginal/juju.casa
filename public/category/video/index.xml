@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on </title>
-    <link>http://localhost:45845/category/video/</link>
+    <link>http://localhost:45447/category/video/</link>
     <description>Recent content in Video on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 17:45:53 +0200</lastBuildDate><atom:link href="http://localhost:45845/category/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 17:45:53 +0200</lastBuildDate><atom:link href="http://localhost:45447/category/video/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What every woman should know</title>
-      <link>http://localhost:45845/what-every-woman-should-know/</link>
+      <link>http://localhost:45447/what-every-woman-should-know/</link>
       <pubDate>Thu, 18 Sep 2025 17:45:53 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/what-every-woman-should-know/</guid>
+      <guid>http://localhost:45447/what-every-woman-should-know/</guid>
       <description>To all women, with love.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/what-every-woman-should-know/featured-knowing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/what-every-woman-should-know/featured-knowing.jpg" />
     </item>
     
     <item>
       <title>Why finding love feels harder than ever</title>
-      <link>http://localhost:45845/why-finding-love-feels-harder-than-ever/</link>
+      <link>http://localhost:45447/why-finding-love-feels-harder-than-ever/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/why-finding-love-feels-harder-than-ever/</guid>
+      <guid>http://localhost:45447/why-finding-love-feels-harder-than-ever/</guid>
       <description>Negative take: If you hate being single just try dating today. You&amp;rsquo;ll enjoy being single much more.
 Positive take: Would you rather be alone or with a woman who tests you constantly? She tests you to feel your power, not your weakness.
 Conclusion: Date a woman that represents what you would want your daughter to be like.
 Spotify:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
     </item>
     
     <item>
       <title>The anxious/avoidant deathtrap</title>
-      <link>http://localhost:45845/the-anxious-avoidant-deathtrap/</link>
+      <link>http://localhost:45447/the-anxious-avoidant-deathtrap/</link>
       <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/the-anxious-avoidant-deathtrap/</guid>
+      <guid>http://localhost:45447/the-anxious-avoidant-deathtrap/</guid>
       <description>These threat-models are recognizable and relatable. You need to identify your patterns, and that might take some time.. Either way, the most important takeaway is, as always: Emotional resilience.
 Spotify:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
     </item>
     
     <item>
       <title>Don&#39;t do what you don&#39;t want to do</title>
-      <link>http://localhost:45845/dont-do-what-you-dont-want-to-do/</link>
+      <link>http://localhost:45447/dont-do-what-you-dont-want-to-do/</link>
       <pubDate>Thu, 22 May 2025 23:37:49 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/dont-do-what-you-dont-want-to-do/</guid>
+      <guid>http://localhost:45447/dont-do-what-you-dont-want-to-do/</guid>
       <description>You do not need a f*cking charger 📴</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/dont-do-what-you-dont-want-to-do/featured-doing.jpg" />
     </item>
     
     <item>
       <title>The dude in the red dress</title>
-      <link>http://localhost:45845/the-dude-in-the-red-dress/</link>
+      <link>http://localhost:45447/the-dude-in-the-red-dress/</link>
       <pubDate>Fri, 02 May 2025 19:43:18 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/the-dude-in-the-red-dress/</guid>
+      <guid>http://localhost:45447/the-dude-in-the-red-dress/</guid>
       <description>&amp;ldquo;IT&amp;rsquo;S MA&amp;rsquo;AM !!!&amp;rdquo;
 {{ template &amp;ldquo;_internal/disqus.html&amp;rdquo; . }}</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/the-dude-in-the-red-dress/featured-woke.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/the-dude-in-the-red-dress/featured-woke.jpg" />
     </item>
     
     <item>
       <title>Vestens undergang</title>
-      <link>http://localhost:45845/index.no/</link>
+      <link>http://localhost:45447/index.no/</link>
       <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/index.no/</guid>
+      <guid>http://localhost:45447/index.no/</guid>
       <description> </description>
       
     </item>
     
     <item>
       <title>Enslaved by the UFC</title>
-      <link>http://localhost:45845/enslaved-by-the-ufc/</link>
+      <link>http://localhost:45447/enslaved-by-the-ufc/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/enslaved-by-the-ufc/</guid>
+      <guid>http://localhost:45447/enslaved-by-the-ufc/</guid>
       <description>Goatis (sv3rige) has solid nutritional and health advice, although his style is not for the soft-hearted snowflakes. Either way, his British accent imitations are the funniest 😂</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/enslaved-by-the-ufc/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/enslaved-by-the-ufc/featured.jpg" />
     </item>
     
     <item>
       <title>The real reason you can&#39;t change</title>
-      <link>http://localhost:45845/the-real-reason-you-cant-change/</link>
+      <link>http://localhost:45447/the-real-reason-you-cant-change/</link>
       <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/the-real-reason-you-cant-change/</guid>
+      <guid>http://localhost:45447/the-real-reason-you-cant-change/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/the-real-reason-you-cant-change/featured-k.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/the-real-reason-you-cant-change/featured-k.jpg" />
     </item>
     
     <item>
       <title>The prosecution of Roger Ver</title>
-      <link>http://localhost:45845/the-prosecution-of-roger-ver/</link>
+      <link>http://localhost:45447/the-prosecution-of-roger-ver/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/the-prosecution-of-roger-ver/</guid>
+      <guid>http://localhost:45447/the-prosecution-of-roger-ver/</guid>
       <description>*They call him “Bitcoin Jesus,” though he despises the nickname. His real name is Roger Ver. At any moment, Roger could be arrested for alleged tax evasion and mail fraud. But anyone familiar with his case knows the truth: Roger’s only “crime” was being the very first investor and passionate advocate for Bitcoin. For that, he faces 109 years in federal prison.
 As devastating as this is for Roger, this case is less about him and more about you.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/the-prosecution-of-roger-ver/featured-roger.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/the-prosecution-of-roger-ver/featured-roger.jpg" />
     </item>
     
     <item>
       <title>Be like water</title>
-      <link>http://localhost:45845/be-like-water/</link>
+      <link>http://localhost:45447/be-like-water/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/be-like-water/</guid>
+      <guid>http://localhost:45447/be-like-water/</guid>
       <description>A short guide on how to navigate the waves of life 🌊</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/be-like-water/featured-water.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/be-like-water/featured-water.jpg" />
     </item>
     
     <item>
       <title>Bitcoin is an embarrassment</title>
-      <link>http://localhost:45845/bitcoin-is-an-embarrassment/</link>
+      <link>http://localhost:45447/bitcoin-is-an-embarrassment/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45845/bitcoin-is-an-embarrassment/</guid>
+      <guid>http://localhost:45447/bitcoin-is-an-embarrassment/</guid>
       <description>I’d also feel embarrassed to promote Bitcoin nowadays. What we’re seeing is just the NGUC (Number Go Up Crowd) pumping their bags, while real P2P freedom money like Monero and Zano actually deliver on the original promise.
 At what price will Bitcoin change the world? The endgame was supposed to be creating a new economy, not just trading back into fiat. This is what selling your crypto-anarchist soul looks like.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
     </item>
     
   </channel>
