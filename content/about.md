@@ -15,7 +15,7 @@ I like to explore the balance between modern life and our ancient connection to 
 
 I look for complementary patterns in nature and in human relationships. Yin and yang, masculine and feminine, structure and flow.
 
-Music is one of my ways of tuning into the world and other humans. I share songs through [Deichman music blog](https://musikk.deichman.no/) (in Norwegian), and my playlists are available [here](https://open.spotify.com/user/jujudario).
+Music is one of my ways of tuning into the world and other humans. I share songs through [Deichman music blog](https://musikk.deichman.no/) (in Norwegian), and my playlists are available [here](https://open.spotify.com/user/jujudario). I've also spent some lifetimes listening to podcasts, check out the best shows [here](https://open.spotify.com/playlist/2zVbDT1D2MJFRNU6Po2blC).
 
 I have been working as a [kambo practitioner](https://iakp.org/user/637/) 🐸 since 2017, and at [Deichman](https://deichman.no/ansatte/149d59f3-c3ef-431f-9dff-da53e9d2b948) 📚 since 2022. But my most important job is being a dad. Nowadays she is drawing [cartoons](https://juju.casa/tegneserier-luna).
 
