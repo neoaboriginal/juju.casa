@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bird on </title>
-    <link>http://localhost:1313/tags/bird/</link>
+    <link>http://localhost:45845/tags/bird/</link>
     <description>Recent content in Bird on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 25 Dec 2024 17:40:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/bird/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Dec 2024 17:40:15 +0200</lastBuildDate><atom:link href="http://localhost:45845/tags/bird/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Eating babies</title>
-      <link>http://localhost:1313/eating-babies/</link>
+      <link>http://localhost:45845/eating-babies/</link>
       <pubDate>Wed, 25 Dec 2024 17:40:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/eating-babies/</guid>
+      <guid>http://localhost:45845/eating-babies/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eating-babies/featured-birds.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/eating-babies/featured-birds.jpg" />
     </item>
     
   </channel>

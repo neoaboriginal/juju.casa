@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weird on </title>
-    <link>http://localhost:1313/tags/weird/</link>
+    <link>http://localhost:45845/tags/weird/</link>
     <description>Recent content in Weird on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Tue, 01 Apr 2025 00:04:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/weird/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 00:04:40 +0200</lastBuildDate><atom:link href="http://localhost:45845/tags/weird/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stand out in all your weirdness</title>
-      <link>http://localhost:1313/stand-out-in-all-your-weirdness/</link>
+      <link>http://localhost:45845/stand-out-in-all-your-weirdness/</link>
       <pubDate>Tue, 01 Apr 2025 00:04:40 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/stand-out-in-all-your-weirdness/</guid>
+      <guid>http://localhost:45845/stand-out-in-all-your-weirdness/</guid>
       <description>Your job in life is to stand out in all your weirdness, not to fit in.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/stand-out-in-all-your-weirdness/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/stand-out-in-all-your-weirdness/featured.jpg" />
     </item>
     
   </channel>

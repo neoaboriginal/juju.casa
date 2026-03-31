@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Success on </title>
-    <link>http://localhost:1313/tags/success/</link>
+    <link>http://localhost:45845/tags/success/</link>
     <description>Recent content in Success on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 19:13:14 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/success/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 19:13:14 +0200</lastBuildDate><atom:link href="http://localhost:45845/tags/success/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>If you seek..</title>
-      <link>http://localhost:1313/if-you-seek/</link>
+      <link>http://localhost:45845/if-you-seek/</link>
       <pubDate>Mon, 10 Mar 2025 19:13:14 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/if-you-seek/</guid>
+      <guid>http://localhost:45845/if-you-seek/</guid>
       <description> Original post available here If you seek success, cultivate discipline, not pleasure.
 If you seek strength, embrace struggle, not comfort.
 If you seek wealth, value creation, not consumption.
 See also: </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/if-you-seek/featured-seeking.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/if-you-seek/featured-seeking.png" />
     </item>
     
     <item>
       <title>How do you choose to suffer?</title>
-      <link>http://localhost:1313/how-do-you-choose-to-suffer/</link>
+      <link>http://localhost:45845/how-do-you-choose-to-suffer/</link>
       <pubDate>Mon, 18 Nov 2024 19:49:25 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/how-do-you-choose-to-suffer/</guid>
+      <guid>http://localhost:45845/how-do-you-choose-to-suffer/</guid>
       <description>Everybody wants what feels good.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/how-do-you-choose-to-suffer/featured-suffering.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/how-do-you-choose-to-suffer/featured-suffering.jpg" />
     </item>
     
   </channel>

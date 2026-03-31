@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on </title>
-    <link>http://localhost:1313/tags/news/</link>
+    <link>http://localhost:45845/tags/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 20:34:05 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Mar 2026 20:34:05 +0100</lastBuildDate><atom:link href="http://localhost:45845/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Racial casing</title>
-      <link>http://localhost:1313/racial-casing/</link>
+      <link>http://localhost:45845/racial-casing/</link>
       <pubDate>Thu, 26 Mar 2026 20:34:05 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/racial-casing/</guid>
+      <guid>http://localhost:45845/racial-casing/</guid>
       <description>Some things, like shame, is still reinforced by news agencies. Reminds me a lot about newspeak in 1984 .
 The media does this to divide people. pic.twitter.com/E2rqC2NZdZ
 &amp;mdash; Agorist Nexus (Brandon) (@AgoristN) April 8, 2025 </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/racial-casing/featured-casing.jpg" />
     </item>
     
     <item>
       <title>The modern world is a massive scam</title>
-      <link>http://localhost:1313/the-modern-world-is-a-massive-scam/</link>
+      <link>http://localhost:45845/the-modern-world-is-a-massive-scam/</link>
       <pubDate>Wed, 09 Jul 2025 02:42:58 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/the-modern-world-is-a-massive-scam/</guid>
+      <guid>http://localhost:45845/the-modern-world-is-a-massive-scam/</guid>
       <description>sunscreen destroys your skin
 casual sex destroys sexuality
 banks destroys wealth
@@ -39,15 +39,15 @@ veganism destroys the planet
 feminism destroys femininity
 the modern world is a massive scam
 &amp;mdash; Carnivore Aurelius ©🥩 ☀️🦙 (@AlpacaAurelius) March 10, 2025 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
     </item>
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:45845/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:45845/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science
 News is junk information
 Public school is junk education
@@ -64,7 +64,7 @@ Fluorescent lights are junk sunlight
 Modernist buildings are junk architecture
 Dating apps are junk connections
 Casual hookup is junk sex</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
   </channel>

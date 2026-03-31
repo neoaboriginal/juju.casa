@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Family on </title>
-    <link>http://localhost:1313/tags/family/</link>
+    <link>http://localhost:45845/tags/family/</link>
     <description>Recent content in Family on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sun, 21 Sep 2025 20:47:23 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Sep 2025 20:47:23 +0200</lastBuildDate><atom:link href="http://localhost:45845/tags/family/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A heart outside of your body</title>
-      <link>http://localhost:1313/a-heart-outside-of-your-body/</link>
+      <link>http://localhost:45845/a-heart-outside-of-your-body/</link>
       <pubDate>Sun, 21 Sep 2025 20:47:23 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/a-heart-outside-of-your-body/</guid>
+      <guid>http://localhost:45845/a-heart-outside-of-your-body/</guid>
       <description>Having a child is like having a heart that is outside of your body. Family units and the simple life are underrated in modern societies.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/a-heart-outside-of-your-body/featured-hearts.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/a-heart-outside-of-your-body/featured-hearts.png" />
     </item>
     
     <item>
       <title>At your funeral</title>
-      <link>http://localhost:1313/at-your-funeral/</link>
+      <link>http://localhost:45845/at-your-funeral/</link>
       <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/at-your-funeral/</guid>
+      <guid>http://localhost:45845/at-your-funeral/</guid>
       <description>Original post available here At your funeral, friends and family will argue over who gets your belongings.
 People will talk about the food and the venue.
 Your life will be summarized in 2-3 paragraphs.
@@ -34,7 +34,7 @@ Conversations will shift from your life to their lives.
 Your friends will drive away thinking about what’s next on their to-do list.
 Some people won&amp;rsquo;t be able to make it because &amp;ldquo;something came up.&amp;quot;
 And most of the people you know today won’t even be there.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/at-your-funeral/featured-funeral.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/at-your-funeral/featured-funeral.jpg" />
     </item>
     
   </channel>

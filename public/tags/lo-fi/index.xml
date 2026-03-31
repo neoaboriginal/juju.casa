@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lo-Fi on </title>
-    <link>http://localhost:1313/tags/lo-fi/</link>
+    <link>http://localhost:45845/tags/lo-fi/</link>
     <description>Recent content in Lo-Fi on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 16 Jun 2025 22:25:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/lo-fi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jun 2025 22:25:06 +0200</lastBuildDate><atom:link href="http://localhost:45845/tags/lo-fi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: Juni 2025</title>
-      <link>http://localhost:1313/ferske-spor-juni2025/</link>
+      <link>http://localhost:45845/ferske-spor-juni2025/</link>
       <pubDate>Mon, 16 Jun 2025 22:25:06 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/ferske-spor-juni2025/</guid>
+      <guid>http://localhost:45845/ferske-spor-juni2025/</guid>
       <description>Link to Deichmans musikblogg in Norwegian 🇳🇴 here .
 Kiasmos - Sisteron (Sisteron, 2025)
 Minimal, atmosferisk elektronica. Har et eterisk og kontemplerende lydbilde som bidrar til at denne sangen blir både intim og storslått. Kiasmos klarer her å levere en sang som er smått hypnotisk, med med nok påfyll av organisk varme.
 Cercle · Kiasmos - Sisteron Nym - Ten thousand smokes (False noon, 2023)
 En reise gjennom et kaleidoskop av lyd.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ferske-spor-juni2025/featured-cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45845/ferske-spor-juni2025/featured-cover.jpg" />
     </item>
     
     <item>
       <title>Ferske spor / Januar 2025</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:45845/index.no/</link>
       <pubDate>Mon, 03 Feb 2025 19:24:36 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:45845/index.no/</guid>
       <description>Link til Deichmans musikblogg her .
 SpellSpellSpell – «I wanna»
 Ikke den enkleste sangen å finne online, men hvis du har savnet å høre fra Spice Girls så kan du jo spinne denne remixen for en lo-fi-versjon med mer chill enn 90-talls-popgnål.
@@ -41,10 +41,10 @@ Hender ned for denne sangen som jeg har spilt mest siden vintersolverv. Utforske
     
     <item>
       <title>Deichman: Årets album 2024</title>
-      <link>http://localhost:1313/index.no/</link>
+      <link>http://localhost:45845/index.no/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
+      <guid>http://localhost:45845/index.no/</guid>
       <description>Link til Deichmans musikkblogg finner du her .
 Hvor vil du idag? Kanskje din hjerne trenger en transcendental hodemassasje, eller er du i det nostalgiske hjørnet? Tør du å høre på et album som kompulsivt og somatisk beveger deg? Om ikke det skulle falle i smak, så kan du alltids gi sjelen din et funky spa-gavekort? Alt dette og din årlige dose med mikronæringstoffer er her!
 La oss sparke det i gang med noen album som har satt spor det siste året:</description>
