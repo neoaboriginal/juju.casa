@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EU on </title>
-    <link>http://localhost:37513/tags/eu/</link>
+    <link>http://localhost:1313/tags/eu/</link>
     <description>Recent content in EU on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 30 Apr 2025 11:23:04 +0200</lastBuildDate><atom:link href="http://localhost:37513/tags/eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2025 11:23:04 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/eu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vestens undergang</title>
-      <link>http://localhost:37513/index.no/</link>
+      <link>http://localhost:1313/index.no/</link>
       <pubDate>Wed, 30 Apr 2025 11:23:04 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/index.no/</guid>
+      <guid>http://localhost:1313/index.no/</guid>
       <description> </description>
       
     </item>

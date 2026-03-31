@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cash on </title>
-    <link>http://localhost:37513/tags/cash/</link>
+    <link>http://localhost:1313/tags/cash/</link>
     <description>Recent content in Cash on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 14 Jan 2026 01:52:08 +0700</lastBuildDate><atom:link href="http://localhost:37513/tags/cash/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 01:52:08 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/cash/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hostility towards cash</title>
-      <link>http://localhost:37513/hostility-towards-cash/</link>
+      <link>http://localhost:1313/hostility-towards-cash/</link>
       <pubDate>Wed, 14 Jan 2026 01:52:08 +0700</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/hostility-towards-cash/</guid>
+      <guid>http://localhost:1313/hostility-towards-cash/</guid>
       <description>The hostility towards cash in Norway is astounding. Just today I tried to pay twice with cash, but was forced to pay with plastic. To accept cash for most payments in Norway is mandatory , but there is no real enforcement. Most Norwegians pay with cards or Vipps without any second thought, creating data sets for banks and financial corporations that have huge privacy implications. But when I ask to pay with crypto or goldbacks at the coffee shop, people look at me like I&amp;rsquo;m an alien.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/hostility-towards-cash/featured-cash.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hostility-towards-cash/featured-cash.jpg" />
     </item>
     
     <item>
       <title>Bitcoin&#39;s purpose</title>
-      <link>http://localhost:37513/bitcoins-purpose/</link>
+      <link>http://localhost:1313/bitcoins-purpose/</link>
       <pubDate>Thu, 08 Jan 2026 19:03:35 +0700</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/bitcoins-purpose/</guid>
+      <guid>http://localhost:1313/bitcoins-purpose/</guid>
       <description>Bitcoin as digital gold is a blasphemic statement.
 Original post available here Bitcoin’s purpose is crystal clear. Satoshi Nakamoto&amp;rsquo;s whitepaper, &amp;ldquo;Bitcoin: A Peer-to-Peer Electronic Cash System,&amp;rdquo; explicitly outlines Bitcoin as digital cash. The whitepaper discusses creating a decentralized currency for everyday transactions, not a store of value like digital gold. Read the whitepaper and see for yourself.
 1/ The title of the whitepaper itself - &amp;ldquo;Bitcoin: A Peer-to-Peer Electronic Cash System&amp;rdquo; - states the purpose directly: Bitcoin was meant to be used as cash.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/bitcoins-purpose/featured-whitepaper.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bitcoins-purpose/featured-whitepaper.jpeg" />
     </item>
     
   </channel>

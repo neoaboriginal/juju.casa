@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Censorship on </title>
-    <link>http://localhost:37513/tags/censorship/</link>
+    <link>http://localhost:1313/tags/censorship/</link>
     <description>Recent content in Censorship on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 13:20:09 +0200</lastBuildDate><atom:link href="http://localhost:37513/tags/censorship/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 13:20:09 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/censorship/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bitcoin is an embarrassment</title>
-      <link>http://localhost:37513/bitcoin-is-an-embarrassment/</link>
+      <link>http://localhost:1313/bitcoin-is-an-embarrassment/</link>
       <pubDate>Wed, 11 Dec 2024 13:20:09 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/bitcoin-is-an-embarrassment/</guid>
+      <guid>http://localhost:1313/bitcoin-is-an-embarrassment/</guid>
       <description>I’d also feel embarrassed to promote Bitcoin nowadays. What we’re seeing is just the NGUC (Number Go Up Crowd) pumping their bags, while real P2P freedom money like Monero and Zano actually deliver on the original promise.
 At what price will Bitcoin change the world? The endgame was supposed to be creating a new economy, not just trading back into fiat. This is what selling your crypto-anarchist soul looks like.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bitcoin-is-an-embarrassment/featured-hijack.jpg" />
     </item>
     
   </channel>

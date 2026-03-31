@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salt on </title>
-    <link>http://localhost:37513/tags/salt/</link>
+    <link>http://localhost:1313/tags/salt/</link>
     <description>Recent content in Salt on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 13:55:37 +0200</lastBuildDate><atom:link href="http://localhost:37513/tags/salt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 13:55:37 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/salt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Salinas de Gozo 🇲🇹</title>
-      <link>http://localhost:37513/salinas-de-gozo/</link>
+      <link>http://localhost:1313/salinas-de-gozo/</link>
       <pubDate>Wed, 01 Jan 2025 13:55:37 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/salinas-de-gozo/</guid>
+      <guid>http://localhost:1313/salinas-de-gozo/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/salinas-de-gozo/featured-salinas.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/salinas-de-gozo/featured-salinas.jpg" />
     </item>
     
   </channel>

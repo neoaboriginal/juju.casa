@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raw Milk on </title>
-    <link>http://localhost:37513/tags/raw-milk/</link>
+    <link>http://localhost:1313/tags/raw-milk/</link>
     <description>Recent content in Raw Milk on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:37513/tags/raw-milk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/raw-milk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dating standards</title>
-      <link>http://localhost:37513/dating-standards/</link>
+      <link>http://localhost:1313/dating-standards/</link>
       <pubDate>Sat, 07 Feb 2026 21:44:07 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/dating-standards/</guid>
+      <guid>http://localhost:1313/dating-standards/</guid>
       <description>Did you know women are remarkably good at settings standards for what kind of guy they would like to date? Men - not so good at this. Time to level up the game, boys. Signs to look after for finding yourself a quality woman:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/dating-standards/featured-dating.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/dating-standards/featured-dating.jpeg" />
     </item>
     
     <item>
       <title>They don&#39;t know</title>
-      <link>http://localhost:37513/they-dont-know/</link>
+      <link>http://localhost:1313/they-dont-know/</link>
       <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/they-dont-know/</guid>
+      <guid>http://localhost:1313/they-dont-know/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/they-dont-know/featured-weirdguy.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/they-dont-know/featured-weirdguy.jpg" />
     </item>
     
   </channel>

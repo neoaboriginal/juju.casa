@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autonomy on </title>
-    <link>http://localhost:37513/tags/autonomy/</link>
+    <link>http://localhost:1313/tags/autonomy/</link>
     <description>Recent content in Autonomy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 17 Dec 2025 19:51:19 +0700</lastBuildDate><atom:link href="http://localhost:37513/tags/autonomy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Dec 2025 19:51:19 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/autonomy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Risks of autonomy</title>
-      <link>http://localhost:37513/risks-of-autonomy/</link>
+      <link>http://localhost:1313/risks-of-autonomy/</link>
       <pubDate>Wed, 17 Dec 2025 19:51:19 +0700</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/risks-of-autonomy/</guid>
+      <guid>http://localhost:1313/risks-of-autonomy/</guid>
       <description>~ Antonio Escohotado</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/risks-of-autonomy/featured-escohotado.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/risks-of-autonomy/featured-escohotado.jpeg" />
     </item>
     
     <item>
       <title>Reject statism</title>
-      <link>http://localhost:37513/reject-statism/</link>
+      <link>http://localhost:1313/reject-statism/</link>
       <pubDate>Wed, 02 Apr 2025 21:59:44 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/reject-statism/</guid>
+      <guid>http://localhost:1313/reject-statism/</guid>
       <description>The world has long been governed by systems of statism—systems built on force, coercion, and the suppression of individual sovereignty. These systems present themselves as protectors of order and providers of security, yet at their core, they perpetuate violence, extortion, and control.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/reject-statism/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/reject-statism/featured.jpg" />
     </item>
     
   </channel>

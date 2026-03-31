@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hormones on </title>
-    <link>http://localhost:37513/tags/hormones/</link>
+    <link>http://localhost:1313/tags/hormones/</link>
     <description>Recent content in Hormones on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 13 Jun 2025 19:39:44 +0200</lastBuildDate><atom:link href="http://localhost:37513/tags/hormones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jun 2025 19:39:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/hormones/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Men are solar, Women are lunar</title>
-      <link>http://localhost:37513/men-are-solar-women-are-lunar/</link>
+      <link>http://localhost:1313/men-are-solar-women-are-lunar/</link>
       <pubDate>Fri, 13 Jun 2025 19:39:44 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:37513/men-are-solar-women-are-lunar/</guid>
+      <guid>http://localhost:1313/men-are-solar-women-are-lunar/</guid>
       <description>Could be an idea to respect your natural cycles.
 Original post available here Men are solar, women are lunar.
 Men have a 24 hour testosterone testosterone cycle which peaks in the morning and declines through the day.
 Women have a 28 day hormonal cycle that changes with the 28 day cycle of the moon.
 Men are meant to work hard in the morning and around lunch time and relax later in the day.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37513/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
     </item>
     
   </channel>
