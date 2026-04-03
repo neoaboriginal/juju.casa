@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Failure on </title>
-    <link>http://localhost:45447/tags/failure/</link>
+    <link>http://localhost:1313/tags/failure/</link>
     <description>Recent content in Failure on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 21 Aug 2025 01:27:05 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/failure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Aug 2025 01:27:05 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/failure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gaslightning</title>
-      <link>http://localhost:45447/gaslightning/</link>
+      <link>http://localhost:1313/gaslightning/</link>
       <pubDate>Thu, 21 Aug 2025 01:27:05 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/gaslightning/</guid>
+      <guid>http://localhost:1313/gaslightning/</guid>
       <description>It must be in your head, riiite?
 &amp;quot;Gaslightning&amp;quot; ⛽️⚡️
 When people tell you that the Bitcoin Lightning Network actually works great, and all of its numerous user experience issues are all in your head.
 &amp;mdash; Joel Valenzuela (@TheDesertLynx) October 27, 2024 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/gaslightning/featured-lightning.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gaslightning/featured-lightning.png" />
     </item>
     
   </channel>

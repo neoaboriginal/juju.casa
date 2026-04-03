@@ -2,32 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ambient on </title>
-    <link>http://localhost:45447/tags/ambient/</link>
+    <link>http://localhost:1313/tags/ambient/</link>
     <description>Recent content in Ambient on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 20 Mar 2025 00:01:25 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/ambient/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 00:01:25 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/ambient/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Ferske spor / Mars 2025</title>
-      <link>http://localhost:45447/index.no/</link>
+      <title>Ferske spor: March 2025</title>
+      <link>http://localhost:1313/ferske-spor-mars2025/</link>
       <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/index.no/</guid>
-      <description>Link til Deichmans musikkblogg her .
-Flock – «Turned skyward» Atmosfærisk låt fra albumet Flock II, et samarbeid med flere innovative musikere fra Londons eksperimentelle musikkscene. En balansert, men samtidig hypnotisk reise. Art of Tones – «A comfort zone» Groovy og oppblåsbar flytende sang fra den franske produsentet Ludovic Llorca fra albumet Unbalanced (2018). Regn med dyyyp house, jazz-funk og litt disco-påvirkning. En lugn og varm låt som setter hodet ditt i en sensorisk deprivasjonstank.</description>
-      
+      <guid>http://localhost:1313/ferske-spor-mars2025/</guid>
+      <description>Link to Deichmans music blog in Norwegian 🇳🇴 here .
+Flock – «Turned skyward» Atmospheric track from the album Flock II, a collaboration with several innovative musicians from London&amp;rsquo;s experimental music scene. A balanced but at the same time hypnotic journey.
+Art of Tones – «A comfort zone» Groovy and bouncy floating song by French producer Ludovic Llorca from the album Unbalanced (2018). Expect deeep house, jazz-funk and a little disco influence.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ferske-spor-mars2025/featured-de.jpg" />
     </item>
     
     <item>
       <title>Ferske spor / Januar 2025</title>
-      <link>http://localhost:45447/index.no/</link>
+      <link>http://localhost:1313/index.no/</link>
       <pubDate>Mon, 03 Feb 2025 19:24:36 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/index.no/</guid>
+      <guid>http://localhost:1313/index.no/</guid>
       <description>Link til Deichmans musikblogg her .
 SpellSpellSpell – «I wanna»
 Ikke den enkleste sangen å finne online, men hvis du har savnet å høre fra Spice Girls så kan du jo spinne denne remixen for en lo-fi-versjon med mer chill enn 90-talls-popgnål.
@@ -37,15 +38,15 @@ Hender ned for denne sangen som jeg har spilt mest siden vintersolverv. Utforske
     </item>
     
     <item>
-      <title>Deichman: Årets album 2024</title>
-      <link>http://localhost:45447/index.no/</link>
+      <title>Deichman: Album of the year 2024</title>
+      <link>http://localhost:1313/arets-album-2024/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/index.no/</guid>
-      <description>Link til Deichmans musikkblogg finner du her .
+      <guid>http://localhost:1313/arets-album-2024/</guid>
+      <description>Link to Deichmans music blog (in Norwegian) is available here .
 Hvor vil du idag? Kanskje din hjerne trenger en transcendental hodemassasje, eller er du i det nostalgiske hjørnet? Tør du å høre på et album som kompulsivt og somatisk beveger deg? Om ikke det skulle falle i smak, så kan du alltids gi sjelen din et funky spa-gavekort? Alt dette og din årlige dose med mikronæringstoffer er her!
 La oss sparke det i gang med noen album som har satt spor det siste året:</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/arets-album-2024/featured-arets2024.jpg" />
     </item>
     
   </channel>

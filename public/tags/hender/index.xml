@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hender on </title>
-    <link>http://localhost:45447/tags/hender/</link>
+    <link>http://localhost:1313/tags/hender/</link>
     <description>Recent content in Hender on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 28 Apr 2025 23:58:12 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/hender/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 23:58:12 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/hender/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Viktig å vaske henda</title>
-      <link>http://localhost:45447/index.no/</link>
+      <link>http://localhost:1313/index.no/</link>
       <pubDate>Mon, 28 Apr 2025 23:58:12 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/index.no/</guid>
+      <guid>http://localhost:1313/index.no/</guid>
       <description>I dagens &amp;rsquo;toxic environments&amp;rsquo; så er det en ting som er viktigere enn å vaske henda etter at du har vært på do: Å vaske henda før du går på do.</description>
       
     </item>

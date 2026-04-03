@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avoidant on </title>
-    <link>http://localhost:45447/tags/avoidant/</link>
+    <link>http://localhost:1313/tags/avoidant/</link>
     <description>Recent content in Avoidant on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 30 May 2025 19:32:07 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/avoidant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 19:32:07 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/avoidant/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The anxious/avoidant deathtrap</title>
-      <link>http://localhost:45447/the-anxious-avoidant-deathtrap/</link>
+      <link>http://localhost:1313/the-anxious-avoidant-deathtrap/</link>
       <pubDate>Fri, 30 May 2025 19:32:07 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/the-anxious-avoidant-deathtrap/</guid>
+      <guid>http://localhost:1313/the-anxious-avoidant-deathtrap/</guid>
       <description>These threat-models are recognizable and relatable. You need to identify your patterns, and that might take some time.. Either way, the most important takeaway is, as always: Emotional resilience.
 Spotify:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-anxious-avoidant-deathtrap/featured-anx-avo.jpg" />
     </item>
     
   </channel>

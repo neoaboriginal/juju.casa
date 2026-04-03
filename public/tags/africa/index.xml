@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Africa on </title>
-    <link>http://localhost:45447/tags/africa/</link>
+    <link>http://localhost:1313/tags/africa/</link>
     <description>Recent content in Africa on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 16 Oct 2025 19:24:23 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/africa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 19:24:23 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/africa/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: October 2025</title>
-      <link>http://localhost:45447/ferske-spor-october2025/</link>
+      <link>http://localhost:1313/ferske-spor-october2025/</link>
       <pubDate>Thu, 16 Oct 2025 19:24:23 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/ferske-spor-october2025/</guid>
+      <guid>http://localhost:1313/ferske-spor-october2025/</guid>
       <description>Link to Deichmans musikkblogg in Norwegian 🇳🇴 here .
 Aloha!
 A new round of gripping fresh tracks with a juju-esque filter is falling like leaves, straight into your headphones.
@@ -24,7 +24,7 @@ If you haven&amp;rsquo;t caught my recommendations here in 2025, you can pick up
 And now, for the late summer&amp;rsquo;s repeat-friendly tracks;
 Farhot - MARS (2025)
 A catchy homage to East African music with its intricate samples.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/ferske-spor-october2025/featured-spor.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ferske-spor-october2025/featured-spor.jpg" />
     </item>
     
   </channel>

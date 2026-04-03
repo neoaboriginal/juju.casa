@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrition on </title>
-    <link>http://localhost:45447/tags/nutrition/</link>
+    <link>http://localhost:1313/tags/nutrition/</link>
     <description>Recent content in Nutrition on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 07 Apr 2025 11:19:39 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Apr 2025 11:19:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Enslaved by the UFC</title>
-      <link>http://localhost:45447/enslaved-by-the-ufc/</link>
+      <link>http://localhost:1313/enslaved-by-the-ufc/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/enslaved-by-the-ufc/</guid>
+      <guid>http://localhost:1313/enslaved-by-the-ufc/</guid>
       <description>Goatis (sv3rige) has solid nutritional and health advice, although his style is not for the soft-hearted snowflakes. Either way, his British accent imitations are the funniest 😂</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/enslaved-by-the-ufc/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/enslaved-by-the-ufc/featured.jpg" />
     </item>
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:45447/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science
 News is junk information
 Public school is junk education
@@ -43,7 +43,17 @@ Fluorescent lights are junk sunlight
 Modernist buildings are junk architecture
 Dating apps are junk connections
 Casual hookup is junk sex</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+    </item>
+    
+    <item>
+      <title>Lots of food for a long time</title>
+      <link>http://localhost:1313/lots-of-food-for-a-long-time/</link>
+      <pubDate>Mon, 28 Oct 2024 17:03:01 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/lots-of-food-for-a-long-time/</guid>
+      <description>Game meat provides a lot of food for a long time, and should be a top priority if you live in Norway. Grazing animals are a miracle. Greater calorie density also means we don&amp;rsquo;t have to eat all the time, as we do if we eat plant-based. The choice is ridiculously simple if you live in Norway: All animal and local food is better than importing avocados and bananas from faraway lands.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lots-of-food-for-a-long-time/featured-autumn.jpg" />
     </item>
     
   </channel>

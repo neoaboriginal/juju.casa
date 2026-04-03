@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on </title>
-    <link>http://localhost:45447/tags/philosophy/</link>
+    <link>http://localhost:1313/tags/philosophy/</link>
     <description>Recent content in Philosophy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 11 Jan 2025 23:30:49 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jan 2025 23:30:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Be like water</title>
-      <link>http://localhost:45447/be-like-water/</link>
+      <link>http://localhost:1313/be-like-water/</link>
       <pubDate>Sat, 11 Jan 2025 23:30:49 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/be-like-water/</guid>
+      <guid>http://localhost:1313/be-like-water/</guid>
       <description>A short guide on how to navigate the waves of life 🌊</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/be-like-water/featured-water.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/be-like-water/featured-water.jpg" />
     </item>
     
     <item>
       <title>The courage to be disliked</title>
-      <link>http://localhost:45447/the-courage-to-be-disliked/</link>
+      <link>http://localhost:1313/the-courage-to-be-disliked/</link>
       <pubDate>Fri, 15 Nov 2024 14:14:27 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/the-courage-to-be-disliked/</guid>
+      <guid>http://localhost:1313/the-courage-to-be-disliked/</guid>
       <description>Tittel: The courage to be disliked Forfatter: Ichiro Kishimi &amp;amp; Fumitake Koga Mer enn bare barndomstraumer: Det Freud ikke fortalte deg.
 I denne tankevekkende boka, i form av en levende sokratisk dialog mellom en filosof og en ung mann, får vi innblikk i hvordan våre tanker, følelser og handlinger påvirker våre relasjoner med andre og med oss selv. Den legger vekt på temaer som mot, traumer, ansvar, verdier – og hvordan vi kan bruke disse prinsippene til å leve et mer meningfylt liv.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/the-courage-to-be-disliked/featured-couragebook.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-courage-to-be-disliked/featured-couragebook.jpg" />
     </item>
     
   </channel>

@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on </title>
-    <link>http://localhost:45447/tags/people/</link>
+    <link>http://localhost:1313/tags/people/</link>
     <description>Recent content in People on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 05 Jul 2025 21:27:05 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/people/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jul 2025 21:27:05 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/people/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mugshots of anti-vaxxers</title>
-      <link>http://localhost:45447/anti-vaxx-gallery/</link>
+      <link>http://localhost:1313/anti-vaxx-gallery/</link>
       <pubDate>Sat, 05 Jul 2025 21:27:05 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/anti-vaxx-gallery/</guid>
+      <guid>http://localhost:1313/anti-vaxx-gallery/</guid>
       <description>Images of those craaaazy anti-vaxxers, i.e. people like you and me.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/anti-vaxx-gallery/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/anti-vaxx-gallery/featured.jpg" />
     </item>
     
     <item>
       <title>Don&#39;t be realistic</title>
-      <link>http://localhost:45447/dont-be-realistic/</link>
+      <link>http://localhost:1313/dont-be-realistic/</link>
       <pubDate>Sun, 16 Mar 2025 22:12:59 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/dont-be-realistic/</guid>
+      <guid>http://localhost:1313/dont-be-realistic/</guid>
       <description>Stay far away from anyone who tells you to ‘be realistic’.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/dont-be-realistic/featured-realistic.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/dont-be-realistic/featured-realistic.png" />
     </item>
     
   </channel>

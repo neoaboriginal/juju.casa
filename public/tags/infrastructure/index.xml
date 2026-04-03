@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure on </title>
+    <link>http://localhost:1313/tags/infrastructure/</link>
+    <description>Recent content in Infrastructure on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
+    <lastBuildDate>Mon, 28 Oct 2024 17:03:01 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lots of food for a long time</title>
+      <link>http://localhost:1313/lots-of-food-for-a-long-time/</link>
+      <pubDate>Mon, 28 Oct 2024 17:03:01 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/lots-of-food-for-a-long-time/</guid>
+      <description>Game meat provides a lot of food for a long time, and should be a top priority if you live in Norway. Grazing animals are a miracle. Greater calorie density also means we don&amp;rsquo;t have to eat all the time, as we do if we eat plant-based. The choice is ridiculously simple if you live in Norway: All animal and local food is better than importing avocados and bananas from faraway lands.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lots-of-food-for-a-long-time/featured-autumn.jpg" />
+    </item>
+    
+  </channel>
+</rss>

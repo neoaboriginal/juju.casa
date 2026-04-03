@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laos on </title>
-    <link>http://localhost:45447/tags/laos/</link>
+    <link>http://localhost:1313/tags/laos/</link>
     <description>Recent content in Laos on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 21:21:18 +0100</lastBuildDate><atom:link href="http://localhost:45447/tags/laos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Feb 2026 21:21:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/laos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Laos 2026</title>
-      <link>http://localhost:45447/laos-2026/</link>
+      <link>http://localhost:1313/laos-2026/</link>
       <pubDate>Sun, 15 Feb 2026 21:21:18 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/laos-2026/</guid>
+      <guid>http://localhost:1313/laos-2026/</guid>
       <description>Explored Laos the last week, a country with vast caves, top-notch waterfalls and even jumped on an airy hot ait ballon ride. Don Det takes it away with the best vibe.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/laos-2026/featured-flag.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/laos-2026/featured-flag.jpg" />
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veganism on </title>
-    <link>http://localhost:45447/tags/veganism/</link>
+    <link>http://localhost:1313/tags/veganism/</link>
     <description>Recent content in Veganism on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 09 Jul 2025 02:42:58 +0200</lastBuildDate><atom:link href="http://localhost:45447/tags/veganism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 02:42:58 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/veganism/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The modern world is a massive scam</title>
-      <link>http://localhost:45447/the-modern-world-is-a-massive-scam/</link>
+      <link>http://localhost:1313/the-modern-world-is-a-massive-scam/</link>
       <pubDate>Wed, 09 Jul 2025 02:42:58 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:45447/the-modern-world-is-a-massive-scam/</guid>
+      <guid>http://localhost:1313/the-modern-world-is-a-massive-scam/</guid>
       <description>sunscreen destroys your skin
 casual sex destroys sexuality
 banks destroys wealth
@@ -27,7 +27,17 @@ veganism destroys the planet
 feminism destroys femininity
 the modern world is a massive scam
 &amp;mdash; Carnivore Aurelius ©🥩 ☀️🦙 (@AlpacaAurelius) March 10, 2025 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45447/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/the-modern-world-is-a-massive-scam/featured-scam.jpg" />
+    </item>
+    
+    <item>
+      <title>Lots of food for a long time</title>
+      <link>http://localhost:1313/lots-of-food-for-a-long-time/</link>
+      <pubDate>Mon, 28 Oct 2024 17:03:01 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:1313/lots-of-food-for-a-long-time/</guid>
+      <description>Game meat provides a lot of food for a long time, and should be a top priority if you live in Norway. Grazing animals are a miracle. Greater calorie density also means we don&amp;rsquo;t have to eat all the time, as we do if we eat plant-based. The choice is ridiculously simple if you live in Norway: All animal and local food is better than importing avocados and bananas from faraway lands.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lots-of-food-for-a-long-time/featured-autumn.jpg" />
     </item>
     
   </channel>
