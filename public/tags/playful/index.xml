@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playful on </title>
+    <link>http://localhost:42761/tags/playful/</link>
+    <description>Recent content in Playful on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
+    <lastBuildDate>Fri, 15 Aug 2025 16:51:17 +0200</lastBuildDate><atom:link href="http://localhost:42761/tags/playful/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ferske spor: August 2025</title>
+      <link>http://localhost:42761/ferske-spor-august2025/</link>
+      <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:42761/ferske-spor-august2025/</guid>
+      <description>Link til Deichmans musikkblogg her .
+Lyra Sage – «Human» (2024)
+Out of the blue, came this year&amp;rsquo;s summer hit 2025. A relatively unknown artist on Spotify has filled my droplets at all times this summer. A clear and groovy beat, with room for playfulness. Take your ear canals to new musical heights.
+Montee – «Duality» (2023)
+Now for a bit of darker stuff. This bass resonates wonderfully with a shadowy vibe.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42761/ferske-spor-august2025/featured-spor.jpg" />
+    </item>
+    
+  </channel>
+</rss>

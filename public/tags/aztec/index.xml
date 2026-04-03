@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aztec on </title>
-    <link>http://localhost:1313/tags/aztec/</link>
+    <link>http://localhost:42761/tags/aztec/</link>
     <description>Recent content in Aztec on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sun, 09 Mar 2025 11:09:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/aztec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Mar 2025 11:09:49 +0200</lastBuildDate><atom:link href="http://localhost:42761/tags/aztec/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Xochipilli in temicxoch</title>
-      <link>http://localhost:1313/xochipilli-in-temicxoch/</link>
+      <link>http://localhost:42761/xochipilli-in-temicxoch/</link>
       <pubDate>Sun, 09 Mar 2025 11:09:49 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/xochipilli-in-temicxoch/</guid>
+      <guid>http://localhost:42761/xochipilli-in-temicxoch/</guid>
       <description>Xochipilli , the Aztec god of beauty, youth, love, passion, sex, sexuality, fertility, arts, song, music, dance, painting, writing, games, playfulness, nature, vegetation, and flowers, is here depicted in a state referred to as temicxoch, or “dream flowers,” which symbolizes an entheogenic experience. This state is associated with the ingestion of psychoactive plants and fungi, such as mushrooms, tobacco, and ololiuhqui seeds. Its head is tilted up, eyes open, jaw tensed, and mouth half open, a typical expression of ecstasy.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xochipilli-in-temicxoch/featured-statue.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42761/xochipilli-in-temicxoch/featured-statue.jpg" />
     </item>
     
   </channel>

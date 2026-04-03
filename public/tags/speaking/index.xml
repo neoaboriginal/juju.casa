@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speaking on </title>
+    <link>http://localhost:42761/tags/speaking/</link>
+    <description>Recent content in Speaking on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
+    <lastBuildDate>Mon, 19 Jan 2026 16:12:09 +0200</lastBuildDate><atom:link href="http://localhost:42761/tags/speaking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The cold, precise, perfect people</title>
+      <link>http://localhost:42761/the-cold-precise-perfect-people/</link>
+      <pubDate>Mon, 19 Jan 2026 16:12:09 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:42761/the-cold-precise-perfect-people/</guid>
+      <description>~ Henry Ward Beecher</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trump on </title>
-    <link>http://localhost:1313/tags/trump/</link>
+    <link>http://localhost:42761/tags/trump/</link>
     <description>Recent content in Trump on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sun, 27 Oct 2024 18:16:59 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/trump/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Oct 2024 18:16:59 +0200</lastBuildDate><atom:link href="http://localhost:42761/tags/trump/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Are you a boobs or an ass guy?</title>
-      <link>http://localhost:1313/are-you-a-boobs-or-an-ass-guy/</link>
+      <link>http://localhost:42761/are-you-a-boobs-or-an-ass-guy/</link>
       <pubDate>Sun, 27 Oct 2024 18:16:59 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/are-you-a-boobs-or-an-ass-guy/</guid>
+      <guid>http://localhost:42761/are-you-a-boobs-or-an-ass-guy/</guid>
       <description>Rogan: “Alright, Mr. Trump, the people have been dying to know: Are you a boobs or an ass guy?”
 Trump: “Joe, that’s a tremendous question. Now, lots of people, they’re boobs people. And I respect that. Boobs are incredible. When I was president, we had the best boobs, folks.… pic.twitter.com/yRwRM5mbFY
 &amp;mdash; Carnivore Aurelius ©🥩 ☀️🦙 (@AlpacaAurelius) October 27, 2024 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/are-you-a-boobs-or-an-ass-guy/featured-joe-n-trump.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42761/are-you-a-boobs-or-an-ass-guy/featured-joe-n-trump.jpg" />
     </item>
     
   </channel>

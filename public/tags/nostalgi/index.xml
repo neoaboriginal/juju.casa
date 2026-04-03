@@ -2,28 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nostalgi on </title>
-    <link>http://localhost:1313/tags/nostalgi/</link>
+    <link>http://localhost:42761/tags/nostalgi/</link>
     <description>Recent content in Nostalgi on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 14:00:12 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/nostalgi/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Ferske spor / Juli 2025</title>
-      <link>http://localhost:1313/index.no/</link>
-      <pubDate>Fri, 04 Jul 2025 14:00:12 +0200</pubDate>
-      <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/index.no/</guid>
-      <description>Link til Deichmans musikkblogg her .
-40 Winks – Outside the box (It’s the trip, 2011)
-Sommerens revival (som egentlig betyr å bruke masse tid på å organisere spillelister), ga meg et hyggelig gjensyn med 40 winks, og det var vanskelig å ikke ha med dette trommefyrverkeriet av en sang med.
-It&amp;#39;s The Trip by 40 Winks High contrast – Derestoration [Mixtape] (2011)
-Ordet på gata er at den siste produksjonen til High Contrast er, som de sier på norsk; super-fly.</description>
-      
-    </item>
+    <atom:link href="http://localhost:42761/tags/nostalgi/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

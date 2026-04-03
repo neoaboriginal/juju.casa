@@ -2,25 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethnic on </title>
-    <link>http://localhost:1313/tags/ethnic/</link>
+    <link>http://localhost:42761/tags/ethnic/</link>
     <description>Recent content in Ethnic on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 20:34:05 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/ethnic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Mar 2026 20:34:05 +0100</lastBuildDate><atom:link href="http://localhost:42761/tags/ethnic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Racial casing</title>
-      <link>http://localhost:1313/racial-casing/</link>
+      <link>http://localhost:42761/racial-casing/</link>
       <pubDate>Thu, 26 Mar 2026 20:34:05 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/racial-casing/</guid>
+      <guid>http://localhost:42761/racial-casing/</guid>
       <description>Some things, like shame, is still reinforced by news agencies. Reminds me a lot about newspeak in 1984 .
 The media does this to divide people. pic.twitter.com/E2rqC2NZdZ
 &amp;mdash; Agorist Nexus (Brandon) (@AgoristN) April 8, 2025 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/racial-casing/featured-casing.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42761/racial-casing/featured-casing.jpg" />
+    </item>
+    
+    <item>
+      <title>Ferske spor: April 2025</title>
+      <link>http://localhost:42761/ferske-spor-april2025/</link>
+      <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:42761/ferske-spor-april2025/</guid>
+      <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
+Nesrine – «Ya Lil» A voice that oozes suggestion in a rhythmic Franco-Algerian backdrop of cellos. Warmth and sensibility, yet dynamic enough to weave the threads seamlessly until you&amp;rsquo;re left with a rather comfortable garment that you&amp;rsquo;ll want to wear again – and again.
+13th Ward Social Club, santadolora &amp;amp; Agent-X – «Chan Chan» Making a remix of such an iconic song is not a task to be taken lightly.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42761/ferske-spor-april2025/featured.jpg" />
     </item>
     
   </channel>

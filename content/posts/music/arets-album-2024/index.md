@@ -3,19 +3,19 @@ title: "Deichman: Album of the year 2024"  # Auto-generate title from filename
 date: 2024-12-27T01:08:13+02:00
 draft: false
 category: "Music" 
-tags: ["Deichman", "lo-fi", "chillout", "dance", "hiphop", "ambient", "beats", ]
+tags: ["Deichman", "lo-fi", "chillout", "dance", "hiphop", "ambient", "beats", "nostalgia", "AI", "poetry", "elevator", "dance", "confidence", ]
 ---
 
-*Link to Deichmans music blog (in Norwegian) is available [here](https://musikk.deichman.no/2024/12/27/deichman-arets-album-2024/#julian).*
+*Link to Deichmans music blog (in Norwegian 🇳🇴) is available [here](https://musikk.deichman.no/2024/12/27/deichman-arets-album-2024/#julian).*
 
-Hvor vil du idag? Kanskje din hjerne trenger en transcendental hodemassasje, eller er du i det nostalgiske hjørnet? Tør du å høre på et album som kompulsivt og somatisk beveger deg? Om ikke det skulle falle i smak, så kan du alltids gi sjelen din et funky spa-gavekort? Alt dette og din årlige dose med mikronæringstoffer er her!
+Where do you want to go today? Maybe your brain needs a transcendental head massage, or are you in the nostalgic corner? Do you dare to listen to an album that compulsively and somatically moves you? If that doesn't suit your taste, you can always give your soul a funky spa gift card? All this and your annual dose of micronutrients are here!
 
-La oss sparke det i gang med noen album som har satt spor det siste året:
+Let's kick it off with some albums that have left their mark this past year:
 
 {{< icon "music" >}} <br>
 **Headache – The head hurts but the heart knows the truth (2023)**
 
-*“Har du noen gang våknet, og lurt på hvor du er og hvorfor du er naken? Du hører nå på Headache”.* En tankevekkende reise full av dragningen mellom hode og hjerte. Det mest tiltalende med dette albumet er den til tider absurde AI genererte teksten, fordi det setter ord på mange av de motsridende følelsene og tanker som følger vår eksistens som menneske. Noe av essensen her minner litt om 90-talls klassikeren til Baz Luhrmann (Everybody’s free (to wear sunscreen) – men denne plata er mer fengende (pluss at jeg ikke er på 90 talls modus eller bruker solkrem uansett). Dette albumet er en unik opplevelse, for det absurde holder det også morsomt og underholdende. Dette albumet vil kreve din oppmerksomheten med sin eksistensielle poesi.
+*“Have you ever woken up and wondered where you are and why you’re naked? You’re listening to Headache.”* A thought-provoking journey full of the tug-of-war between your head and your heart. The most appealing thing about this album is the sometimes absurd AI-generated lyrics, because they put into words many of the conflicting feelings and thoughts that accompany our existence as humans. Some of the essence here is a bit reminiscent of the 90s classic by Baz Luhrmann (Everybody’s free (to wear sunscreen) – but this record is more catchy (plus I’m not in 90s mode or wearing sunscreen anyway). This album is a unique experience, because the absurdity also keeps it fun and entertaining. This album will demand your attention with its existential poetry.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2278769759/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/transparent=true/" seamless><a href="https://plzmakeitruins.bandcamp.com/album/the-head-hurts-but-the-heart-knows-the-truth-3">The Head Hurts but the Heart Knows the Truth by Headache</a></iframe>
 
@@ -24,7 +24,7 @@ La oss sparke det i gang med noen album som har satt spor det siste året:
 {{< icon "music" >}} <br>
 **Khruangbin – A LA SALA (2024)**
 
-Kanskje beste dagdrømmer album jeg kom over i 2024. Liker at de fortsatt holder på den globale påvirkningen med noe funk, noe soul – selv om spekteret ofte er stort og lo-fi eksperimentelt. Likte spesielt en revival av [Happy Survival](https://nigeria70.bandcamp.com/track/happy-survival) på en annen utgivelse som kom i år sammen med Childish Gambino (2024: Bando Stone and the new world). Alt i alt, holder Khruangbin ting ryddig og mykt med en luftig og minimalistisk lyd. Hvis du er DJ på en av de utallige heisene som finnes i denne byen, så kan du alltids imponere med denne på både oppturer og nedturer (Hvis du faktisk er heis-DJ, så vil jeg gjerne høre fra deg, forresten). Var vanskelig å velge låt mellom Pon Pón og May Ninth. Men vi tar nostalgien helt ut, som jo er vanlig når ett år oppsummeres.
+Perhaps the best daydream album I came across in 2024. I like that they still maintain the global influence with some funk, some soul – even though the spectrum is often large and lo-fi experimental. I especially liked a revival of [Happy Survival](https://nigeria70.bandcamp.com/track/happy-survival) on another release that came out this year with Childish Gambino (2024: _Bando Stone and the new world_). Overall, Khruangbin keeps things neat and soft with an airy and minimalist sound. If you're a DJ in one of the countless elevators in this city, you can always impress with this one on both the ups and downs (If you're actually an elevator DJ, I'd love to hear from you, by the way). It was hard to choose a song between _Pon Pón_ and _May Ninth_. But we're going all in with the nostalgia, as is usual when summing up a year.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1836174753/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/transparent=true/" seamless><a href="https://khruangbin.bandcamp.com/album/a-la-sala">A LA SALA by Khruangbin</a></iframe>
 
@@ -33,7 +33,7 @@ Kanskje beste dagdrømmer album jeg kom over i 2024. Liker at de fortsatt holder
 {{< icon "music" >}} <br>
 **Jamie xx – In waves (2024)**
 
-Okey, dette er catchy på dansegulvet. Det er også en positiv vibe på hele albumet som fyller det tomrommet i deg som savner en groovy rytme. Det er offisielt: Jamie er på en god flyt om dagen. [‘Baddy on the floor‘](https://jamiexx.bandcamp.com/track/baddy-on-the-floor-1) med vokalen/samarbeidet til Honey Dijon bygges opp til multipliserende klimakser uten hindringer, mens en annen favoritt, ‘All you children‘ (et samarbeid med en av mine favoritter; The Avalanches) blender inn disse barnestemmene som gjør den musikalske reisen resonnere med noe lekent og futuristisk. Dette albumet er en umiddelbar hoftevrikker (men husk å ta av isbroddene ved inngangen og varme opp først).
+Okay, this is catchy on the dance floor. There’s also a positive vibe throughout the album that fills that void in you that misses a groovy beat. It’s official: Jamie is on a roll these days. [‘Baddy on the floor‘](https://jamiexx.bandcamp.com/track/baddy-on-the-floor-1) featuring vocals/collaboration with Honey Dijon builds to multiplying climaxes without a hitch, while another favorite, ‘All you children‘ (a collaboration with one of my favorites; The Avalanches) blends in those children’s voices that make the musical journey resonate with something playful and futuristic. This album is an instant hip-wobbler (but remember to take off your ice picks at the entrance and warm up first).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=150871303/size=large/bgcol=333333/linkcol=2ebd35/license_id=4721/tracklist=false/transparent=true/" seamless><a href="https://jamiexx.bandcamp.com/album/in-waves">In Waves by Jamie xx</a></iframe>
 
@@ -42,13 +42,13 @@ Okey, dette er catchy på dansegulvet. Det er også en positiv vibe på hele alb
 {{< icon "music" >}} <br>
 **9th Wonder – Zion X (2024)**
 
-Helt på tampen av året, så kom det en ny utgivelse på Zion serien til 9th Wonder, og den fillerister 2024 med sine sjelssøkende beats og samples. De mykeste hip-hop instrumentaler blir tidvis avløst av hardtslående lyrikk, men det er jazz’en og soul’en som vi kjenner fra kjemper som J Dilla og Pete Rock – som gjør at du har lyst til å ligge i skje (det må nesten bli storeskje denne gangen) med Collectors Edition av dette albumet. Sett på denne når du trenger en laidback atmosfære som oser sjel og klassisk selvsikkerhet. Synes det er noen tidløse låter her, så definitivt sjekk ut THEREAINTNOWAY!!!, BABYFLOAT, JACUZZIJAM & YEAHYOUAREMINE!!!. Ingen tvil om at 9th Wonder har funnet CapsLock-tasten, og han holder virkelig ikke noe tilbake musikalsk heller.
+At the very end of the year, a new release on the Zion series from 9th Wonder came out, and it fills 2024 with its soul-searching beats and samples. The softest hip-hop instrumentals are occasionally replaced by hard-hitting lyrics, but it's the jazz and soul that we know from giants like J Dilla and Pete Rock that makes you want to lie in bed (it almost has to be a big one this time) with the Collector's Edition of this album. Put this on when you need a laidback atmosphere that oozes soul and classic confidence. Think there are some timeless songs here, so definitely check out THEREAINTNOWAY!!!, BABYFLOAT, JACUZZIJAM & YEAHYOUAREMINE!!!. There's no doubt that 9th Wonder has found the CapsLock key, and he really doesn't hold anything back musically either.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0Db0QXYNWX8BzzPNmc2Du5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ***
 
-Her er en liste over låter som tok min oppmerksomhet i år. Du finner også noen vidunderlige låter som jeg skrev om på [Ferske Spor](https://musikk.deichman.no/2024/08/03/ferske-spor-uke-31-2024/#julian) i år. Og du kan også sjekke ut min Deichman 2024 Spotify-liste [her](https://open.spotify.com/playlist/2Cr3txjduYJOX44ximPqsI?si=41baafa126e74561). Nå, avgårde til årets vitaminer:
+Here is a list of songs that caught my attention this year. You will also find some wonderful songs that I wrote about on [Ferske Spor](https://musikk.deichman.no/2024/08/03/ferske-spor-uke-31-2024/#julian) this year. And you can also check out my Deichman 2024 Spotify playlist [here](https://open.spotify.com/playlist/2Cr3txjduYJOX44ximPqsI?si=41baafa126e74561). Now, off to this year's vitamins:
 
 **Vitamin A (Ambient)**
 
