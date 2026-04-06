@@ -3,7 +3,7 @@ title: "Mugshots of anti-vaxxers"
 date: 2025-07-05T21:27:05+02:00
 draft: false
 category: "Like"  # Curated liked content
-tags: ["vaccination", "people"]
+tags: ["vaccines", "people"]
 ---
 Images of those craaaazy anti-vaxxers, i.e. people like you and me.
 

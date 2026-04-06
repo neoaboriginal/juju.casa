@@ -48,7 +48,7 @@ At the very end of the year, a new release on the Zion series from 9th Wonder ca
 
 ***
 
-Here is a list of songs that caught my attention this year. You will also find some wonderful songs that I wrote about on [Ferske Spor](https://musikk.deichman.no/2024/08/03/ferske-spor-uke-31-2024/#julian) this year. And you can also check out my Deichman 2024 Spotify playlist [here](https://open.spotify.com/playlist/2Cr3txjduYJOX44ximPqsI?si=41baafa126e74561). Now, off to this year's vitamins:
+Her er en liste over låter som tok min oppmerksomhet i år. Du finner også noen vidunderlige låter som jeg skrev om på [Ferske Spor](https://musikk.deichman.no/2024/08/03/ferske-spor-uke-31-2024/#julian) i år. Og du kan også sjekke ut min Deichman 2024 Spotify-liste [her](https://open.spotify.com/playlist/2Cr3txjduYJOX44ximPqsI?si=41baafa126e74561). Nå, avgårde til årets vitaminer:
 
 **Vitamin A (Ambient)**
 
