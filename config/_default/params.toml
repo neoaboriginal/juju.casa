@@ -140,11 +140,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-   websiteid = "c8d4f5bd-d615-493b-8f87-4eb36c13b946"
-   domain = "juju.casa"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = true
+  websiteid = "c8d4f5bd-d615-493b-8f87-4eb36c13b946"
+  dataDomains = "juju.casa"
+  enableTrackEvent = true
+  doNotTrack = true
 
 [selineAnalytics]
   # token = "1a918b9edb3e61c"
