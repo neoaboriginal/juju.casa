@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dollar on </title>
+    <link>http://localhost:43101/tags/dollar/</link>
+    <description>Recent content in Dollar on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
+    <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
+    <copyright>© 2026 Casa de JuJu</copyright>
+    <lastBuildDate>Fri, 09 Jan 2026 11:38:57 +0200</lastBuildDate><atom:link href="http://localhost:43101/tags/dollar/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sound money matters</title>
+      <link>http://localhost:43101/sound-money-matters/</link>
+      <pubDate>Fri, 09 Jan 2026 11:38:57 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:43101/sound-money-matters/</guid>
+      <description>No real surprises here, except people not wanting to switch to sound money backed by real metals.
+Goldbacks jumped 60% in 2025. Meanwhile, the dollar index dropped roughly 10%.
+This is why sound money matters. pic.twitter.com/tojFRObcA4
+&amp;mdash; Goldback (@Goldback) January 7, 2026 </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43101/sound-money-matters/featured-gbs.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on </title>
-    <link>http://localhost:44417/tags/ai/</link>
+    <link>http://localhost:43101/tags/ai/</link>
     <description>Recent content in AI on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 27 Dec 2024 01:08:13 +0200</lastBuildDate><atom:link href="http://localhost:44417/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Dec 2024 01:08:13 +0200</lastBuildDate><atom:link href="http://localhost:43101/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Deichman: Album of the year 2024</title>
-      <link>http://localhost:44417/arets-album-2024/</link>
+      <link>http://localhost:43101/album-of-the-year-2024/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44417/arets-album-2024/</guid>
+      <guid>http://localhost:43101/album-of-the-year-2024/</guid>
       <description>Link to Deichmans music blog (in Norwegian 🇳🇴) is available here .
 Where do you want to go today? Maybe your brain needs a transcendental head massage, or are you in the nostalgic corner? Do you dare to listen to an album that compulsively and somatically moves you? If that doesn&amp;rsquo;t suit your taste, you can always give your soul a funky spa gift card? All this and your annual dose of micronutrients are here!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44417/arets-album-2024/featured-arets2024.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43101/album-of-the-year-2024/featured-arets2024.jpg" />
     </item>
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:44417/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:43101/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44417/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <guid>http://localhost:43101/a-complete-inversion-of-everything-that-made-us-human/</guid>
       <description>Scientism is junk science
 News is junk information
 Public school is junk education
@@ -44,7 +44,7 @@ Fluorescent lights are junk sunlight
 Modernist buildings are junk architecture
 Dating apps are junk connections
 Casual hookup is junk sex</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44417/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43101/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
   </channel>
