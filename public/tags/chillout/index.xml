@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chillout on </title>
-    <link>http://localhost:1313/tags/chillout/</link>
+    <link>http://localhost:38083/tags/chillout/</link>
     <description>Recent content in Chillout on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 19:24:36 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/chillout/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 19:24:36 +0200</lastBuildDate><atom:link href="http://localhost:38083/tags/chillout/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: January 2025</title>
-      <link>http://localhost:1313/ferske-spor-january2025/</link>
+      <link>http://localhost:38083/ferske-spor-january2025/</link>
       <pubDate>Mon, 03 Feb 2025 19:24:36 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/ferske-spor-january2025/</guid>
+      <guid>http://localhost:38083/ferske-spor-january2025/</guid>
       <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
 SpellSpellSpell – «I wanna»
 Not the easiest song to find online, but if you&amp;rsquo;ve missed hearing from the Spice Girls then you can spin this remix for a lo-fi version with more chill than 90s pop bangers.
 Bearcubs – «Yeah (Never know)»
 Hands down for this song that I&amp;rsquo;ve played the most since the winter solstice. Exploratory atmospheric with a hint of uncertainty?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ferske-spor-january2025/featured-DE.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38083/ferske-spor-january2025/featured-DE.jpg" />
     </item>
     
     <item>
       <title>Deichman: Album of the year 2024</title>
-      <link>http://localhost:1313/album-of-the-year-2024/</link>
+      <link>http://localhost:38083/album-of-the-year-2024/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:1313/album-of-the-year-2024/</guid>
+      <guid>http://localhost:38083/album-of-the-year-2024/</guid>
       <description>Link to Deichmans music blog (in Norwegian 🇳🇴) is available here .
 Where do you want to go today? Maybe your brain needs a transcendental head massage, or are you in the nostalgic corner? Do you dare to listen to an album that compulsively and somatically moves you? If that doesn&amp;rsquo;t suit your taste, you can always give your soul a funky spa gift card? All this and your annual dose of micronutrients are here!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/album-of-the-year-2024/featured-arets2024.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38083/album-of-the-year-2024/featured-arets2024.jpg" />
     </item>
     
   </channel>
