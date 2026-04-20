@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Insanity on </title>
-    <link>http://localhost:43101/tags/insanity/</link>
+    <link>http://localhost:1313/tags/insanity/</link>
     <description>Recent content in Insanity on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 22 Dec 2025 11:46:00 +0200</lastBuildDate><atom:link href="http://localhost:43101/tags/insanity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Dec 2025 11:46:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/insanity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Be more insane</title>
-      <link>http://localhost:43101/be-more-insane/</link>
+      <link>http://localhost:1313/be-more-insane/</link>
       <pubDate>Mon, 22 Dec 2025 11:46:00 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43101/be-more-insane/</guid>
+      <guid>http://localhost:1313/be-more-insane/</guid>
       <description>The New Year has begun.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43101/be-more-insane/featured-insanity.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/be-more-insane/featured-insanity.png" />
     </item>
     
   </channel>
