@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organic on </title>
-    <link>http://localhost:38083/tags/organic/</link>
+    <link>http://localhost:1313/tags/organic/</link>
     <description>Recent content in Organic on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 16 Jun 2025 22:25:06 +0200</lastBuildDate><atom:link href="http://localhost:38083/tags/organic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jun 2025 22:25:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/organic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: June 2025</title>
-      <link>http://localhost:38083/ferske-spor-june2025/</link>
+      <link>http://localhost:1313/ferske-spor-june2025/</link>
       <pubDate>Mon, 16 Jun 2025 22:25:06 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38083/ferske-spor-june2025/</guid>
+      <guid>http://localhost:1313/ferske-spor-june2025/</guid>
       <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
 Kiasmos - Sisteron (Sisteron, 2025)
 Minimal, atmospheric electronica. Has an ethereal and contemplative soundscape that helps make this song both intimate and grand. Here, Kiasmos manages to deliver a song that is slightly hypnotic, with enough organic warmth.
 Cercle · Kiasmos - Sisteron Nym - Ten thousand smokes (False noon, 2023)
 A journey through a kaleidoscope of sound. Spacious and dreamlike song from Nym, which delivers a pure and sensual experience.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38083/ferske-spor-june2025/featured-cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ferske-spor-june2025/featured-cover.jpg" />
     </item>
     
   </channel>

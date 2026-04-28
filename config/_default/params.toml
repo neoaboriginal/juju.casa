@@ -180,12 +180,12 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   email = "mail@juju.casa"
   image = "img/rev.png"
   imageQuality = 100
-  headline = "Julian Darío Gutierrez<br>@neoaboriginal"
+  headline = "From 🇨🇴<br>Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
   bio = "From 🇨🇴<br>Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
   links = [
     { rss = "https://juju.casa/index.xml" },
     { email = "mailto:mail@juju.casa" },
     { spotify = "https://open.spotify.com/user/jujudario" },
-    { instagram = "https://instagram.com/neoaboriginal" },
+    { twitter = "https://x.com/jujudario" },
     
   ]
