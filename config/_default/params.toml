@@ -185,7 +185,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   links = [
     { rss = "https://juju.casa/index.xml" },
     { email = "mailto:mail@juju.casa" },
+    { signal = "https://signal.me/#eu/wqUKSMbwLXKjXy05nPNhh6Si0QvJCWtOcNZgKJJucA3nd9_XZwdFlpSm7-xCSVjs" },
     { spotify = "https://open.spotify.com/user/jujudario" },
-    { twitter = "https://x.com/jujudario" },
+    { x-twitter = "https://x.com/jujudario" },
     
   ]
