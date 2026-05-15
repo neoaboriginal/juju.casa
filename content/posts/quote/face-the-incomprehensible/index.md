@@ -13,7 +13,7 @@ quoteAuthor: ""  # Author of the quote
 >}}
 Coming or going,  
 Day or night,  
-You must just strive to  
+You must just strive to
 Face the incomprehensible.
 {{< /typeit >}}
 
