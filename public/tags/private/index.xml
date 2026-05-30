@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Private on </title>
-    <link>http://localhost:34055/tags/private/</link>
+    <link>http://localhost:38441/tags/private/</link>
     <description>Recent content in Private on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 28 May 2026 20:26:42 +0200</lastBuildDate><atom:link href="http://localhost:34055/tags/private/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2026 20:26:42 +0200</lastBuildDate><atom:link href="http://localhost:38441/tags/private/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Wtf is XMR?</title>
-      <link>http://localhost:34055/wtf-is-xmr/</link>
+      <link>http://localhost:38441/wtf-is-xmr/</link>
       <pubDate>Thu, 28 May 2026 20:26:42 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:34055/wtf-is-xmr/</guid>
+      <guid>http://localhost:38441/wtf-is-xmr/</guid>
       <description>So you understand the current fiat system is a trap. The alternatives are confusing, but somehow the only crypto people actually use is this thing called Monero. But whatta fuck is it?
 Check out the link below. wtf is XMR? Monero for beginners. Private digital cash, explained
 Read More </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/wtf-is-xmr/featured-front.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38441/wtf-is-xmr/featured-front.png" />
     </item>
     
   </channel>
