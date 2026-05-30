@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on </title>
-    <link>http://localhost:43783/category/</link>
+    <link>http://localhost:38255/category/</link>
     <description>Recent content in Category on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 15 May 2026 20:50:34 +0200</lastBuildDate><atom:link href="http://localhost:43783/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2026 20:26:42 +0200</lastBuildDate><atom:link href="http://localhost:38255/category/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Video</title>
-      <link>http://localhost:43783/category/video/</link>
-      <pubDate>Fri, 15 May 2026 20:50:34 +0200</pubDate>
+      <title>Bookmark</title>
+      <link>http://localhost:38255/category/bookmark/</link>
+      <pubDate>Thu, 28 May 2026 20:26:42 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/video/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Quote</title>
-      <link>http://localhost:43783/category/quote/</link>
-      <pubDate>Wed, 13 May 2026 00:07:43 +0200</pubDate>
-      <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/quote/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Note</title>
-      <link>http://localhost:43783/category/note/</link>
-      <pubDate>Thu, 09 Apr 2026 19:32:08 +0200</pubDate>
-      <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/note/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Like</title>
-      <link>http://localhost:43783/category/like/</link>
-      <pubDate>Tue, 31 Mar 2026 22:23:33 +0200</pubDate>
-      <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/like/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Repost</title>
-      <link>http://localhost:43783/category/repost/</link>
-      <pubDate>Thu, 26 Mar 2026 20:34:05 +0100</pubDate>
-      <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/repost/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Photo</title>
-      <link>http://localhost:43783/category/photo/</link>
-      <pubDate>Sun, 15 Feb 2026 21:21:18 +0100</pubDate>
-      <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/photo/</guid>
+      <guid>http://localhost:38255/category/bookmark/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://localhost:43783/category/music/</link>
-      <pubDate>Thu, 16 Oct 2025 19:24:23 +0200</pubDate>
+      <link>http://localhost:38255/category/music/</link>
+      <pubDate>Sat, 23 May 2026 19:52:41 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/music/</guid>
+      <guid>http://localhost:38255/category/music/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Bookmark</title>
-      <link>http://localhost:43783/category/bookmark/</link>
-      <pubDate>Tue, 12 Aug 2025 16:50:58 +0200</pubDate>
+      <title>Photo</title>
+      <link>http://localhost:38255/category/photo/</link>
+      <pubDate>Tue, 19 May 2026 19:46:26 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/bookmark/</guid>
+      <guid>http://localhost:38255/category/photo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://localhost:38255/category/video/</link>
+      <pubDate>Fri, 15 May 2026 20:50:34 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:38255/category/video/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quote</title>
+      <link>http://localhost:38255/category/quote/</link>
+      <pubDate>Wed, 13 May 2026 00:07:43 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:38255/category/quote/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Note</title>
+      <link>http://localhost:38255/category/note/</link>
+      <pubDate>Thu, 09 Apr 2026 19:32:08 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:38255/category/note/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Like</title>
+      <link>http://localhost:38255/category/like/</link>
+      <pubDate>Tue, 31 Mar 2026 22:23:33 +0200</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:38255/category/like/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Repost</title>
+      <link>http://localhost:38255/category/repost/</link>
+      <pubDate>Thu, 26 Mar 2026 20:34:05 +0100</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:38255/category/repost/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Read</title>
-      <link>http://localhost:43783/category/read/</link>
+      <link>http://localhost:38255/category/read/</link>
       <pubDate>Fri, 15 Nov 2024 14:14:27 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/category/read/</guid>
+      <guid>http://localhost:38255/category/read/</guid>
       <description></description>
       
     </item>

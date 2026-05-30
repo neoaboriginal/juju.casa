@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zen on </title>
-    <link>http://localhost:43783/tags/zen/</link>
+    <link>http://localhost:38255/tags/zen/</link>
     <description>Recent content in Zen on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 13 May 2026 00:07:43 +0200</lastBuildDate><atom:link href="http://localhost:43783/tags/zen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 May 2026 00:07:43 +0200</lastBuildDate><atom:link href="http://localhost:38255/tags/zen/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Face the incomprehensible</title>
-      <link>http://localhost:43783/face-the-incomprehensible/</link>
+      <link>http://localhost:38255/face-the-incomprehensible/</link>
       <pubDate>Wed, 13 May 2026 00:07:43 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:43783/face-the-incomprehensible/</guid>
+      <guid>http://localhost:38255/face-the-incomprehensible/</guid>
       <description>~ Daitō (1283–1338)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43783/face-the-incomprehensible/featured-daito.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/face-the-incomprehensible/featured-daito.jpg" />
     </item>
     
   </channel>
