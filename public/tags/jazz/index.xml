@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jazz on </title>
-    <link>http://localhost:38255/tags/jazz/</link>
+    <link>http://localhost:34055/tags/jazz/</link>
     <description>Recent content in Jazz on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 23 May 2026 19:52:41 +0200</lastBuildDate><atom:link href="http://localhost:38255/tags/jazz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 May 2026 19:52:41 +0200</lastBuildDate><atom:link href="http://localhost:34055/tags/jazz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: May 2026</title>
-      <link>http://localhost:38255/ferske-spor-may2026/</link>
+      <link>http://localhost:34055/ferske-spor-may2026/</link>
       <pubDate>Sat, 23 May 2026 19:52:41 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/ferske-spor-may2026/</guid>
+      <guid>http://localhost:34055/ferske-spor-may2026/</guid>
       <description>Link to Deichmans musikkblogg in Norwegian 🇳🇴 here .
 The summer solstice is fast approaching, so take these songs with you on your journey into the sunshine.
 Aemone – «Andalusia» (2022)
 Nice electronic house that you can take to the dance floor, barefoot of course. Ethereal and quite subtle vocal samples with clear rhythm so you can&amp;rsquo;t go wrong.
 Andalusia by Aemone 40 Winks – «40 layers» (It&amp;rsquo;s the trip, 2011)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/ferske-spor-may2026/featured-spor.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/ferske-spor-may2026/featured-spor.jpg" />
     </item>
     
     <item>
       <title>Ferske spor: August 2025</title>
-      <link>http://localhost:38255/ferske-spor-august2025/</link>
+      <link>http://localhost:34055/ferske-spor-august2025/</link>
       <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/ferske-spor-august2025/</guid>
+      <guid>http://localhost:34055/ferske-spor-august2025/</guid>
       <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
 Lyra Sage – «Human» (2024)
 Out of the blue, came this year&amp;rsquo;s summer hit 2025. A relatively unknown artist on Spotify has filled my droplets at all times this summer. A clear and groovy beat, with room for playfulness. Take your ear canals to new musical heights.
 Montee – «Duality» (2023)
 Now for a bit of darker stuff. This bass resonates wonderfully with a shadowy vibe.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/ferske-spor-august2025/featured-spor.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/ferske-spor-august2025/featured-spor.jpg" />
     </item>
     
   </channel>

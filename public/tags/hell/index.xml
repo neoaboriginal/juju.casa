@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hell on </title>
-    <link>http://localhost:38255/tags/hell/</link>
+    <link>http://localhost:34055/tags/hell/</link>
     <description>Recent content in Hell on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 19:32:08 +0200</lastBuildDate><atom:link href="http://localhost:38255/tags/hell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Apr 2026 19:32:08 +0200</lastBuildDate><atom:link href="http://localhost:34055/tags/hell/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Trigger 22</title>
-      <link>http://localhost:38255/trigger-22/</link>
+      <link>http://localhost:34055/trigger-22/</link>
       <pubDate>Thu, 09 Apr 2026 19:32:08 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/trigger-22/</guid>
+      <guid>http://localhost:34055/trigger-22/</guid>
       <description>Been listening to Trigger 22 by Ugress (2002: Resound) and found the lyrics quite interesting to revive in these ending times.
 In Norwegian:
 Toogtyve. Toogtyve. Toogtyve. Toogtyve. Her kan vi jo sitte i orkester som de siste dagers hellige, og se hele vår kjære sivilisasjon gå til hælvete! Det eneste forsvarlige stedet å leve, er jo her, i, og av; menneskenes avfall! Når man er snylter! Hæ? Når det ikke lenger er noen ideologiske dører åpne, hah!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/trigger-22/featured-resound.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/trigger-22/featured-resound.jpg" />
     </item>
     
   </channel>

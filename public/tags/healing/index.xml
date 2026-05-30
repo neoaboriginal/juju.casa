@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healing on </title>
-    <link>http://localhost:38255/tags/healing/</link>
+    <link>http://localhost:34055/tags/healing/</link>
     <description>Recent content in Healing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 15 May 2026 20:50:34 +0200</lastBuildDate><atom:link href="http://localhost:38255/tags/healing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 May 2026 20:50:34 +0200</lastBuildDate><atom:link href="http://localhost:34055/tags/healing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Healing through pain</title>
-      <link>http://localhost:38255/healing-through-pain/</link>
+      <link>http://localhost:34055/healing-through-pain/</link>
       <pubDate>Fri, 15 May 2026 20:50:34 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/healing-through-pain/</guid>
+      <guid>http://localhost:34055/healing-through-pain/</guid>
       <description>I&amp;rsquo;ve been diving more into the pain. This seems like the most challenging and rewarding path. The video reminds me of the core teaching of UroSkolen (check them out if you are in Norway)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/healing-through-pain/featured-healing.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/healing-through-pain/featured-healing.png" />
     </item>
     
     <item>
       <title>The spiritual world today is missing masculinity</title>
-      <link>http://localhost:38255/the-spiritual-world-today-is-missing-masculinity/</link>
+      <link>http://localhost:34055/the-spiritual-world-today-is-missing-masculinity/</link>
       <pubDate>Fri, 19 Dec 2025 20:04:39 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/the-spiritual-world-today-is-missing-masculinity/</guid>
+      <guid>http://localhost:34055/the-spiritual-world-today-is-missing-masculinity/</guid>
       <description>Original post available here The spiritual world today is missing masculinity.
 Traditionally, men were the spiritual anchors of their communities: shamans, sages, monks, prophets, priests. The rishis in India, the desert fathers in early Christianity, the Stoic philosophers, and indigenous medicine men. These were men who withdrew from the world not because they were weak, but because they were devoted to something higher, and from that space they brought wisdom back to the tribe.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/the-spiritual-world-today-is-missing-masculinity/featured-masculin.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/the-spiritual-world-today-is-missing-masculinity/featured-masculin.jpg" />
     </item>
     
     <item>
       <title>Luz verde</title>
-      <link>http://localhost:38255/luz-verde/</link>
+      <link>http://localhost:34055/luz-verde/</link>
       <pubDate>Sat, 03 May 2025 23:32:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/luz-verde/</guid>
+      <guid>http://localhost:34055/luz-verde/</guid>
       <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/luz-verde/featured-kit.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/luz-verde/featured-kit.jpg" />
     </item>
     
     <item>
       <title>The real reason you can&#39;t change</title>
-      <link>http://localhost:38255/the-real-reason-you-cant-change/</link>
+      <link>http://localhost:34055/the-real-reason-you-cant-change/</link>
       <pubDate>Wed, 12 Feb 2025 15:44:43 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/the-real-reason-you-cant-change/</guid>
+      <guid>http://localhost:34055/the-real-reason-you-cant-change/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/the-real-reason-you-cant-change/featured-k.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/the-real-reason-you-cant-change/featured-k.jpg" />
     </item>
     
   </channel>

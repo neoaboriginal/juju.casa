@@ -1,5 +1,5 @@
 ---
-title: "Wtf is XMR"
+title: "Wtf is XMR?"
 date: 2026-05-28T20:26:42+02:00
 draft: false
 category: "Bookmark"  # Curated links
@@ -13,4 +13,4 @@ So you understand the current fiat system is a trap. The alternatives are confus
 Check out the link below.
 {{< /alert >}}
 <br>
-{{< opengraph_preview url="https://wtfisxmr.lol/" title="wtf is XMR?" description="Monero for beginners" image="" >}}
+{{< opengraph_preview url="https://wtfisxmr.lol/" title="wtf is XMR?" description="Monero for beginners. Private digital cash, explained" image="https://github.com/neoaboriginal/juju.casa/blob/main/content/posts/bookmark/wtf-is-xmr/featured-front.png?raw=true" >}}

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nostalgia on </title>
-    <link>http://localhost:38255/tags/nostalgia/</link>
+    <link>http://localhost:34055/tags/nostalgia/</link>
     <description>Recent content in Nostalgia on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 14:00:12 +0200</lastBuildDate><atom:link href="http://localhost:38255/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 14:00:12 +0200</lastBuildDate><atom:link href="http://localhost:34055/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: July 2025</title>
-      <link>http://localhost:38255/ferske-spor-july2025/</link>
+      <link>http://localhost:34055/ferske-spor-july2025/</link>
       <pubDate>Fri, 04 Jul 2025 14:00:12 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/ferske-spor-july2025/</guid>
+      <guid>http://localhost:34055/ferske-spor-july2025/</guid>
       <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
 40 Winks – Outside the box (It’s the trip, 2011)
 This summer&amp;rsquo;s revival (which really means spending a lot of time organizing playlists) gave me a nice reunion with 40 Winks, and it was hard not to include this drum firework of a song.
 It&amp;#39;s The Trip by 40 Winks High contrast – Derestoration [Mixtape] (2011)
 Word on the street is that High Contrast&amp;rsquo;s latest production is, as they say in Norwegian; super-fly.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/ferske-spor-july2025/featured-cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/ferske-spor-july2025/featured-cover.jpg" />
     </item>
     
     <item>
       <title>Deichman: Album of the year 2024</title>
-      <link>http://localhost:38255/album-of-the-year-2024/</link>
+      <link>http://localhost:34055/album-of-the-year-2024/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:38255/album-of-the-year-2024/</guid>
+      <guid>http://localhost:34055/album-of-the-year-2024/</guid>
       <description>Link to Deichmans music blog (in Norwegian 🇳🇴) is available here .
 Where do you want to go today? Maybe your brain needs a transcendental head massage, or are you in the nostalgic corner? Do you dare to listen to an album that compulsively and somatically moves you? If that doesn&amp;rsquo;t suit your taste, you can always give your soul a funky spa gift card? All this and your annual dose of micronutrients are here!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38255/album-of-the-year-2024/featured-arets2024.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34055/album-of-the-year-2024/featured-arets2024.jpg" />
     </item>
     
   </channel>
