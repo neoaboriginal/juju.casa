@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vibes on </title>
-    <link>http://localhost:44565/tags/vibes/</link>
+    <link>http://localhost:44883/tags/vibes/</link>
     <description>Recent content in Vibes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 17 Feb 2025 11:17:17 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/vibes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Feb 2025 11:17:17 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/vibes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Spirituality packs</title>
-      <link>http://localhost:44565/spirituality-packs/</link>
+      <link>http://localhost:44883/spirituality-packs/</link>
       <pubDate>Mon, 17 Feb 2025 11:17:17 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/spirituality-packs/</guid>
-      <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/spirituality-packs/featured-shooting.jpg" />
+      <guid>http://localhost:44883/spirituality-packs/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Shooting contest meme&#34;&#xA;    width=&#34;1200&#34;&#xA;    height=&#34;1158&#34;&#xA;    src=&#34;http://localhost:44883/img/like/spirituality-packs_hu_6a985dd564d7630f.jpg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/like/spirituality-packs_hu_6a985dd564d7630f.jpg 800w, http://localhost:44883/img/like/spirituality-packs.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/like/spirituality-packs.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/spirituality-packs/featured-shooting.jpg" />
     </item>
     
   </channel>

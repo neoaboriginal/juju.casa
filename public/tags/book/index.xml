@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book on </title>
-    <link>http://localhost:44565/tags/book/</link>
+    <link>http://localhost:44883/tags/book/</link>
     <description>Recent content in Book on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 19:56:00 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 19:56:00 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/book/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Oh, so hijacked</title>
-      <link>http://localhost:44565/oh-so-hijacked/</link>
+      <link>http://localhost:44883/oh-so-hijacked/</link>
       <pubDate>Wed, 31 Dec 2025 19:56:00 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/oh-so-hijacked/</guid>
-      <description>The most important book about the fraud of bitcoin is available at Deichman Bjørvika 💫 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/oh-so-hijacked/featured-hijack.jpeg" />
+      <guid>http://localhost:44883/oh-so-hijacked/</guid>
+      <description>&lt;p&gt;The most important book about the fraud of bitcoin is available at Deichman Bjørvika 💫&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Hijacking Bitcoin&#34;&#xA;    width=&#34;1536&#34;&#xA;    height=&#34;2048&#34;&#xA;    src=&#34;http://localhost:44883/img/photo/hijacked_hu_70c350b5ba4125a1.jpeg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/photo/hijacked_hu_70c350b5ba4125a1.jpeg 800w, http://localhost:44883/img/photo/hijacked_hu_b6f022e8025bc34b.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/photo/hijacked.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/oh-so-hijacked/featured-hijack.jpeg" />
     </item>
     
   </channel>

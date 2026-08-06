@@ -2,25 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Afrobeat on </title>
-    <link>http://localhost:44565/tags/afrobeat/</link>
+    <link>http://localhost:44883/tags/afrobeat/</link>
     <description>Recent content in Afrobeat on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Thu, 20 Mar 2025 00:01:25 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/afrobeat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 00:01:25 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/afrobeat/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: March 2025</title>
-      <link>http://localhost:44565/ferske-spor-mach2025/</link>
+      <link>http://localhost:44883/ferske-spor-mach2025/</link>
       <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-mach2025/</guid>
-      <description>Link to Deichmans music blog in Norwegian 🇳🇴 here .
-Flock – «Turned skyward» Atmospheric track from the album Flock II, a collaboration with several innovative musicians from London&amp;rsquo;s experimental music scene. A balanced but at the same time hypnotic journey.
-Art of Tones – «A comfort zone» Groovy and bouncy floating song by French producer Ludovic Llorca from the album Unbalanced (2018). Expect deeep house, jazz-funk and a little disco influence.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-mach2025/featured-de.jpg" />
+      <guid>http://localhost:44883/ferske-spor-mach2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichmans music blog in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2025/03/20/ferske-spor-uke-12-2025/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt; &lt;br&gt;&#xA;&lt;a href=&#34;https://flock.bandcamp.com/track/turned-skyward&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;strong&gt;Flock – «Turned skyward»&lt;/strong&gt;&lt;/a&gt; &lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;700&#34;&#xA;    height=&#34;700&#34;&#xA;    src=&#34;http://localhost:44883/img/music/flockII.jpg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/music/flockII.jpg 800w, http://localhost:44883/img/music/flockII.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/music/flockII.jpg&#34;&gt;&lt;/figure&gt;&#xA; Atmospheric track from the album &lt;em&gt;Flock II&lt;/em&gt;, a collaboration with several innovative musicians from London&amp;rsquo;s experimental music scene. A balanced but at the same time hypnotic journey.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-mach2025/featured-de.jpg" />
     </item>
     
   </channel>

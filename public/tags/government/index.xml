@@ -2,54 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Government on </title>
-    <link>http://localhost:44565/tags/government/</link>
+    <link>http://localhost:44883/tags/government/</link>
     <description>Recent content in Government on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 12:32:54 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/government/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 12:32:54 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/government/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The government&#39;s boot</title>
-      <link>http://localhost:44565/the-governments-boot/</link>
+      <link>http://localhost:44883/the-governments-boot/</link>
       <pubDate>Wed, 11 Jun 2025 12:32:54 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/the-governments-boot/</guid>
-      <description>~ Gary Lloyd</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/the-governments-boot/featured-boot.jpeg" />
+      <guid>http://localhost:44883/the-governments-boot/</guid>
+      <description>&lt;h2 id=&#34;typeit-4a4ab8a3ff7aac835af9e5c379b62bb3&#34;&gt;&lt;/h2&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      var strings = [&#34;&#34;,&#34;When the government&#39;s boot is on your throat, whether it is a left boot or a right boot is of no consequence.&#34;,&#34;&#34;];&#xA;      &#xA;      new TypeIt(&#34;#typeit-4a4ab8a3ff7aac835af9e5c379b62bb3&#34;, {&#xA;        strings: strings,&#xA;        speed:  100 ,&#xA;        lifeLike:  true ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  true ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  false &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;~ Gary Lloyd&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/the-governments-boot/featured-boot.jpeg" />
     </item>
     
     <item>
       <title>But you work all day for money</title>
-      <link>http://localhost:44565/but-you-work-all-day-for-money/</link>
+      <link>http://localhost:44883/but-you-work-all-day-for-money/</link>
       <pubDate>Fri, 21 Mar 2025 23:49:09 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/but-you-work-all-day-for-money/</guid>
-      <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/but-you-work-all-day-for-money/featured-brain.jpg" />
+      <guid>http://localhost:44883/but-you-work-all-day-for-money/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Brainy dialogue&#34;&#xA;    width=&#34;638&#34;&#xA;    height=&#34;641&#34;&#xA;    src=&#34;http://localhost:44883/img/like/goingtosleep.jpg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/like/goingtosleep.jpg 800w, http://localhost:44883/img/like/goingtosleep.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/like/goingtosleep.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/but-you-work-all-day-for-money/featured-brain.jpg" />
     </item>
     
     <item>
       <title>The prosecution of Roger Ver</title>
-      <link>http://localhost:44565/the-prosecution-of-roger-ver/</link>
+      <link>http://localhost:44883/the-prosecution-of-roger-ver/</link>
       <pubDate>Wed, 29 Jan 2025 13:40:38 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/the-prosecution-of-roger-ver/</guid>
-      <description>*They call him “Bitcoin Jesus,” though he despises the nickname. His real name is Roger Ver. At any moment, Roger could be arrested for alleged tax evasion and mail fraud. But anyone familiar with his case knows the truth: Roger’s only “crime” was being the very first investor and passionate advocate for Bitcoin. For that, he faces 109 years in federal prison.
-As devastating as this is for Roger, this case is less about him and more about you.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/the-prosecution-of-roger-ver/featured-roger.jpg" />
+      <guid>http://localhost:44883/the-prosecution-of-roger-ver/</guid>
+      <description>&lt;p&gt;*They call him “Bitcoin Jesus,” though he despises the nickname. His real name is Roger Ver. At any moment, Roger could be arrested for alleged tax evasion and mail fraud. But anyone familiar with his case knows the truth: Roger’s only “crime” was being the very first investor and passionate advocate for Bitcoin. For that, he faces 109 years in federal prison.&lt;/p&gt;&#xA;&lt;p&gt;As devastating as this is for Roger, this case is less about him and more about you.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/the-prosecution-of-roger-ver/featured-roger.jpg" />
     </item>
     
     <item>
       <title>She kept her income</title>
-      <link>http://localhost:44565/she-kept-her-income/</link>
+      <link>http://localhost:44883/she-kept-her-income/</link>
       <pubDate>Wed, 30 Oct 2024 16:31:26 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/she-kept-her-income/</guid>
-      <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/she-kept-her-income/featured-income.jpeg" />
+      <guid>http://localhost:44883/she-kept-her-income/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Alt Text&#34;&#xA;    width=&#34;960&#34;&#xA;    height=&#34;870&#34;&#xA;    src=&#34;http://localhost:44883/img/like/keptherincome_hu_9668d96836638eda.jpeg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/like/keptherincome_hu_9668d96836638eda.jpeg 800w, http://localhost:44883/img/like/keptherincome.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/like/keptherincome.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/she-kept-her-income/featured-income.jpeg" />
     </item>
     
   </channel>

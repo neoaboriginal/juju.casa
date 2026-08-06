@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brain on </title>
-    <link>http://localhost:44565/tags/brain/</link>
+    <link>http://localhost:44883/tags/brain/</link>
     <description>Recent content in Brain on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 18:33:23 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/brain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Apr 2026 18:33:23 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/brain/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why things feel off lately</title>
-      <link>http://localhost:44565/why-things-feel-off-lately/</link>
+      <link>http://localhost:44883/why-things-feel-off-lately/</link>
       <pubDate>Mon, 20 Apr 2026 18:33:23 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/why-things-feel-off-lately/</guid>
-      <description>Action steps for dropping into the un-easiness of your life in these totally new conditions. The take-away here is to know your true nature, free from distractions.
-Something is stealing your attention, your memory… and maybe even your sense of self. And no one’s really talking about it.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/why-things-feel-off-lately/featured-amnesia.jpg" />
+      <guid>http://localhost:44883/why-things-feel-off-lately/</guid>
+      <description>&lt;p&gt;Action steps for dropping into the un-easiness of your life in these totally new conditions. The take-away here is to know your true nature, free from distractions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Something is stealing your attention, your memory… and maybe even your sense of self. And no one’s really talking about it.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/wsF3REbr-44?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/why-things-feel-off-lately/featured-amnesia.jpg" />
     </item>
     
   </channel>

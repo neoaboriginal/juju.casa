@@ -8,7 +8,7 @@ enableRobotsTXT = true
 uglyURLs = false
 
 [permalinks]
-  posts = "/:filename/" # Or use "/:sections/:filename/" depending on how nested they are
+  posts = "/:contentbasename/"
 
 [pagination]
 pagerSize = 11

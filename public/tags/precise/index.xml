@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Precise on </title>
-    <link>http://localhost:44565/tags/precise/</link>
+    <link>http://localhost:44883/tags/precise/</link>
     <description>Recent content in Precise on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 19 Jan 2026 16:12:09 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/precise/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 16:12:09 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/precise/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The cold, precise, perfect people</title>
-      <link>http://localhost:44565/the-cold-precise-perfect-people/</link>
+      <link>http://localhost:44883/the-cold-precise-perfect-people/</link>
       <pubDate>Mon, 19 Jan 2026 16:12:09 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/the-cold-precise-perfect-people/</guid>
-      <description>~ Henry Ward Beecher</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/the-cold-precise-perfect-people/featured-speakfear.png" />
+      <guid>http://localhost:44883/the-cold-precise-perfect-people/</guid>
+      <description>&lt;h2 id=&#34;typeit-192706698e5914583d6e09b40812d7a0&#34;&gt;&lt;/h2&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      var strings = [&#34;&#34;,&#34;I don’t like the cold, precise, perfect people,  who, in order not to speak wrong, never speak at all, and in order not to do wrong, never do anything.&#34;,&#34;&#34;];&#xA;      &#xA;      new TypeIt(&#34;#typeit-192706698e5914583d6e09b40812d7a0&#34;, {&#xA;        strings: strings,&#xA;        speed:  100 ,&#xA;        lifeLike:  true ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  true ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  false &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;~ Henry Ward Beecher&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/the-cold-precise-perfect-people/featured-speakfear.png" />
     </item>
     
   </channel>

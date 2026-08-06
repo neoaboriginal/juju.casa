@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luna on </title>
-    <link>http://localhost:44565/tags/luna/</link>
+    <link>http://localhost:44883/tags/luna/</link>
     <description>Recent content in Luna on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sun, 19 Jan 2025 18:48:15 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/luna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jan 2025 18:48:15 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/luna/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sol y Luna (Vinyl)</title>
-      <link>http://localhost:44565/sol-luna-clothes/</link>
+      <link>http://localhost:44883/sol-luna-clothes/</link>
       <pubDate>Sun, 19 Jan 2025 18:48:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/sol-luna-clothes/</guid>
-      <description>Sol ☀️ y Luna 🌙</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/sol-luna-clothes/featured-sweater.jpg" />
+      <guid>http://localhost:44883/sol-luna-clothes/</guid>
+      <description>&lt;p&gt;Sol ☀️ y Luna 🌙&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Laget med vinylkutter&#34;&#xA;    width=&#34;768&#34;&#xA;    height=&#34;1024&#34;&#xA;    src=&#34;http://localhost:44883/img/photo/solluna.jpg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/photo/solluna.jpg 800w, http://localhost:44883/img/photo/solluna.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/photo/solluna.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/sol-luna-clothes/featured-sweater.jpg" />
     </item>
     
     <item>
       <title>Shadow work with Luna</title>
-      <link>http://localhost:44565/shadow-work-with-luna/</link>
+      <link>http://localhost:44883/shadow-work-with-luna/</link>
       <pubDate>Sun, 08 Dec 2024 11:41:42 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/shadow-work-with-luna/</guid>
-      <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/shadow-work-with-luna/featured-shadow-work.jpg" />
+      <guid>http://localhost:44883/shadow-work-with-luna/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Shadows on the wall&#34;&#xA;    width=&#34;1365&#34;&#xA;    height=&#34;880&#34;&#xA;    src=&#34;http://localhost:44883/img/photo/shadow-work_hu_dddc6c3bfed3bc59.jpg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/photo/shadow-work_hu_dddc6c3bfed3bc59.jpg 800w, http://localhost:44883/img/photo/shadow-work_hu_b6e3049ad93e8911.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/photo/shadow-work.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/shadow-work-with-luna/featured-shadow-work.jpg" />
     </item>
     
   </channel>

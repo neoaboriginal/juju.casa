@@ -9,4 +9,4 @@ repostLink: "https://x.com/TheDesertLynx/status/1850523593761005729"  # Link to 
 ---
 It must be in your head, riiite?
 
-{{< tweet user="TheDesertLynx" id="1850523593761005729" >}}
+{{< x user="TheDesertLynx" id="1850523593761005729" >}}

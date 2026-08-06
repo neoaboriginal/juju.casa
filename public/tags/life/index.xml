@@ -2,60 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on </title>
-    <link>http://localhost:44565/tags/life/</link>
+    <link>http://localhost:44883/tags/life/</link>
     <description>Recent content in Life on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Tue, 29 Jul 2025 17:36:29 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jul 2025 17:36:29 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The proper response</title>
-      <link>http://localhost:44565/the-proper-response/</link>
+      <link>http://localhost:44883/the-proper-response/</link>
       <pubDate>Tue, 29 Jul 2025 17:36:29 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/the-proper-response/</guid>
-      <description>~ William Carlos Williams</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/the-proper-response/featured-clap.jpg" />
+      <guid>http://localhost:44883/the-proper-response/</guid>
+      <description>&lt;h2 id=&#34;typeit-e1712f75c2c6d2c61e26e0fd67300786&#34;&gt;&lt;/h2&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      var strings = [&#34;&#34;,&#34;The proper response to life is applause.&#34;,&#34;&#34;];&#xA;      &#xA;      new TypeIt(&#34;#typeit-e1712f75c2c6d2c61e26e0fd67300786&#34;, {&#xA;        strings: strings,&#xA;        speed:  100 ,&#xA;        lifeLike:  true ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  true ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  false &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;~ William Carlos Williams&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/the-proper-response/featured-clap.jpg" />
     </item>
     
     <item>
       <title>At your funeral</title>
-      <link>http://localhost:44565/at-your-funeral/</link>
+      <link>http://localhost:44883/at-your-funeral/</link>
       <pubDate>Tue, 13 May 2025 18:55:43 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/at-your-funeral/</guid>
-      <description>Original post available here At your funeral, friends and family will argue over who gets your belongings.
-People will talk about the food and the venue.
-Your life will be summarized in 2-3 paragraphs.
-Conversations will shift from your life to their lives.
-Your friends will drive away thinking about what’s next on their to-do list.
-Some people won&amp;rsquo;t be able to make it because &amp;ldquo;something came up.&amp;quot;
-And most of the people you know today won’t even be there.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/at-your-funeral/featured-funeral.jpg" />
+      <guid>http://localhost:44883/at-your-funeral/</guid>
+      <description>&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;Original post available &lt;a href=&#34;https://t.me/mindsetmachine/2305&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;At your funeral, friends and family will argue over who gets your belongings.&lt;br&gt;&lt;br&gt;People will talk about the food and the venue.&lt;br&gt;&lt;br&gt;Your life will be summarized in 2-3 paragraphs.&lt;br&gt;&lt;br&gt;Conversations will shift from your life to their lives.&lt;br&gt;&lt;br&gt;Your friends will drive away thinking about what’s next on their to-do list.&lt;br&gt;&lt;br&gt;Some people won&amp;rsquo;t be able to make it because &amp;ldquo;something came up.&amp;quot;&lt;br&gt;&lt;br&gt;And most of the people you know today won’t even be there.&lt;br&gt;&lt;br&gt;You’re gonna die.&lt;br&gt;&lt;br&gt;People will move on (in weeks not years).&lt;br&gt;&lt;br&gt;Do what you want.&lt;/em&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/at-your-funeral/featured-funeral.jpg" />
     </item>
     
     <item>
       <title>Fall in love</title>
-      <link>http://localhost:44565/fall-in-love/</link>
+      <link>http://localhost:44883/fall-in-love/</link>
       <pubDate>Tue, 29 Apr 2025 21:04:51 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/fall-in-love/</guid>
-      <description>Follow the correct order before attempting shortcuts.
-~ Frida Kahlo</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/fall-in-love/featured-frida.jpg" />
+      <guid>http://localhost:44883/fall-in-love/</guid>
+      <description>&lt;p&gt;Follow the correct order before attempting shortcuts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;typeit-02e0ca2fd08c32c06a6a58dcb1ba81b6&#34;&gt;&lt;/h2&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      var strings = [&#34;&#34;,&#34;Fall in love with yourself, with life, and then with whomever you want.&#34;,&#34;&#34;];&#xA;      &#xA;      new TypeIt(&#34;#typeit-02e0ca2fd08c32c06a6a58dcb1ba81b6&#34;, {&#xA;        strings: strings,&#xA;        speed:  100 ,&#xA;        lifeLike:  true ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  true ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  false &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;~ Frida Kahlo&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/fall-in-love/featured-frida.jpg" />
     </item>
     
     <item>
       <title>Stand out in all your weirdness</title>
-      <link>http://localhost:44565/stand-out-in-all-your-weirdness/</link>
+      <link>http://localhost:44883/stand-out-in-all-your-weirdness/</link>
       <pubDate>Tue, 01 Apr 2025 00:04:40 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/stand-out-in-all-your-weirdness/</guid>
-      <description>Your job in life is to stand out in all your weirdness, not to fit in.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/stand-out-in-all-your-weirdness/featured.jpg" />
+      <guid>http://localhost:44883/stand-out-in-all-your-weirdness/</guid>
+      <description>&lt;p&gt;Your job in life is to stand out in all your weirdness, not to fit in.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/stand-out-in-all-your-weirdness/featured-cat.jpg.png" />
     </item>
     
   </channel>

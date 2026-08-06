@@ -9,4 +9,4 @@ repostLink: ""  # Link to original post
 ---
 No real surprises here, except people not wanting to switch to sound money backed by real metals.
 
-{{< tweet user="Goldback" id="2008958233994519023" >}}
+{{< x user="Goldback" id="2008958233994519023" >}}

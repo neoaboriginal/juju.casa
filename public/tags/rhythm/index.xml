@@ -2,27 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rhythm on </title>
-    <link>http://localhost:44565/tags/rhythm/</link>
+    <link>http://localhost:44883/tags/rhythm/</link>
     <description>Recent content in Rhythm on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 23 May 2026 19:52:41 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/rhythm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 May 2026 19:52:41 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/rhythm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: May 2026</title>
-      <link>http://localhost:44565/ferske-spor-may2026/</link>
+      <link>http://localhost:44883/ferske-spor-may2026/</link>
       <pubDate>Sat, 23 May 2026 19:52:41 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-may2026/</guid>
-      <description>Link to Deichmans musikkblogg in Norwegian 🇳🇴 here .
-The summer solstice is fast approaching, so take these songs with you on your journey into the sunshine.
-Aemone – «Andalusia» (2022)
-Nice electronic house that you can take to the dance floor, barefoot of course. Ethereal and quite subtle vocal samples with clear rhythm so you can&amp;rsquo;t go wrong.
-Andalusia by Aemone 40 Winks – «40 layers» (It&amp;rsquo;s the trip, 2011)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-may2026/featured-spor.jpg" />
+      <guid>http://localhost:44883/ferske-spor-may2026/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichmans musikkblogg in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2026/05/22/ferske-spor-uke-21-2026/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The summer solstice is fast approaching, so take these songs with you on your journey into the sunshine.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;br&gt;&#xA;&lt;strong&gt;Aemone – «Andalusia»&lt;/strong&gt; (2022)&lt;br&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-may2026/featured-spor.jpg" />
     </item>
     
   </channel>

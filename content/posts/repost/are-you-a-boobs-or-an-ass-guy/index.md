@@ -7,4 +7,4 @@ tags: ["ass", "assets", "boobs", "Joe Rogan", "milk", "Trump",]
 repostAuthor: ""  # Original author
 repostLink: ""  # Link to original post
 ---
-{{< tweet user="AlpacaAurelius" id="1850534386934116403" >}}
+{{< x user="AlpacaAurelius" id="1850534386934116403" >}}

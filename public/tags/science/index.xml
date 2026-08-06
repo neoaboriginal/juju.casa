@@ -2,38 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science on </title>
-    <link>http://localhost:44565/tags/science/</link>
+    <link>http://localhost:44883/tags/science/</link>
     <description>Recent content in Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Tue, 19 Nov 2024 17:42:15 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Nov 2024 17:42:15 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/science/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:44565/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:44883/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/a-complete-inversion-of-everything-that-made-us-human/</guid>
-      <description>Scientism is junk science
-News is junk information
-Public school is junk education
-Fiat is junk money
-Doctors are junk healers
-Bureaucracy is junk governance
-Cities are junk villages
-Supermarkets are junk farms
-Religions are junk spirituality
-Television is junk storytelling
-Virtual reality is junk experience
-Celebrities are junk role models
-Fluorescent lights are junk sunlight
-Modernist buildings are junk architecture
-Dating apps are junk connections
-Casual hookup is junk sex</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <guid>http://localhost:44883/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <description>&lt;p&gt;Scientism is junk science&lt;/p&gt;&#xA;&lt;p&gt;News is junk information&lt;/p&gt;&#xA;&lt;p&gt;Public school is junk education&lt;/p&gt;&#xA;&lt;p&gt;Fiat is junk money&lt;/p&gt;&#xA;&lt;p&gt;Doctors are junk healers&lt;/p&gt;&#xA;&lt;p&gt;Bureaucracy is junk governance&lt;/p&gt;&#xA;&lt;p&gt;Cities are junk villages&lt;/p&gt;&#xA;&lt;p&gt;Supermarkets are junk farms&lt;/p&gt;&#xA;&lt;p&gt;Religions are junk spirituality&lt;/p&gt;&#xA;&lt;p&gt;Television is junk storytelling&lt;/p&gt;&#xA;&lt;p&gt;Virtual reality is junk experience&lt;/p&gt;&#xA;&lt;p&gt;Celebrities are junk role models&lt;/p&gt;&#xA;&lt;p&gt;Fluorescent lights are junk sunlight&lt;/p&gt;&#xA;&lt;p&gt;Modernist buildings are junk architecture&lt;/p&gt;&#xA;&lt;p&gt;Dating apps are junk connections&lt;/p&gt;&#xA;&lt;p&gt;Casual hookup is junk sex&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
   </channel>

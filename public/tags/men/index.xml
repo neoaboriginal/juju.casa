@@ -2,81 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Men on </title>
-    <link>http://localhost:44565/tags/men/</link>
+    <link>http://localhost:44883/tags/men/</link>
     <description>Recent content in Men on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 25 May 2026 15:47:47 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/men/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2026 15:47:47 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/men/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kampen mot uroen</title>
-      <link>http://localhost:44565/kampen-mot-uroen/</link>
+      <link>http://localhost:44883/kampen-mot-uroen/</link>
       <pubDate>Mon, 25 May 2026 15:47:47 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/kampen-mot-uroen/</guid>
-      <description>Tittel: Kampen mot uroen Forfatter: Caspar Seip &amp;amp; Bernard Böhmer Stop pulling yourself together! What happens if you face the turmoil instead?
-A brave and down-to-earth book with good pedagogical approaches, where men honestly share their stories about inner turmoil, destructive patterns and performance pressure. Through real examples, it shows how to face the turmoil with acceptance and curiosity instead of pushing it away. A bit paradoxical given the title, but therefore it hits well.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/kampen-mot-uroen/featured-cover.jpg" />
+      <guid>http://localhost:44883/kampen-mot-uroen/</guid>
+      <description>&lt;p&gt;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;&lt;strong&gt;Tittel&lt;/strong&gt;: Kampen mot uroen&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;br&gt;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;&lt;strong&gt;Forfatter&lt;/strong&gt;: Caspar Seip &amp;amp; Bernard Böhmer&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/kampen-mot-uroen/featured-cover.jpg" />
     </item>
     
     <item>
       <title>Uneducated men</title>
-      <link>http://localhost:44565/uneducated-men/</link>
+      <link>http://localhost:44883/uneducated-men/</link>
       <pubDate>Tue, 27 Jan 2026 21:02:59 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/uneducated-men/</guid>
-      <description>~ Thomas Hodgskin</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/uneducated-men/featured-uneducation.jpg" />
+      <guid>http://localhost:44883/uneducated-men/</guid>
+      <description>&lt;h2 id=&#34;typeit-045f854312b774f15457d2382ad008d2&#34;&gt;&lt;/h2&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      var strings = [&#34;&#34;,&#34;It would be better that men be uneducated than be educated by their rulers.&#34;,&#34;&#34;];&#xA;      &#xA;      new TypeIt(&#34;#typeit-045f854312b774f15457d2382ad008d2&#34;, {&#xA;        strings: strings,&#xA;        speed:  100 ,&#xA;        lifeLike:  true ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  true ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  false &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;~ Thomas Hodgskin&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/uneducated-men/featured-uneducation.jpg" />
     </item>
     
     <item>
       <title>What every woman should know</title>
-      <link>http://localhost:44565/what-every-woman-should-know/</link>
+      <link>http://localhost:44883/what-every-woman-should-know/</link>
       <pubDate>Thu, 18 Sep 2025 17:45:53 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/what-every-woman-should-know/</guid>
-      <description>To all women, with love.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/what-every-woman-should-know/featured-knowing.jpg" />
+      <guid>http://localhost:44883/what-every-woman-should-know/</guid>
+      <description>&lt;p&gt;To all women, with love.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Q3WsgZZtL50?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/what-every-woman-should-know/featured-knowing.jpg" />
     </item>
     
     <item>
       <title>Men are solar, Women are lunar</title>
-      <link>http://localhost:44565/men-are-solar-women-are-lunar/</link>
+      <link>http://localhost:44883/men-are-solar-women-are-lunar/</link>
       <pubDate>Fri, 13 Jun 2025 19:39:44 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/men-are-solar-women-are-lunar/</guid>
-      <description>Could be an idea to respect your natural cycles.
-Original post available here Men are solar, women are lunar.
-Men have a 24 hour testosterone testosterone cycle which peaks in the morning and declines through the day.
-Women have a 28 day hormonal cycle that changes with the 28 day cycle of the moon.
-Men are meant to work hard in the morning and around lunch time and relax later in the day.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
+      <guid>http://localhost:44883/men-are-solar-women-are-lunar/</guid>
+      <description>&lt;p&gt;Could be an idea to respect your natural cycles.&lt;/p&gt;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;Original post available &lt;a href=&#34;https://x.com/AlpacaAurelius/status/1890792209508655447&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Men are solar, women are lunar.&lt;/em&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/men-are-solar-women-are-lunar/featured-solar-lunar.jpg" />
     </item>
     
     <item>
       <title>Why finding love feels harder than ever</title>
-      <link>http://localhost:44565/why-finding-love-feels-harder-than-ever/</link>
+      <link>http://localhost:44883/why-finding-love-feels-harder-than-ever/</link>
       <pubDate>Tue, 10 Jun 2025 21:59:37 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/why-finding-love-feels-harder-than-ever/</guid>
-      <description>Negative take: If you hate being single just try dating today. You&amp;rsquo;ll enjoy being single much more.
-Positive take: Would you rather be alone or with a woman who tests you constantly? She tests you to feel your power, not your weakness.
-Conclusion: Date a woman that represents what you would want your daughter to be like.
-Spotify:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
+      <guid>http://localhost:44883/why-finding-love-feels-harder-than-ever/</guid>
+      <description>&lt;p&gt;Negative take: If you hate being single just try dating today. You&amp;rsquo;ll enjoy being single much more.&lt;/p&gt;&#xA;&lt;p&gt;Positive take: Would you rather be alone or with a woman who tests you constantly? She tests you to feel your power, not your weakness.&lt;/p&gt;&#xA;&lt;p&gt;Conclusion: Date a woman that represents what you would want your daughter to be like.&lt;/p&gt;&#xA;&lt;p&gt;Spotify:&lt;/p&gt;&#xA;&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/episode/0SkqmUIAd9AtBlLLgICmpR/video?utm_source=generator&#34; width=&#34;496&#34; height=&#34;279&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/why-finding-love-feels-harder-than-ever/featured-williamson.png" />
     </item>
     
     <item>
       <title>Lessons from the Sioux in how to turn a boy into a man</title>
-      <link>http://localhost:44565/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</link>
+      <link>http://localhost:44883/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</link>
       <pubDate>Sun, 03 Nov 2024 13:08:17 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</guid>
-      <description>Check out the link below. Lessons from the Sioux in How to Turn a Boy Into a Man The Indian, in his simple philosophy, was careful to avoid a centralized population, wherein lies civilization’s devil. He would not be forced to accept materialism as the basic principle of his life, but preferred to reduce existence to its simplest terms. His roving out-of-door life was more precarious, no doubt, than life reduced to a system, a mechanical routine; yet in his view it was and is infinitely happier.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/featured-indian.jpg" />
+      <guid>http://localhost:44883/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/</guid>
+      <description>&lt;p&gt;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;Check out the link below.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;br&gt;&#xA;&lt;div class=&#34;opengraph-preview flex flex-col md:flex-row border mb-1 max-w-4xl&#34;&gt;&#xA;  &lt;div class=&#34;opengraph-image-container max-w-[50%] p-0&#34;&gt;&lt;img src=&#34;https://content.artofmanliness.com/uploads/2015/09/east4.jpg&#34; alt=&#34;Lessons from the Sioux in How to Turn a Boy Into a Man&#34; class=&#34;opengraph-image w-full h-full mt-0 mb-0 object-cover&#34;&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;opengraph-content w-full p-4 space-y-2&#34;&gt;&#xA;    &lt;h3 class=&#34;opengraph-title mt-0&#34;&gt;&#xA;      &lt;a href=&#34;https://www.artofmanliness.com/character/manly-lessons/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Lessons from the Sioux in How to Turn a Boy Into a Man&lt;/a&gt;&#xA;    &lt;/h3&gt;&#xA;    &lt;p class=&#34;opengraph-description&#34;&gt;The Indian, in his simple philosophy, was careful to avoid a centralized population, wherein lies civilization’s devil. He would not be forced to accept materialism as the basic principle of his life, but preferred to reduce existence to its simplest terms. His roving out-of-door life was more precarious, no doubt, than life reduced to a system, a mechanical routine; yet in his view it was and is infinitely happier.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/lessons-from-the-sioux-in-how-to-turn-a-boy-into-a-man/featured-indian.jpg" />
     </item>
     
   </channel>

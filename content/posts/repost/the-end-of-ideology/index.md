@@ -8,4 +8,4 @@ repostAuthor: "https://x.com/SterlinLujan"  # Original author
 repostLink: "https://x.com/SterlinLujan/status/1920877589037510849"  # Link to original post
 ---
 
-{{< tweet user="SterlinLujan" id="1920877589037510849" >}}
+{{< x user="SterlinLujan" id="1920877589037510849" >}}

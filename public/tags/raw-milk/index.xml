@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raw Milk on </title>
-    <link>http://localhost:44565/tags/raw-milk/</link>
+    <link>http://localhost:44883/tags/raw-milk/</link>
     <description>Recent content in Raw Milk on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:44565/tags/raw-milk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Feb 2026 21:44:07 +0100</lastBuildDate><atom:link href="http://localhost:44883/tags/raw-milk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dating standards</title>
-      <link>http://localhost:44565/dating-standards/</link>
+      <link>http://localhost:44883/dating-standards/</link>
       <pubDate>Sat, 07 Feb 2026 21:44:07 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/dating-standards/</guid>
-      <description>Did you know women are remarkably good at settings standards for what kind of guy they would like to date? Men - not so good at this. Time to level up the game, boys. Signs to look after for finding yourself a quality woman:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/dating-standards/featured-dating.jpeg" />
+      <guid>http://localhost:44883/dating-standards/</guid>
+      <description>&lt;p&gt;Did you know women are remarkably good at settings standards for what kind of guy they would like to date? Men - not so good at this. Time to level up the game, boys. Signs to look after for finding yourself a quality woman:&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Alt Text&#34;&#xA;    width=&#34;985&#34;&#xA;    height=&#34;1200&#34;&#xA;    src=&#34;http://localhost:44883/img/like/rel_hu_37bc7ee330a47589.jpeg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/like/rel_hu_37bc7ee330a47589.jpeg 800w, http://localhost:44883/img/like/rel.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/like/rel.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/dating-standards/featured-dating.jpeg" />
     </item>
     
     <item>
       <title>They don&#39;t know</title>
-      <link>http://localhost:44565/they-dont-know/</link>
+      <link>http://localhost:44883/they-dont-know/</link>
       <pubDate>Sat, 10 May 2025 23:42:45 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/they-dont-know/</guid>
-      <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/they-dont-know/featured-weirdguy.jpg" />
+      <guid>http://localhost:44883/they-dont-know/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Alt Text&#34;&#xA;    width=&#34;816&#34;&#xA;    height=&#34;594&#34;&#xA;    src=&#34;http://localhost:44883/img/like/weirdguy_hu_dc33ffd7a9577b12.jpg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/like/weirdguy_hu_dc33ffd7a9577b12.jpg 800w, http://localhost:44883/img/like/weirdguy.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/like/weirdguy.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/they-dont-know/featured-weirdguy.jpg" />
     </item>
     
   </channel>

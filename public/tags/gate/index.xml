@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gate on </title>
-    <link>http://localhost:44565/tags/gate/</link>
+    <link>http://localhost:44883/tags/gate/</link>
     <description>Recent content in Gate on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 21:21:18 +0100</lastBuildDate><atom:link href="http://localhost:44565/tags/gate/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Feb 2026 21:21:18 +0100</lastBuildDate><atom:link href="http://localhost:44883/tags/gate/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Laos 2026</title>
-      <link>http://localhost:44565/laos-2026/</link>
+      <link>http://localhost:44883/laos-2026/</link>
       <pubDate>Sun, 15 Feb 2026 21:21:18 +0100</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/laos-2026/</guid>
-      <description>Explored Laos the last week, a country with vast caves, top-notch waterfalls and even jumped on an airy hot ait ballon ride. Don Det takes it away with the best vibe.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/laos-2026/featured-flag.jpg" />
+      <guid>http://localhost:44883/laos-2026/</guid>
+      <description>&lt;p&gt;Explored Laos the last week, a country with vast caves, top-notch waterfalls and even jumped on an airy hot ait ballon ride. Don Det takes it away with the best vibe.&lt;/p&gt;&#xA;&#xA;&#xA;  &#xA;  &#xA;  &#xA;  &#xA;  &#xA;  &#xA;  &#xA;  &#xA;  &#xA;  &#xA;  &lt;div class=&#34;width-patch&#34;&gt;&lt;/div&gt;&#xA;&lt;div id=&#34;gallery-d7d72b232d82ef2c011a9bcb2e8a86fc&#34; class=&#34;gallery&#34;&gt;&#xA;  &#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/01.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/02.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/03.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/04.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/05.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/06.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/07.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/08.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/09.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/10.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;    &lt;img src=&#34;http://localhost:44883/laos-2026/gallery/11.jpg&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;&#xA;&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/laos-2026/featured-flag.jpg" />
     </item>
     
   </channel>

@@ -2,151 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on </title>
-    <link>http://localhost:44565/category/music/</link>
+    <link>http://localhost:44883/category/music/</link>
     <description>Recent content in Music on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Sat, 23 May 2026 19:52:41 +0200</lastBuildDate><atom:link href="http://localhost:44565/category/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 May 2026 19:52:41 +0200</lastBuildDate><atom:link href="http://localhost:44883/category/music/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferske spor: May 2026</title>
-      <link>http://localhost:44565/ferske-spor-may2026/</link>
+      <link>http://localhost:44883/ferske-spor-may2026/</link>
       <pubDate>Sat, 23 May 2026 19:52:41 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-may2026/</guid>
-      <description>Link to Deichmans musikkblogg in Norwegian 🇳🇴 here .
-The summer solstice is fast approaching, so take these songs with you on your journey into the sunshine.
-Aemone – «Andalusia» (2022)
-Nice electronic house that you can take to the dance floor, barefoot of course. Ethereal and quite subtle vocal samples with clear rhythm so you can&amp;rsquo;t go wrong.
-Andalusia by Aemone 40 Winks – «40 layers» (It&amp;rsquo;s the trip, 2011)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-may2026/featured-spor.jpg" />
+      <guid>http://localhost:44883/ferske-spor-may2026/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichmans musikkblogg in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2026/05/22/ferske-spor-uke-21-2026/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The summer solstice is fast approaching, so take these songs with you on your journey into the sunshine.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;br&gt;&#xA;&lt;strong&gt;Aemone – «Andalusia»&lt;/strong&gt; (2022)&lt;br&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-may2026/featured-spor.jpg" />
+    </item>
+    
+    <item>
+      <title>Wild map test</title>
+      <link>http://localhost:44883/wild-map-test/</link>
+      <pubDate>Mon, 22 Dec 2025 16:06:01 +0700</pubDate>
+      <author>mail@juju.casa (Casa de JuJu)</author>
+      <guid>http://localhost:44883/wild-map-test/</guid>
+      <description>&lt;iframe&#xA;  width=&#34;100%&#34;&#xA;  height=&#34;350&#34;&#xA;  frameborder=&#34;0&#34;&#xA;  scrolling=&#34;no&#34;&#xA;  marginheight=&#34;0&#34;&#xA;  marginwidth=&#34;0&#34;&#xA;  src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=10.58%2C62.35%2C10.67%2C62.38&amp;layer=mapnik&amp;marker=62.3674,10.6257&#34;&#xA;  style=&#34;border: 1px solid black&#34;&gt;&#xA;&lt;/iframe&gt;</description>
+      
     </item>
     
     <item>
       <title>Ferske spor: October 2025</title>
-      <link>http://localhost:44565/ferske-spor-october2025/</link>
+      <link>http://localhost:44883/ferske-spor-october2025/</link>
       <pubDate>Thu, 16 Oct 2025 19:24:23 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-october2025/</guid>
-      <description>Link to Deichmans musikkblogg in Norwegian 🇳🇴 here .
-Aloha!
-A new round of gripping fresh tracks with a juju-esque filter is falling like leaves, straight into your headphones.
-If you haven&amp;rsquo;t caught my recommendations here in 2025, you can pick up the thread via Spotify here .
-And now, for the late summer&amp;rsquo;s repeat-friendly tracks;
-Farhot - MARS (2025)
-A catchy homage to East African music with its intricate samples.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-october2025/featured-spor.jpg" />
+      <guid>http://localhost:44883/ferske-spor-october2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichmans musikkblogg in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2025/10/16/ferske-spor-uke-42-2025/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Aloha!&lt;/p&gt;&#xA;&lt;p&gt;A new round of gripping fresh tracks with a juju-esque filter is falling like leaves, straight into your headphones.&lt;/p&gt;&#xA;&lt;p&gt;If you haven&amp;rsquo;t caught my recommendations here in 2025, you can pick up the thread via Spotify &lt;a href=&#34;https://open.spotify.com/playlist/3mnsBMNLRPfMccWTJDJtz0&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And now, for the late summer&amp;rsquo;s repeat-friendly tracks;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;br&gt;&#xA;&lt;strong&gt;Farhot - MARS (2025)&lt;/strong&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-october2025/featured-spor.jpg" />
     </item>
     
     <item>
       <title>Ferske spor: August 2025</title>
-      <link>http://localhost:44565/ferske-spor-august2025/</link>
+      <link>http://localhost:44883/ferske-spor-august2025/</link>
       <pubDate>Fri, 15 Aug 2025 16:51:17 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-august2025/</guid>
-      <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
-Lyra Sage – «Human» (2024)
-Out of the blue, came this year&amp;rsquo;s summer hit 2025. A relatively unknown artist on Spotify has filled my droplets at all times this summer. A clear and groovy beat, with room for playfulness. Take your ear canals to new musical heights.
-Montee – «Duality» (2023)
-Now for a bit of darker stuff. This bass resonates wonderfully with a shadowy vibe.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-august2025/featured-spor.jpg" />
+      <guid>http://localhost:44883/ferske-spor-august2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichman music blog in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2025/08/15/ferske-spor-uke-33-2025/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M248 8C111.1 8 0 119.1 0 256s111.1 248 248 248 248-111.1 248-248S384.9 8 248 8zm100.7 364.9c-4.2 0-6.8-1.3-10.7-3.6-62.4-37.6-135-39.2-206.7-24.5-3.9 1-9 2.6-11.9 2.6-9.7 0-15.8-7.7-15.8-15.8 0-10.3 6.1-15.2 13.6-16.8 81.9-18.1 165.6-16.5 237 26.2 6.1 3.9 9.7 7.4 9.7 16.5s-7.1 15.4-15.2 15.4zm26.9-65.6c-5.2 0-8.7-2.3-12.3-4.2-62.5-37-155.7-51.9-238.6-29.4-4.8 1.3-7.4 2.6-11.9 2.6-10.7 0-19.4-8.7-19.4-19.4s5.2-17.8 15.5-20.7c27.8-7.8 56.2-13.6 97.8-13.6 64.9 0 127.6 16.1 177 45.5 8.1 4.8 11.3 11 11.3 19.7-.1 10.8-8.5 19.5-19.4 19.5zm31-76.2c-5.2 0-8.4-1.3-12.9-3.9-71.2-42.5-198.5-52.7-280.9-29.7-3.6 1-8.1 2.6-12.9 2.6-13.2 0-23.3-10.3-23.3-23.6 0-13.6 8.4-21.3 17.4-23.9 35.2-10.3 74.6-15.2 117.5-15.2 73 0 149.5 15.2 205.4 47.8 7.8 4.5 12.9 10.7 12.9 22.6 0 13.6-11 23.3-23.2 23.3z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt; &lt;br&gt;&lt;strong&gt;Lyra Sage – «Human»&lt;/strong&gt; (2024)&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-august2025/featured-spor.jpg" />
     </item>
     
     <item>
       <title>Ferske spor: July 2025</title>
-      <link>http://localhost:44565/ferske-spor-july2025/</link>
+      <link>http://localhost:44883/ferske-spor-july2025/</link>
       <pubDate>Fri, 04 Jul 2025 14:00:12 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-july2025/</guid>
-      <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
-40 Winks – Outside the box (It’s the trip, 2011)
-This summer&amp;rsquo;s revival (which really means spending a lot of time organizing playlists) gave me a nice reunion with 40 Winks, and it was hard not to include this drum firework of a song.
-It&amp;#39;s The Trip by 40 Winks High contrast – Derestoration [Mixtape] (2011)
-Word on the street is that High Contrast&amp;rsquo;s latest production is, as they say in Norwegian; super-fly.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-july2025/featured-cover.jpg" />
+      <guid>http://localhost:44883/ferske-spor-july2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichman music blog in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2025/07/03/ferske-spor-uke-27-2025/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt; &lt;br&gt;&#xA;&lt;strong&gt;40 Winks – Outside the box&lt;/strong&gt; (&lt;em&gt;It’s the trip&lt;/em&gt;, 2011)&lt;/p&gt;&#xA;&lt;p&gt;This summer&amp;rsquo;s revival (which really means spending a lot of time organizing playlists) gave me a nice reunion with 40 Winks, and it was hard not to include this drum firework of a song.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-july2025/featured-cover.jpg" />
     </item>
     
     <item>
       <title>Ferske spor: June 2025</title>
-      <link>http://localhost:44565/ferske-spor-june2025/</link>
+      <link>http://localhost:44883/ferske-spor-june2025/</link>
       <pubDate>Mon, 16 Jun 2025 22:25:06 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-june2025/</guid>
-      <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
-Kiasmos - Sisteron (Sisteron, 2025)
-Minimal, atmospheric electronica. Has an ethereal and contemplative soundscape that helps make this song both intimate and grand. Here, Kiasmos manages to deliver a song that is slightly hypnotic, with enough organic warmth.
-Cercle · Kiasmos - Sisteron Nym - Ten thousand smokes (False noon, 2023)
-A journey through a kaleidoscope of sound. Spacious and dreamlike song from Nym, which delivers a pure and sensual experience.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-june2025/featured-cover.jpg" />
+      <guid>http://localhost:44883/ferske-spor-june2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichman music blog in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2025/06/16/ferske-spor-uke-25-2025/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M111.4 256.3l5.8 65-5.8 68.3c-.3 2.5-2.2 4.4-4.4 4.4s-4.2-1.9-4.2-4.4l-5.6-68.3 5.6-65c0-2.2 1.9-4.2 4.2-4.2 2.2 0 4.1 2 4.4 4.2zm21.4-45.6c-2.8 0-4.7 2.2-5 5l-5 105.6 5 68.3c.3 2.8 2.2 5 5 5 2.5 0 4.7-2.2 4.7-5l5.8-68.3-5.8-105.6c0-2.8-2.2-5-4.7-5zm25.5-24.1c-3.1 0-5.3 2.2-5.6 5.3l-4.4 130 4.4 67.8c.3 3.1 2.5 5.3 5.6 5.3 2.8 0 5.3-2.2 5.3-5.3l5.3-67.8-5.3-130c0-3.1-2.5-5.3-5.3-5.3zM7.2 283.2c-1.4 0-2.2 1.1-2.5 2.5L0 321.3l4.7 35c.3 1.4 1.1 2.5 2.5 2.5s2.2-1.1 2.5-2.5l5.6-35-5.6-35.6c-.3-1.4-1.1-2.5-2.5-2.5zm23.6-21.9c-1.4 0-2.5 1.1-2.5 2.5l-6.4 57.5 6.4 56.1c0 1.7 1.1 2.8 2.5 2.8s2.5-1.1 2.8-2.5l7.2-56.4-7.2-57.5c-.3-1.4-1.4-2.5-2.8-2.5zm25.3-11.4c-1.7 0-3.1 1.4-3.3 3.3L47 321.3l5.8 65.8c.3 1.7 1.7 3.1 3.3 3.1 1.7 0 3.1-1.4 3.1-3.1l6.9-65.8-6.9-68.1c0-1.9-1.4-3.3-3.1-3.3zm25.3-2.2c-1.9 0-3.6 1.4-3.6 3.6l-5.8 70 5.8 67.8c0 2.2 1.7 3.6 3.6 3.6s3.6-1.4 3.9-3.6l6.4-67.8-6.4-70c-.3-2.2-2-3.6-3.9-3.6zm241.4-110.9c-1.1-.8-2.8-1.4-4.2-1.4-2.2 0-4.2.8-5.6 1.9-1.9 1.7-3.1 4.2-3.3 6.7v.8l-3.3 176.7 1.7 32.5 1.7 31.7c.3 4.7 4.2 8.6 8.9 8.6s8.6-3.9 8.6-8.6l3.9-64.2-3.9-177.5c-.4-3-2-5.8-4.5-7.2zm-26.7 15.3c-1.4-.8-2.8-1.4-4.4-1.4s-3.1.6-4.4 1.4c-2.2 1.4-3.6 3.9-3.6 6.7l-.3 1.7-2.8 160.8s0 .3 3.1 65.6v.3c0 1.7.6 3.3 1.7 4.7 1.7 1.9 3.9 3.1 6.4 3.1 2.2 0 4.2-1.1 5.6-2.5 1.7-1.4 2.5-3.3 2.5-5.6l.3-6.7 3.1-58.6-3.3-162.8c-.3-2.8-1.7-5.3-3.9-6.7zm-111.4 22.5c-3.1 0-5.8 2.8-5.8 6.1l-4.4 140.6 4.4 67.2c.3 3.3 2.8 5.8 5.8 5.8 3.3 0 5.8-2.5 6.1-5.8l5-67.2-5-140.6c-.2-3.3-2.7-6.1-6.1-6.1zm376.7 62.8c-10.8 0-21.1 2.2-30.6 6.1-6.4-70.8-65.8-126.4-138.3-126.4-17.8 0-35 3.3-50.3 9.4-6.1 2.2-7.8 4.4-7.8 9.2v249.7c0 5 3.9 8.6 8.6 9.2h218.3c43.3 0 78.6-35 78.6-78.3.1-43.6-35.2-78.9-78.5-78.9zm-296.7-60.3c-4.2 0-7.5 3.3-7.8 7.8l-3.3 136.7 3.3 65.6c.3 4.2 3.6 7.5 7.8 7.5 4.2 0 7.5-3.3 7.5-7.5l3.9-65.6-3.9-136.7c-.3-4.5-3.3-7.8-7.5-7.8zm-53.6-7.8c-3.3 0-6.4 3.1-6.4 6.7l-3.9 145.3 3.9 66.9c.3 3.6 3.1 6.4 6.4 6.4 3.6 0 6.4-2.8 6.7-6.4l4.4-66.9-4.4-145.3c-.3-3.6-3.1-6.7-6.7-6.7zm26.7 3.4c-3.9 0-6.9 3.1-6.9 6.9L227 321.3l3.9 66.4c.3 3.9 3.1 6.9 6.9 6.9s6.9-3.1 6.9-6.9l4.2-66.4-4.2-141.7c0-3.9-3-6.9-6.9-6.9z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;br&gt;&#xA;&lt;strong&gt;Kiasmos - Sisteron&lt;/strong&gt; (&lt;em&gt;Sisteron&lt;/em&gt;, 2025)&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-june2025/featured-cover.jpg" />
     </item>
     
     <item>
       <title>Ferske spor: April 2025</title>
-      <link>http://localhost:44565/ferske-spor-april2025/</link>
+      <link>http://localhost:44883/ferske-spor-april2025/</link>
       <pubDate>Tue, 22 Apr 2025 18:52:27 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-april2025/</guid>
-      <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
-Nesrine – «Ya Lil» A voice that oozes suggestion in a rhythmic Franco-Algerian backdrop of cellos. Warmth and sensibility, yet dynamic enough to weave the threads seamlessly until you&amp;rsquo;re left with a rather comfortable garment that you&amp;rsquo;ll want to wear again – and again.
-13th Ward Social Club, santadolora &amp;amp; Agent-X – «Chan Chan» Making a remix of such an iconic song is not a task to be taken lightly.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-april2025/featured.jpg" />
+      <guid>http://localhost:44883/ferske-spor-april2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichman music blog in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2025/04/22/ferske-spor-uke-17-2025/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt; &lt;br&gt;&#xA;&lt;a href=&#34;https://nesrine.bandcamp.com/track/ya-lil&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;strong&gt;Nesrine – «Ya Lil»&lt;/strong&gt;&lt;/a&gt; &lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1200&#34;&#xA;    height=&#34;1200&#34;&#xA;    src=&#34;http://localhost:44883/img/music/kan-ya-makan_hu_be30c02f7fedf869.jpg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/music/kan-ya-makan_hu_be30c02f7fedf869.jpg 800w, http://localhost:44883/img/music/kan-ya-makan.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/music/kan-ya-makan.jpg&#34;&gt;&lt;/figure&gt;&#xA; A voice that oozes suggestion in a rhythmic Franco-Algerian backdrop of cellos. Warmth and sensibility, yet dynamic enough to weave the threads seamlessly until you&amp;rsquo;re left with a rather comfortable garment that you&amp;rsquo;ll want to wear again – and again.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-april2025/featured.jpg" />
     </item>
     
     <item>
       <title>Ferske spor: March 2025</title>
-      <link>http://localhost:44565/ferske-spor-mach2025/</link>
+      <link>http://localhost:44883/ferske-spor-mach2025/</link>
       <pubDate>Thu, 20 Mar 2025 00:01:25 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-mach2025/</guid>
-      <description>Link to Deichmans music blog in Norwegian 🇳🇴 here .
-Flock – «Turned skyward» Atmospheric track from the album Flock II, a collaboration with several innovative musicians from London&amp;rsquo;s experimental music scene. A balanced but at the same time hypnotic journey.
-Art of Tones – «A comfort zone» Groovy and bouncy floating song by French producer Ludovic Llorca from the album Unbalanced (2018). Expect deeep house, jazz-funk and a little disco influence.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-mach2025/featured-de.jpg" />
+      <guid>http://localhost:44883/ferske-spor-mach2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichmans music blog in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2025/03/20/ferske-spor-uke-12-2025/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt; &lt;br&gt;&#xA;&lt;a href=&#34;https://flock.bandcamp.com/track/turned-skyward&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;strong&gt;Flock – «Turned skyward»&lt;/strong&gt;&lt;/a&gt; &lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;700&#34;&#xA;    height=&#34;700&#34;&#xA;    src=&#34;http://localhost:44883/img/music/flockII.jpg&#34;&#xA;    srcset=&#34;http://localhost:44883/img/music/flockII.jpg 800w, http://localhost:44883/img/music/flockII.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:44883/img/music/flockII.jpg&#34;&gt;&lt;/figure&gt;&#xA; Atmospheric track from the album &lt;em&gt;Flock II&lt;/em&gt;, a collaboration with several innovative musicians from London&amp;rsquo;s experimental music scene. A balanced but at the same time hypnotic journey.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-mach2025/featured-de.jpg" />
     </item>
     
     <item>
       <title>Sticky lovesongs for Deichman</title>
-      <link>http://localhost:44565/sticky-lovesongs-for-deichman/</link>
+      <link>http://localhost:44883/sticky-lovesongs-for-deichman/</link>
       <pubDate>Fri, 14 Feb 2025 14:15:26 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/sticky-lovesongs-for-deichman/</guid>
-      <description>Sticky lovesongs for Deichman Musikkblogg (in Norwegian 🇳🇴):
-Moreno Veloso - Deusa de Amor
-Music Typewriter by Moreno Veloso The Gaylads - Joy in the morning
-Soul Beat by The Gaylads Barbara Mason - I do love you
-Spotify:
-YouTube: Smoke City - Underwater love
-Spotify:
-YouTube: </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/sticky-lovesongs-for-deichman/featured-bjork.jpg" />
+      <guid>http://localhost:44883/sticky-lovesongs-for-deichman/</guid>
+      <description>&lt;p&gt;Sticky lovesongs for &lt;a href=&#34;https://musikk.deichman.no/2025/02/13/kjaelighetssanger-til-valentinsdagen/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Deichman Musikkblogg&lt;/a&gt; (in Norwegian 🇳🇴):&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt; &lt;br&gt;&lt;strong&gt;Moreno Veloso - Deusa de Amor&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=356197968/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/artwork=small/track=551356844/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://morenoveloso.bandcamp.com/album/music-typewriter&#34;&gt;Music Typewriter by Moreno Veloso&lt;/a&gt;&lt;/iframe&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M511.1 367.1c0 44.18-42.98 80-95.1 80s-95.1-35.82-95.1-79.1c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32.01 4.898V148.1L192 224l-.0023 208.1C191.1 476.2 149 512 95.1 512S0 476.2 0 432c0-44.18 42.98-79.1 95.1-79.1c11.28 0 21.95 1.92 32 4.898V126.5c0-12.97 10.06-26.63 22.41-30.52l319.1-94.49C472.1 .6615 477.3 0 480 0c17.66 0 31.97 14.34 32 31.99L511.1 367.1z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt; &lt;br&gt;&lt;strong&gt;The Gaylads - Joy in the morning&lt;/strong&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/sticky-lovesongs-for-deichman/featured-bjork.jpg" />
     </item>
     
     <item>
       <title>Ferske spor: January 2025</title>
-      <link>http://localhost:44565/ferske-spor-january2025/</link>
+      <link>http://localhost:44883/ferske-spor-january2025/</link>
       <pubDate>Mon, 03 Feb 2025 19:24:36 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/ferske-spor-january2025/</guid>
-      <description>Link to Deichman music blog in Norwegian 🇳🇴 here .
-SpellSpellSpell – «I wanna»
-Not the easiest song to find online, but if you&amp;rsquo;ve missed hearing from the Spice Girls then you can spin this remix for a lo-fi version with more chill than 90s pop bangers.
-Bearcubs – «Yeah (Never know)»
-Hands down for this song that I&amp;rsquo;ve played the most since the winter solstice. Exploratory atmospheric with a hint of uncertainty?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/ferske-spor-january2025/featured-DE.jpg" />
+      <guid>http://localhost:44883/ferske-spor-january2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichman music blog in Norwegian 🇳🇴 &lt;a href=&#34;https://musikk.deichman.no/2025/02/02/ferske-spor-uke-5-2025/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt; &lt;br&gt;&#xA;&lt;strong&gt;SpellSpellSpell – «I wanna»&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Not the easiest song to find online, but if you&amp;rsquo;ve missed hearing from the Spice Girls then you can spin this remix for a lo-fi version with more chill than 90s pop bangers.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/ferske-spor-january2025/featured-DE.jpg" />
     </item>
     
     <item>
       <title>Deichman: Album of the year 2024</title>
-      <link>http://localhost:44565/album-of-the-year-2024/</link>
+      <link>http://localhost:44883/album-of-the-year-2024/</link>
       <pubDate>Fri, 27 Dec 2024 01:08:13 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/album-of-the-year-2024/</guid>
-      <description>Link to Deichmans music blog (in Norwegian 🇳🇴) is available here .
-Where do you want to go today? Maybe your brain needs a transcendental head massage, or are you in the nostalgic corner? Do you dare to listen to an album that compulsively and somatically moves you? If that doesn&amp;rsquo;t suit your taste, you can always give your soul a funky spa gift card? All this and your annual dose of micronutrients are here!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/album-of-the-year-2024/featured-arets2024.jpg" />
+      <guid>http://localhost:44883/album-of-the-year-2024/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Link to Deichmans music blog (in Norwegian 🇳🇴) is available &lt;a href=&#34;https://musikk.deichman.no/2024/12/27/deichman-arets-album-2024/#julian&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Where do you want to go today? Maybe your brain needs a transcendental head massage, or are you in the nostalgic corner? Do you dare to listen to an album that compulsively and somatically moves you? If that doesn&amp;rsquo;t suit your taste, you can always give your soul a funky spa gift card? All this and your annual dose of micronutrients are here!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/album-of-the-year-2024/featured-arets2024.jpg" />
     </item>
     
   </channel>

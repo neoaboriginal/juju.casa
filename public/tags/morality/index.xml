@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Morality on </title>
-    <link>http://localhost:44565/tags/morality/</link>
+    <link>http://localhost:44883/tags/morality/</link>
     <description>Recent content in Morality on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 16 May 2025 16:43:57 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/morality/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 May 2025 16:43:57 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/morality/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>At the expense of morality</title>
-      <link>http://localhost:44565/at-the-expense-of-morality/</link>
+      <link>http://localhost:44883/at-the-expense-of-morality/</link>
       <pubDate>Fri, 16 May 2025 16:43:57 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/at-the-expense-of-morality/</guid>
-      <description>~ Aaron Day</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/at-the-expense-of-morality/featured-btcmorality.jpeg" />
+      <guid>http://localhost:44883/at-the-expense-of-morality/</guid>
+      <description>&lt;h2 id=&#34;typeit-70e7b85a819e298c0136ee0452853427&#34;&gt;&lt;/h2&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      var strings = [&#34;&#34;,&#34;Investing in BTC now is like investing in Pfizer - sure, you might make some fiat but it will be at the expense of morality. &#34;,&#34;&#34;];&#xA;      &#xA;      new TypeIt(&#34;#typeit-70e7b85a819e298c0136ee0452853427&#34;, {&#xA;        strings: strings,&#xA;        speed:  100 ,&#xA;        lifeLike:  true ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  true ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  false &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;~ Aaron Day&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/at-the-expense-of-morality/featured-btcmorality.jpeg" />
     </item>
     
   </channel>

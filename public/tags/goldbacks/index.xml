@@ -2,26 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goldbacks on </title>
-    <link>http://localhost:44565/tags/goldbacks/</link>
+    <link>http://localhost:44883/tags/goldbacks/</link>
     <description>Recent content in Goldbacks on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 11:38:57 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/goldbacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jan 2026 11:38:57 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/goldbacks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sound money matters</title>
-      <link>http://localhost:44565/sound-money-matters/</link>
+      <link>http://localhost:44883/sound-money-matters/</link>
       <pubDate>Fri, 09 Jan 2026 11:38:57 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/sound-money-matters/</guid>
-      <description>No real surprises here, except people not wanting to switch to sound money backed by real metals.
-Goldbacks jumped 60% in 2025. Meanwhile, the dollar index dropped roughly 10%.
-This is why sound money matters. pic.twitter.com/tojFRObcA4
-&amp;mdash; Goldback (@Goldback) January 7, 2026 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/sound-money-matters/featured-gbs.jpeg" />
+      <guid>http://localhost:44883/sound-money-matters/</guid>
+      <description>&lt;p&gt;No real surprises here, except people not wanting to switch to sound money backed by real metals.&lt;/p&gt;&#xA;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Goldbacks jumped 60% in 2025. &lt;br&gt;&lt;br&gt;Meanwhile, the dollar index dropped roughly 10%.&lt;br&gt;&lt;br&gt;This is why sound money matters. &lt;a href=&#34;https://t.co/tojFRObcA4&#34;&gt;pic.twitter.com/tojFRObcA4&lt;/a&gt;&lt;/p&gt;&amp;mdash; Goldback (@Goldback) &lt;a href=&#34;https://x.com/Goldback/status/2008958233994519023?ref_src=twsrc%5Etfw&#34;&gt;January 7, 2026&lt;/a&gt;&lt;/blockquote&gt;&#xA;&lt;script async src=&#34;https://platform.x.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/sound-money-matters/featured-gbs.jpeg" />
     </item>
     
   </channel>

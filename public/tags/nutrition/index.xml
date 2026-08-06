@@ -2,58 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrition on </title>
-    <link>http://localhost:44565/tags/nutrition/</link>
+    <link>http://localhost:44883/tags/nutrition/</link>
     <description>Recent content in Nutrition on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mail@juju.casa (Casa de JuJu)</managingEditor>
     <webMaster>mail@juju.casa (Casa de JuJu)</webMaster>
     <copyright>© 2026 Casa de JuJu</copyright>
-    <lastBuildDate>Mon, 07 Apr 2025 11:19:39 +0200</lastBuildDate><atom:link href="http://localhost:44565/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Apr 2025 11:19:39 +0200</lastBuildDate><atom:link href="http://localhost:44883/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Enslaved by the UFC</title>
-      <link>http://localhost:44565/enslaved-by-the-ufc/</link>
+      <link>http://localhost:44883/enslaved-by-the-ufc/</link>
       <pubDate>Mon, 07 Apr 2025 11:19:39 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/enslaved-by-the-ufc/</guid>
-      <description>Goatis (sv3rige) has solid nutritional and health advice, although his style is not for the soft-hearted snowflakes. Either way, his British accent imitations are the funniest 😂</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/enslaved-by-the-ufc/featured.jpg" />
+      <guid>http://localhost:44883/enslaved-by-the-ufc/</guid>
+      <description>&lt;p&gt;Goatis (sv3rige) has &lt;em&gt;solid&lt;/em&gt; nutritional and health advice, although his style is not for the soft-hearted snowflakes.&#xA;Either way, his British accent imitations are the funniest 😂&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yeGBaPc1X-0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/enslaved-by-the-ufc/featured.jpg" />
     </item>
     
     <item>
       <title>Junk Culture</title>
-      <link>http://localhost:44565/a-complete-inversion-of-everything-that-made-us-human/</link>
+      <link>http://localhost:44883/a-complete-inversion-of-everything-that-made-us-human/</link>
       <pubDate>Tue, 19 Nov 2024 17:42:15 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/a-complete-inversion-of-everything-that-made-us-human/</guid>
-      <description>Scientism is junk science
-News is junk information
-Public school is junk education
-Fiat is junk money
-Doctors are junk healers
-Bureaucracy is junk governance
-Cities are junk villages
-Supermarkets are junk farms
-Religions are junk spirituality
-Television is junk storytelling
-Virtual reality is junk experience
-Celebrities are junk role models
-Fluorescent lights are junk sunlight
-Modernist buildings are junk architecture
-Dating apps are junk connections
-Casual hookup is junk sex</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
+      <guid>http://localhost:44883/a-complete-inversion-of-everything-that-made-us-human/</guid>
+      <description>&lt;p&gt;Scientism is junk science&lt;/p&gt;&#xA;&lt;p&gt;News is junk information&lt;/p&gt;&#xA;&lt;p&gt;Public school is junk education&lt;/p&gt;&#xA;&lt;p&gt;Fiat is junk money&lt;/p&gt;&#xA;&lt;p&gt;Doctors are junk healers&lt;/p&gt;&#xA;&lt;p&gt;Bureaucracy is junk governance&lt;/p&gt;&#xA;&lt;p&gt;Cities are junk villages&lt;/p&gt;&#xA;&lt;p&gt;Supermarkets are junk farms&lt;/p&gt;&#xA;&lt;p&gt;Religions are junk spirituality&lt;/p&gt;&#xA;&lt;p&gt;Television is junk storytelling&lt;/p&gt;&#xA;&lt;p&gt;Virtual reality is junk experience&lt;/p&gt;&#xA;&lt;p&gt;Celebrities are junk role models&lt;/p&gt;&#xA;&lt;p&gt;Fluorescent lights are junk sunlight&lt;/p&gt;&#xA;&lt;p&gt;Modernist buildings are junk architecture&lt;/p&gt;&#xA;&lt;p&gt;Dating apps are junk connections&lt;/p&gt;&#xA;&lt;p&gt;Casual hookup is junk sex&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/a-complete-inversion-of-everything-that-made-us-human/featured-inversion.jpg" />
     </item>
     
     <item>
       <title>Lots of food for a long time</title>
-      <link>http://localhost:44565/lots-of-food-for-a-long-time/</link>
+      <link>http://localhost:44883/lots-of-food-for-a-long-time/</link>
       <pubDate>Mon, 28 Oct 2024 17:03:01 +0200</pubDate>
       <author>mail@juju.casa (Casa de JuJu)</author>
-      <guid>http://localhost:44565/lots-of-food-for-a-long-time/</guid>
-      <description>Game meat provides a lot of food for a long time, and should be a top priority if you live in Norway. Grazing animals are a miracle. Greater calorie density also means we don&amp;rsquo;t have to eat all the time, as we do if we eat plant-based. The choice is ridiculously simple if you live in Norway: All animal and local food is better than importing avocados and bananas from faraway lands.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44565/lots-of-food-for-a-long-time/featured-autumn.jpg" />
+      <guid>http://localhost:44883/lots-of-food-for-a-long-time/</guid>
+      <description>&lt;p&gt;Game meat provides a lot of food for a long time, and should be a top priority if you live in Norway. Grazing animals are a miracle. Greater calorie density also means we don&amp;rsquo;t have to eat all the time, as we do if we eat plant-based. The choice is ridiculously simple if you live in Norway: All animal and local food is better than importing avocados and bananas from faraway lands.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44883/lots-of-food-for-a-long-time/featured-autumn.jpg" />
     </item>
     
   </channel>

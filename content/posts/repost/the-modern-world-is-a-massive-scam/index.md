@@ -7,4 +7,4 @@ tags: ["sunscreen", "sex", "banks", "wealth", "news", "school", "heart", "vegani
 repostAuthor: "Carnivore Aurelius ©🥩 ☀️🦙"  # Original author
 repostLink: "https://x.com/AlpacaAurelius/status/1899149903126736912"  # Link to original post
 ---
-{{< tweet user="AlpacaAurelius" id="1899149903126736912" >}}
+{{< x user="AlpacaAurelius" id="1899149903126736912" >}}
