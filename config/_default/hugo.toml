@@ -1,6 +1,5 @@
 # -- Site Configuration --
 # Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/gettinpx blowfish-toolsng-started/
 
 baseURL = "https://juju.casa/"
 defaultContentLanguage = "en"
@@ -10,7 +9,7 @@ uglyURLs = false
 [permalinks]
   posts = "/:contentbasename/"
 
-[pagination]
+[pagination] 
 pagerSize = 11
 
 summaryLength = 0
@@ -30,7 +29,6 @@ summaryLength = 0
 pluralizeListTitles = false # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 buildDrafts = false
 buildFuture = false
-ShowLanguageSwitcher = false
 enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
@@ -76,4 +74,7 @@ enableEmoji = true
 [services]
   [services.disqus]
     shortname = 'casa-de-juju'
+
+[params]
+  showLanguageSwitcher = false
 

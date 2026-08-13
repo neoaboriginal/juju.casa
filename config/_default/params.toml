@@ -23,7 +23,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "img/interlaced.png" # used as default for background images 
-defaultFeaturedImage = "rev.png" # used as default for featured images in all articles
+defaultFeaturedImage = "img/rev.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -69,7 +69,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showBreadcrumbs = true
   showDraftLabel = false
   showEdit = true
-  editURL = "https://gitlab.com/jujudario/casadejuju/-/tree/main/content/"
+  editURL = "https://github.com/neoaboriginal/juju.casa/edit/main/content/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
