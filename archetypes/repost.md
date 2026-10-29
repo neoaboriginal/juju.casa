@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | humanize }}"
 date: {{ .Date }}
 draft: false
 category: "Repost"  # Personal reposts
-tags: [""]
+tags: []
 repostAuthor: ""  # Original author
 repostLink: ""  # Link to original post
 ---

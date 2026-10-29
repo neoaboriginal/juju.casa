@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | humanize }}"
 date: {{ .Date }}
 draft: false
 category: "Quote"  # Curated quotes
-tags: [""]
+tags: []
 quoteText: ""  # The quote itself
 quoteAuthor: ""  # Author of the quote
 ---

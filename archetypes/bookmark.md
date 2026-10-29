@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | humanize }}"
 date: {{ .Date }}
 draft: false
 category: "Bookmark"  # Curated links
-tags: [""]
+tags: []
 sources: ""  # URL of the linked site
 summary: ""  # Short description, the same as 'description' in the OpenGraph preview
 ---

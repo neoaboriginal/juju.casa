@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | humanize }}"  # Auto-generate title from file
 date: {{ .Date }}
 draft: false
 category: "Music" 
-tags: [""]
+tags: []
 ---
 _Link til Deichmans musikkblogg [her]()._
 

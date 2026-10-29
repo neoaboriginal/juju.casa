@@ -46,7 +46,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/interlaced.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 8
+  showRecentItems = 9
   showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = true
@@ -78,7 +78,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showReadingTime = false
   showTableOfContents = false
   showRelatedContent = true
-  relatedContentLimit = 3
+  relatedContentLimit = 2
   showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = false
@@ -108,7 +108,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [taxonomy]
   showTermCount = true
   showHero = true
-  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -117,7 +117,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [term]
   showHero = true
-  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -180,12 +180,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   email = "mail@juju.casa"
   image = "img/rev.png"
   imageQuality = 100
-  headline = "From 🇨🇴<br>Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
+  headline = "Julian Darío Gutierrez"
   bio = "From 🇨🇴<br>Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"
   links = [
     { rss = "https://juju.casa/index.xml" },
     { email = "mailto:mail@juju.casa" },
     { spotify = "https://open.spotify.com/user/jujudario" },
-    { x-twitter = "https://x.com/jujudario" },
-    
+    { x-twitter = "https://x.com/jujudario" },  
   ]

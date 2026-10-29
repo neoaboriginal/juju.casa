@@ -4,6 +4,7 @@
 baseURL = "https://juju.casa/"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
+enableGitInfo = true
 uglyURLs = false
 
 [permalinks]

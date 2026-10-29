@@ -1,12 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | humanize }}"
+title: "{{ replace .Name \"-\" \" \" | humanize }}"
 date: {{ .Date }}
 draft: false
-category: "Checkin"  # Personal location updates
-tags: [""]
-location: ""  # Location name (e.g., "Café de Paris")
-mapCoordinates: ""  # Latitude,longitude (e.g., "48.8584,2.2945")
+category: "Checkin"
+tags: []
+location: ""
+mapCoordinates: ""  # "lat,lon" e.g. "62.3674,10.6257"
 ---
 
-TRY:
-The OSM URL format is https://tile.openstreetmap.org/<latitude>/<longitude>/<zoom>/<width>x<height>.png. Adjust 15 (zoom) and 800x400 (size) as needed.
+**Location**: 
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=10.58%2C62.35%2C10.67%2C62.38&layer=mapnik&marker=62.3674%2C10.6257">
+</iframe>

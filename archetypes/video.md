@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | humanize }}"
 date: {{ .Date }}
 draft: false
 category: "Video"
-tags: [""]
+tags: []
 videoURL: ""  # Path to your video
 videoCaption: ""  # Video caption
 ---

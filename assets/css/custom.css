@@ -32,3 +32,14 @@ a.article.flex > div.thumbnail {
     background-repeat: no-repeat !important;
     flex-shrink: 0 !important;
 }
+
+/* 
+  Differentiate Categories from Tags
+  Forces blue on the pill and all text inside it.
+*/
+main a[href^="/category/"],
+main a[href^="/category/"] * {
+    color: #3b82f6 !important;
+    border-color: #3b82f6 !important;
+    background-color: transparent !important;
+}
