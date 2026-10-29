@@ -34,11 +34,12 @@ a.article.flex > div.thumbnail {
 }
 
 /*
-  Blue ONLY for the chosen category pill under a post title.
-  Change the category slug in BOTH lines to the one you want.
+  All category pills blue — but only on post pages.
+  #single_header only exists on single posts, so listing pages
+  (/category/, /tags/) and the search box stay untouched.
 */
-#single_header a.relative[href^="/category/repost/"],
-#single_header a.relative[href^="/category/repost/"] * {
+#single_header a.relative[href^="/category/"],
+#single_header a.relative[href^="/category/"] * {
     color: #3b82f6 !important;
     border-color: #3b82f6 !important;
 }
