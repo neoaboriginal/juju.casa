@@ -8,4 +8,4 @@ repostLink: "https://x.com/jujudario/status/1848161468828553345"
 ---
 It’s official: I’m a paranoid crypto anarchist.
 
-{{< tweet user="jujudario" id="1848161468828553345" >}}
+{{< x user="jujudario" id="1848161468828553345" >}}

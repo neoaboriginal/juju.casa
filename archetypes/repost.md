@@ -7,7 +7,7 @@ tags: []
 repostAuthor: ""  # Original author
 repostLink: ""  # Link to original post
 ---
-{{< tweet user="UserName@" id="StringOfNumbers" >}}
+{{< x user="UserName@" id="StringOfNumbers" >}}
 
 OR
 
