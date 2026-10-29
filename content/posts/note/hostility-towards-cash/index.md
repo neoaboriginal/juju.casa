@@ -9,4 +9,4 @@ The hostility towards cash in Norway is astounding. Just today I tried to pay tw
 
 Any centralized, digital system is by its nature compromised, but I guess Norwegians are just waiting for a detonating wake-up call. Regulators are also speeding up the process to [ban the NOK 1000-bill](https://www.nrk.no/rogaland/naeringslivet_-skrot-tusenlappen-1.17656789). Gentle reminder: It's not a crime to want privacy.
 
-Cash is by far the most anonymous payment available today, and losing the right to use cash would be considered a major loss in your right to transact freely. If you are in Norway, and your cash is not accepted - please file a complaint with the Norwegian Consumer Authority (Forbrukertilsynet) [here](https://www.forbrukertilsynet.no/english/complaints-and-conflicts).
+Cash is by far the most anonymous payment available today, and losing the right to use cash would be considered a major loss in your right to transact freely. If you are in Norway, and your cash is not accepted - please file a complaint with the Norwegian Consumer Authority (Forbrukertilsynet) [here](https://www.forbrukertilsynet.no/english).

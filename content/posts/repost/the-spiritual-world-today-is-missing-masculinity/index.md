@@ -3,7 +3,7 @@ title: "The spiritual world today is missing masculinity"
 date: 2025-12-19T20:04:39+02:00
 draft: false
 category: "Repost"  # Personal reposts
-tags: ["spirituality", "masculinity", "devotion", "wisdom", "presence", "energy", "distractions", "validation", "hijack", "intuition", "healing", "discipline", "psychedelics", "commitment", ]
+tags: ["spirituality", "masculinity", "devotion", "wisdom", "presence", "energy", "distractions", "validation", "hijack", "intuition", "healing", "discipline", "psychedelic", "commitment", ]
 repostAuthor: "Carnivore Aurelius"  # Original author
 repostLink: ""  # Link to original post
 ---

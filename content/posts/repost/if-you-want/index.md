@@ -3,7 +3,7 @@ title: "If you want.."
 date: 2024-12-15T19:07:05+02:00
 draft: false
 category: "Repost"  # Personal reposts
-tags: ["challenges", "fitness", "fulfillment", "growth", "meditation", "passion", "peace", "strenght"]
+tags: ["challenges", "fitness", "fulfillment", "growth", "meditation", "passion", "peace", "strength"]
 repostAuthor: "https://t.me/MindsetMachine"  # Original author
 repostLink: "https://t.me/MindsetMachine/2000"  # Link to original post
 ---

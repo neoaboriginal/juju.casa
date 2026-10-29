@@ -3,7 +3,7 @@ title: "Ferske spor: July 2025"  # Auto-generate title from filename
 date: 2025-07-04T14:00:12+02:00
 draft: false
 category: "Music" 
-tags: ["Deichman", "hiphop", "instrumental", "downtempo", "bass", "nostalgia"]
+tags: ["Deichman", "hip-hop", "instrumental", "downtempo", "bass", "nostalgia"]
 ---
 _Link to Deichman music blog in Norwegian 🇳🇴 [here](https://musikk.deichman.no/2025/07/03/ferske-spor-uke-27-2025/#julian)._
 

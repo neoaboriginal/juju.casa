@@ -3,9 +3,9 @@ title: "Laos 2026"
 date: 2026-02-15T21:21:18+01:00
 draft: false
 category: "Photo" # Empty by default (user can set later)
-tags: ["Asia", "Laos", "communism", "flag", "temple", "sunset", "gate", "waterfall", "hot air ballon", "cave", "Amor Fati"]
+tags: ["Asia", "Laos", "communism", "flag", "temple", "sunset", "gate", "waterfall", "hot air balloon", "cave", "Amor Fati"]
 ---
-Explored Laos the last week, a country with vast caves, top-notch waterfalls and even jumped on an airy hot ait ballon ride. Don Det takes it away with the best vibe.
+Explored Laos the last week, a country with vast caves, top-notch waterfalls and even jumped on an airy hot air ballon ride. Don Det takes it away with the best vibe.
 
 {{< gallery >}}
     <img src="gallery/01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />

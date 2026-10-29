@@ -3,7 +3,7 @@ title: "Ferske spor: March 2025"  # Auto-generate title from filename
 date: 2025-03-20T00:01:25+02:00
 draft: false
 category: "Music" 
-tags: ["Deichman", "ambient", "afrobeat", "hiphop", "electronica"]
+tags: ["Deichman", "ambient", "afrobeat", "hip-hop", "electronica"]
 ---
 
 _Link to Deichmans music blog in Norwegian 🇳🇴 [here](https://musikk.deichman.no/2025/03/20/ferske-spor-uke-12-2025/#julian)._ 

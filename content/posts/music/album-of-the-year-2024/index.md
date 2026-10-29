@@ -3,7 +3,7 @@ title: "Deichman: Album of the year 2024"  # Auto-generate title from filename
 date: 2024-12-27T01:08:13+02:00
 draft: false
 category: "Music" 
-tags: ["Deichman", "lo-fi", "chillout", "dance", "hiphop", "ambient", "beats", "nostalgia", "AI", "poetry", "elevator", "confidence", ]
+tags: ["Deichman", "lo-fi", "chillout", "dance", "hip-hop", "ambient", "beats", "nostalgia", "AI", "poetry", "elevator", "confidence", ]
 ---
 
 *Link to Deichmans music blog (in Norwegian 🇳🇴) is available [here](https://musikk.deichman.no/2024/12/27/deichman-arets-album-2024/#julian).*
