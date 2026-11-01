@@ -1,0 +1,24 @@
+{{ $url := .Get "url" }}
+{{ $u := urls.Parse $url }}
+{{ $host := $u.Host }}
+
+{{/* build-time favicon fetch with graceful fallback — never fails the build */}}
+{{ $favicon := printf "https://www.google.com/s2/favicons?sz=64&domain=%s" $host }}
+{{ with try (resources.GetRemote $favicon) }}
+  {{ with .Value }}{{ $favicon = .RelPermalink }}{{ end }}
+{{ end }}
+
+<a href="{{ $url }}" target="_blank" rel="noopener"
+   class="linkcard not-prose group flex items-center gap-4 rounded-lg border border-neutral-300 dark:border-neutral-600 p-4 mb-3 no-underline hover:border-primary-400 transition-colors">
+  <img src="{{ $favicon }}" alt="" width="32" height="32"
+       class="flex-none rounded" loading="lazy" decoding="async">
+  <span class="flex-1 min-w-0">
+    <span class="block font-bold text-neutral-800 dark:text-neutral group-hover:underline">
+      {{ .Get "title" }}
+    </span>
+    <span class="block text-sm text-neutral-500 dark:text-neutral-400">
+      {{ .Get "description" }}
+    </span>
+  </span>
+  <span class="flex-none text-neutral-400 group-hover:text-primary-500">&#8599;</span>
+</a>
