@@ -7,4 +7,4 @@ tags: ["distractions", "pleasure", "purpose",]
 ---
 Find purpose.
 
-![Spartan warrior climbing](/home/juju/juju.casa/content/posts/note/find-purpose/featured-purpose.jpeg)
+![Spartan warrior climbing](content/posts/note/find-purpose/featured-purpose.jpeg)
