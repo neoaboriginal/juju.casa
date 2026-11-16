@@ -1,6 +1,6 @@
 ---
 title: "The best way to leave Poznań"
-date: 2025-10-11T13:02:02+02:00
+date: 2026-10-11T13:02:02+02:00
 draft: false
 category: "Checkin"
 tags: ["minigolf", "Poland", "games", "Luna"]
