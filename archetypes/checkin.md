@@ -5,7 +5,7 @@ draft: false
 category: "Checkin"
 tags: []
 location: ""
-mapCoordinates: ""  # "lat,lon" e.g. "62.3674,10.6257"
+mapCoordinates: ""  # "lat,lon" e.g. "52.407816,16.920699"
 ---
 
 **Location**: 

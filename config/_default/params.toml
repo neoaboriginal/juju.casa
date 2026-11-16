@@ -23,7 +23,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "img/interlaced.png" # used as default for background images 
-defaultFeaturedImage = "img/rev.png" # used as default for featured images in all articles
+defaultFeaturedImage = "img/anon.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -177,8 +177,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [author]
   name = "Casa de JuJu"
-  email = "mail@juju.casa"
-  image = "img/rev.png"
+  email = "magic.reshuffle341@aleeas.com"
+  image = "img/anon.png"
   imageQuality = 100
   headline = "Julian Darío Gutierrez"
   bio = "From 🇨🇴<br>Lives in 🇳🇴 <br> NeoAboriginal 🦊 <br> Kambo practitioner 🐸"

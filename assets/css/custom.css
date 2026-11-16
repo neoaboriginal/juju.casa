@@ -48,3 +48,8 @@ a.article.flex > div.thumbnail {
 .article-link--related .taxonomy-badges {
     display: none !important;
 }
+
+/* Breathing room between author card and Related heading */
+.prose > div.mb-10 + h2 {
+    margin-top: 2.5rem !important;
+}
