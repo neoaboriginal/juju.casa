@@ -1,6 +1,6 @@
 ---
 title: "Effects of their own unlived life"
-date: 2026-11-25T16:33:32+01:00
+date: 2026-11-24T16:33:32+01:00
 draft: false
 category: "Quote"  # Curated quotes
 tags: ["potential", "possibilities", "betrayal", "unexpressed", "bitterness", "psychology", "self-awareness", "suffering",]
