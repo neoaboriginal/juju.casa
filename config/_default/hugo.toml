@@ -72,10 +72,6 @@ enableEmoji = true
       type = 'fragments'
       weight = 10
 
-[services]
-  [services.disqus]
-    shortname = 'casa-de-juju'
-
 [params]
   showLanguageSwitcher = false
 
